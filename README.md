@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
 <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+  <img src ="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211205/e509f2375f59ce27f2b45cff0be9552555df5b0721c177-o9sacc.6r5658yq37s0.jpg">
 </div>
 <br>
 <div>
