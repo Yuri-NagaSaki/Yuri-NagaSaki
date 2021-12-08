@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <b>Working:</b> At home
 </li>
 <br>
-<p><b>     Thanks fow weading this onyee-san<br>
-                  verwy cuwute of chu</b></p>
+<!-- <p><b>     Thanks fow weading this onyee-san<br>
+                  verwy cuwute of chu</b></p> -->
 </div>
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
