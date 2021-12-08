@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-  <img src ="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211205/e509f2375f59ce27f2b45cff0be9552555df5b0721c177-o9sacc.6r5658yq37s0.jpg">
+  <img src ="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c8728b15d7193ce23f241bf86f111ade8baaff36.jpg">
 </div>
 <br>
 <div>
