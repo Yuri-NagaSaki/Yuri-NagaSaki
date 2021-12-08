@@ -30,13 +30,13 @@ Here are some ideas to get you started:
 <b>Fursona:</b> Female Snow Fox > ~ <
 </li>
 <li>
-<b>Loves:</b> you! and cats and games maybe -///-
+<b>Loves:</b> Candy Apple  and games maybe -///-
 </li>
 <li>
 <b>Gender:</b> she/her/Female
 </li>
 <li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
+<b>Hobbys:</b> Tech Stuff,  Web Development
 </li>
 <li>
 <b>Working:</b> At home
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211208/20200228053803_rT5ey.460dfalk7to0.gif" align="right">
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
