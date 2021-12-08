@@ -72,7 +72,7 @@ most used s-s-sociaw things >~< xoxox</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://thumbs.gfycat.com/ElderlyNiceIsopod-size_restricted.gif">
+<img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c7e3ff262011b14a2d5759c1490b68b36eb27a5c38058-BfU7VM.m2mccvurr74.jpg">
 </div>
 <hr>
 </div>
