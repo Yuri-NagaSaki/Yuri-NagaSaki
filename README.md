@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
 </li>
 <li>
-<b>Working @:</b> At home
+<b>Working:</b> At home
 </li>
 <br>
 <p><b>     Thanks fow weading this onyee-san<br>
