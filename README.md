@@ -59,6 +59,9 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+  <a href="https://steamcommunity.com/profiles/76561198182224539/">
+  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+</a>
 <br>
 <p align="center">Here are some of my <br>
 most used s-s-sociaw things >~< xoxox</p>
