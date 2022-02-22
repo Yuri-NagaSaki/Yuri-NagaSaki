@@ -87,7 +87,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/privatenumber/tasuku>privatenumber/tasuku</a><p>✅ タスク — The minimal task runner for Node.js</p></li><li><a href=https://github.com/sivan/heti>sivan/heti</a><p>赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。</p></li><li><a href=https://github.com/xjh22222228/awesome-web-editor>xjh22222228/awesome-web-editor</a><p>🔨 Open source WEB editor summary</p></li><li><a href=https://github.com/Lakr233/Rayon>Lakr233/Rayon</a><p>yet another SSH machine manager</p></li><li><a href=https://github.com/PGYER/codefever>PGYER/codefever</a><p>CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!</p></li></ul>
+<ul><li><a href=https://github.com/mikecao/umami>mikecao/umami</a><p>Umami is a simple, fast, website analytics alternative to Google Analytics.</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li><li><a href=https://github.com/soheilpro/mailwind>soheilpro/mailwind</a><p>Use Tailwind CSS to design HTML emails.</p></li><li><a href=https://github.com/egoist/tsup>egoist/tsup</a><p>The simplest and fastest way to bundle your TypeScript libraries.</p></li><li><a href=https://github.com/enesozturk/react-native-ios>enesozturk/react-native-ios</a><p>iOS UI implementation in React Native with gestures and animations 🍏</p></li></ul>
 
 **你能找到我吗**
 
@@ -96,4 +96,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/22/22, 8:22 AM<br>下一次刷新：2/22/22, 11:22 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：2/22/22, 11:05 AM<br>下一次刷新：2/22/22, 2:05 PM</p>
