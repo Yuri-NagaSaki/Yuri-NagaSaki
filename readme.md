@@ -75,7 +75,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>10/19/2021</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>1/2/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>10/19/2021</td></tr><tr><td><a href=https://github.com/Innei/simple-clock target=_blank><b>Innei/simple-clock</b></a> <a href=https://simple-clock-lb0hde3kr-innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/simple-clock?style=flat-square&labelColor=343b41"></td><td>8/22/2020</td><td>1/2/2022</td></tr><tr><td><a href=https://github.com/Innei/pageproxy target=_blank><b>Innei/pageproxy</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/pageproxy?style=flat-square&labelColor=343b41"></td><td>8/5/2021</td><td>8/7/2021</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -87,7 +87,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/epiphone/class-validator-jsonschema>epiphone/class-validator-jsonschema</a><p>Convert class-validator-decorated classes into JSON schema</p></li><li><a href=https://github.com/NaturalSelectionLabs/RSS3-Protocol>NaturalSelectionLabs/RSS3-Protocol</a><p>RSS3 is a next-generation feed standard that aims to support efficient and decentralized information distribution.</p></li><li><a href=https://github.com/antfu/icones>antfu/icones</a><p>⚡️ Icon Explorer with Instant searching, powered by Iconify</p></li><li><a href=https://github.com/07akioni/ilw>07akioni/ilw</a><p>Isomorphic logger wrapper. 同构日志打印适配器</p></li><li><a href=https://github.com/vadimdemedes/tailwind-rn>vadimdemedes/tailwind-rn</a><p>🦎 Use Tailwind CSS in React Native projects</p></li></ul>
+<ul><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li><li><a href=https://github.com/egoist/tsup>egoist/tsup</a><p>The simplest and fastest way to bundle your TypeScript libraries.</p></li><li><a href=https://github.com/catdad/canvas-confetti>catdad/canvas-confetti</a><p>🎉 on-demand confetti gun</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li><li><a href=https://github.com/radix-ui/primitives>radix-ui/primitives</a><p>An open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @modulz.</p></li></ul>
 
 **你能找到我吗**
 
@@ -96,4 +96,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/1/22, 5:07 AM<br>下一次刷新：3/1/22, 8:07 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/1/22, 8:30 AM<br>下一次刷新：3/1/22, 11:30 AM</p>
