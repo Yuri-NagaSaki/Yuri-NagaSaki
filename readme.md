@@ -75,7 +75,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/react-typewriter target=_blank><b>Innei/react-typewriter</b></a> <a href=https://react-typewriter.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/react-typewriter?style=flat-square&labelColor=343b41"></td><td>12/10/2021</td><td>3/7/2022</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>5/27/2021</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>3/8/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/bump-version target=_blank><b>Innei/bump-version</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td>10/2/2021</td><td>2/18/2022</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>5/27/2021</td></tr><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>3/8/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -87,7 +87,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/07akioni/ilw>07akioni/ilw</a><p>Isomorphic logger wrapper. 同构日志打印适配器</p></li><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li><li><a href=https://github.com/automerge/automerge>automerge/automerge</a><p>A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.</p></li><li><a href=https://github.com/bcherny/json-schema-to-typescript>bcherny/json-schema-to-typescript</a><p>Compile JSONSchema to TypeScript type declarations</p></li><li><a href=https://github.com/tailwindlabs/headlessui>tailwindlabs/headlessui</a><p>Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.</p></li></ul>
+<ul><li><a href=https://github.com/soheilpro/mailwind>soheilpro/mailwind</a><p>Use Tailwind CSS to design HTML emails.</p></li><li><a href=https://github.com/saveweb/review-2021>saveweb/review-2021</a><p>今年，你写年终总结了吗？</p></li><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><p>程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).</p></li><li><a href=https://github.com/puppeteer/puppeteer>puppeteer/puppeteer</a><p>Headless Chrome Node.js API</p></li><li><a href=https://github.com/mdx-js/mdx>mdx-js/mdx</a><p>Markdown for the component era</p></li></ul>
 
 **你能找到我吗**
 
@@ -96,4 +96,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/10/22, 11:11 AM<br>下一次刷新：3/10/22, 2:11 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/10/22, 2:07 PM<br>下一次刷新：3/10/22, 5:07 PM</p>
