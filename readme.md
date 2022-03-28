@@ -75,7 +75,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/bump-version target=_blank><b>Innei/bump-version</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/bump-version?style=flat-square&labelColor=343b41"></td><td>10/2/2021</td><td>2/18/2022</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>3/26/2022</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>5/27/2021</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Innei/animate-uri target=_blank><b>Innei/animate-uri</b></a> <a href=https://innei.github.io/animate-uri/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/animate-uri?style=flat-square&labelColor=343b41"></td><td>8/13/2020</td><td>3/26/2022</td></tr><tr><td><a href=https://github.com/Innei/shuffle-article target=_blank><b>Innei/shuffle-article</b></a> <a href=https://innei.github.io/shuffle-article/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/shuffle-article?style=flat-square&labelColor=343b41"></td><td>5/11/2021</td><td>5/27/2021</td></tr><tr><td><a href=https://github.com/Innei/candy target=_blank><b>Innei/candy</b></a> <a href=https://candy-git-demo.innei.vercel.app/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Innei/candy?style=flat-square&labelColor=343b41"></td><td>9/5/2020</td><td>3/26/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -87,7 +87,7 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/solstice23/argon-theme>solstice23/argon-theme</a><p>📖 Argon - 一个轻盈、简洁的 WordPress 主题</p></li><li><a href=https://github.com/Hagb/docker-easyconnect>Hagb/docker-easyconnect</a><p>使深信服（Sangfor）开发的非自由的代理软件 EasyConnect 运行在 docker 或 podman 中，并作为网关和/或提供 socks5、http 代理服务</p></li><li><a href=https://github.com/impressivewebs/frontend-feeds>impressivewebs/frontend-feeds</a><p>An up to date list of RSS feeds for front-end developers.</p></li><li><a href=https://github.com/antfu/icones>antfu/icones</a><p>⚡️ Icon Explorer with Instant searching, powered by Iconify</p></li><li><a href=https://github.com/alibaba/formily>alibaba/formily</a><p>Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3</p></li></ul>
+<ul><li><a href=https://github.com/Anduin2017/HowToCook>Anduin2017/HowToCook</a><p>程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).</p></li><li><a href=https://github.com/solstice23/argon-theme>solstice23/argon-theme</a><p>📖 Argon - 一个轻盈、简洁的 WordPress 主题</p></li><li><a href=https://github.com/vadimdemedes/tailwind-rn>vadimdemedes/tailwind-rn</a><p>🦎 Use Tailwind CSS in React Native projects</p></li><li><a href=https://github.com/mikecao/umami>mikecao/umami</a><p>Umami is a simple, fast, website analytics alternative to Google Analytics.</p></li><li><a href=https://github.com/schrodinger/fixed-data-table-2>schrodinger/fixed-data-table-2</a><p>A React table component designed to allow presenting millions of rows of data.</p></li></ul>
 
 **你能找到我吗**
 
@@ -96,4 +96,4 @@ Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段�
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/28/22, 5:03 AM<br>下一次刷新：3/28/22, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：3/28/22, 8:26 AM<br>下一次刷新：3/28/22, 11:26 AM</p>
