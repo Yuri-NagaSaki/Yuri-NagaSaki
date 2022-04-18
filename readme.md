@@ -2,13 +2,13 @@
  * @Author: Sayyiku
  * @Date: 2022-04-18 19:11:19
  * @LastEditors: Sayyiku
- * @LastEditTime: 2022-04-18 21:26:22
+ * @LastEditTime: 2022-04-18 21:33:21
  * @FilePath: \Innei\readme.template.md
  * @Description: 
  * 
  * Copyright (c) 2022 by Sayyiku, All Rights Reserved. 
 -->
-# Sayyiku 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@8f09fc45-b1aa-4951-8046-13cde4bedc14)
+# 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@8f09fc45-b1aa-4951-8046-13cde4bedc14)
 <body>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
@@ -94,13 +94,13 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/The-Run-Philosophy-Organization/run>The-Run-Philosophy-Organization/run</a><p>润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。</p></li><li><a href=https://github.com/dromara/hutool>dromara/hutool</a><p>🍬A set of tools that keep Java sweet.</p></li><li><a href=https://github.com/ant-design/pro-components>ant-design/pro-components</a><p>🏆 Use Ant Design like a Pro!</p></li><li><a href=https://github.com/Serendipity-Theme/windows-terminal>Serendipity-Theme/windows-terminal</a><p>Serendipity theme ported to windows terminal.</p></li><li><a href=https://github.com/ziishaned/learn-regex>ziishaned/learn-regex</a><p>Learn regex the easy way</p></li></ul>
+<ul><li><a href=https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo>Wechat-ggGitHub/Awesome-GitHub-Repo</a><p>收集整理 GitHub 上高质量、有趣的开源项目。</p></li><li><a href=https://github.com/dromara/hutool>dromara/hutool</a><p>🍬A set of tools that keep Java sweet.</p></li><li><a href=https://github.com/wuyouzhuguli/SpringAll>wuyouzhuguli/SpringAll</a><p>循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc</p></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</p></li><li><a href=https://github.com/OBKoro1/koro1FileHeader>OBKoro1/koro1FileHeader</a><p>VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。</p></li></ul>
 
 **你能找到我吗**
 
 <p><a href="https://github.com/Sayyiku" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
 
 ------------
-
+Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/22, 9:27 PM<br>下一次刷新：4/19/22, 12:27 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/22, 9:34 PM<br>下一次刷新：4/19/22, 12:34 AM</p>
