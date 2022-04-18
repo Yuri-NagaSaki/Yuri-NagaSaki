@@ -72,6 +72,9 @@ most used s-s-social things >~< xoxox</p>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c7e3ff262011b14a2d5759c1490b68b36eb27a5c38058-BfU7VM.m2mccvurr74.jpg">
 </div>
+  <p align="center">
+  <a href="https://github.com/Sayyiku"><img src="https://github-readme-stats.vercel.app/api?username=Sayyiku&hide_border=true&show_icons=true" alt="Sayyiku's github stats"></a>
+</p>
 <hr>
 </div>
 </div>
@@ -95,7 +98,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/personqianduixue/Math_Model>personqianduixue/Math_Model</a><p>数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法</p></li><li><a href=https://github.com/amplication/amplication>amplication/amplication</a><p>Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.</p></li><li><a href=https://github.com/kumard3/dev.ui>kumard3/dev.ui</a><p>Dev ui - it is a collection of ui components and templates</p></li><li><a href=https://github.com/amehime/hexo-theme-shoka>amehime/hexo-theme-shoka</a><p>Just For https://shoka.lostyu.me/</p></li><li><a href=https://github.com/hackjutsu/Lepton>hackjutsu/Lepton</a><p>💻 Democratizing Snippet Management (macOS/Win/Linux)</p></li></ul>
+<ul><li><a href=https://github.com/1c7/Crash-Course-Computer-Science-Chinese>1c7/Crash-Course-Computer-Science-Chinese</a><p>:computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)</p></li><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><p>科技爱好者周刊，每周五发布</p></li><li><a href=https://github.com/personqianduixue/Math_Model>personqianduixue/Math_Model</a><p>数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法</p></li><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li><li><a href=https://github.com/webbery/civet>webbery/civet</a><p>一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.</p></li></ul>
 
 **你能找到我吗**
 
@@ -104,4 +107,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/22, 9:17 PM<br>下一次刷新：4/19/22, 12:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/22, 9:18 PM<br>下一次刷新：4/19/22, 12:18 AM</p>
