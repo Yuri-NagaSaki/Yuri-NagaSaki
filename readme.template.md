@@ -1,6 +1,16 @@
-# Innei 🧑🏻‍💻 ![](https://visitor-badge.laobi.icu/badge?page_id=Innei.readme) [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@9213dc96-df0d-4e66-b0bb-50f9e04e988c)
+<!--
+ * @Author: Sayyiku
+ * @Date: 2022-04-18 19:11:19
+ * @LastEditors: Sayyiku
+ * @LastEditTime: 2022-04-18 19:28:45
+ * @FilePath: \Innei\readme.template.md
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by Sayyiku, All Rights Reserved. 
+-->
+# Sayyiku 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@8f09fc45-b1aa-4951-8046-13cde4bedc14)
 
-Innei 是一个热衷于探索全栈开发新事物的初级萌新。现阶段为在读学生，坐标温州。
+Sayyiku 是一个热衷于探索全栈开发新事物的初级萌新。现阶段为在读学生，坐标温州。
 
 在互联网领域，他常常在 GitHub 中活跃，并且向往于成为自由独立开发者。他具备以下技能：
 
