@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sayyiku/Sayyiku.git"
+    "url": "git+https://github.com/Innei/Innei.git"
   },
   "keywords": [],
   "author": "Innei",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sayyiku/Sayyiku/issues"
+    "url": "https://github.com/Innei/Innei/issues"
   },
-  "homepage": "https://github.com/Sayyiku/Sayyiku#readme",
+  "homepage": "https://github.com/Innei/Innei#readme",
   "dependencies": {
     "@types/html-minifier": "4.0.1",
     "@types/node": "16.10.3",
