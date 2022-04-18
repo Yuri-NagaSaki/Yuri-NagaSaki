@@ -2,13 +2,13 @@
  * @Author: Sayyiku
  * @Date: 2022-04-18 19:11:19
  * @LastEditors: Sayyiku
- * @LastEditTime: 2022-04-18 21:26:22
+ * @LastEditTime: 2022-04-18 21:33:21
  * @FilePath: \Innei\readme.template.md
  * @Description: 
  * 
  * Copyright (c) 2022 by Sayyiku, All Rights Reserved. 
 -->
-# Sayyiku 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@8f09fc45-b1aa-4951-8046-13cde4bedc14)
+# 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@8f09fc45-b1aa-4951-8046-13cde4bedc14)
 <body>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
@@ -101,6 +101,6 @@ most used s-s-social things >~< xoxox</p>
 <p><a href="https://github.com/Sayyiku" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
 
 ------------
-
+Thanks，[@innei](https://innei.ren)
 <!-- motto -->
 <!-- footer_inject -->
