@@ -2,7 +2,7 @@
  * @Author: Sayyiku
  * @Date: 2022-04-18 19:11:19
  * @LastEditors: Sayyiku
- * @LastEditTime: 2022-04-18 19:14:23
+ * @LastEditTime: 2022-04-18 19:37:55
  * @FilePath: \Innei\config.ts
  * @Description: 
  * 
@@ -10,29 +10,20 @@
  */
 export const opensource = {
   active: [
-    'mx-space/kami',
-    'mx-space/mx-server',
-    'mx-space/mx-admin',
-    'mx-space/api-client',
+    'Sayyiku/MoeMarry',
+    'Sayyiku/Pixiv-daily-ranking-widget',
   ],
   toys: {
     limit: 3,
     random: true,
     repos: [
-      'Innei/react-typewriter',
-      'Innei/simple-clock',
-      'Innei/shuffle-article',
-      'Innei/bump-version',
-      'Innei/candy',
-      'Innei/pageproxy',
-      'Innei/animate-uri',
-      'Innei/rayon-terminal'
+      'Sayyiku/FormatCode',
     ],
   },
 }
 export const motto = `<p align=center><strong>お可愛いこと。</strong></p>`
 export const github = {
-  name: 'Innei',
+  name: 'Sayyiku',
 }
 
 export const mxSpace = {
