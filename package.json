@@ -1,7 +1,7 @@
 {
-  "name": "innei",
+  "name": "Sayyiku",
   "private": true,
-  "description": "Innei's profile",
+  "description": "Sayyiku's profile",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev index.ts",
@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Innei/Innei.git"
+    "url": "git+https://github.com/Sayyiku/Sayyiku.git"
   },
   "keywords": [],
   "author": "Innei",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Innei/Innei/issues"
+    "url": "https://github.com/Sayyiku/Sayyiku/issues"
   },
-  "homepage": "https://github.com/Innei/Innei#readme",
+  "homepage": "https://github.com/Sayyiku/Sayyiku#readme",
   "dependencies": {
     "@types/html-minifier": "4.0.1",
     "@types/node": "16.10.3",

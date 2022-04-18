@@ -1,3 +1,13 @@
+/*
+ * @Author: Sayyiku
+ * @Date: 2022-04-18 19:11:19
+ * @LastEditors: Sayyiku
+ * @LastEditTime: 2022-04-18 19:14:23
+ * @FilePath: \Innei\config.ts
+ * @Description: 
+ * 
+ * Copyright (c) 2022 by Sayyiku, All Rights Reserved. 
+ */
 export const opensource = {
   active: [
     'mx-space/kami',
@@ -26,8 +36,8 @@ export const github = {
 }
 
 export const mxSpace = {
-  url: 'https://innei.ren',
-  api: 'https://api.innei.ren/v2',
+  url: 'https://iris.lirica.cn',
+  api: 'https://iris.lirica.cn/api/v2',
 }
 
 export const timeZone = 'Asia/Shanghai'
