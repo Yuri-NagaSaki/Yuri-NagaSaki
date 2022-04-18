@@ -1,6 +1,6 @@
 export const opensource = {
   active: [
-    'Sayyiku/FormatCode',
+    'Sayyiku/FormatCode'
   ],
   toys: {
     limit: 3,
@@ -9,7 +9,7 @@ export const opensource = {
       'Sayyiku/FormatCode',
       'Sayyiku/NormalUtils',
       'Sayyiku/gatsby-starter-portfolio-cara',
-      'Sayyiku/MoeMarry',
+      'Sayyiku/MoeMarry'
     ],
   },
 }
