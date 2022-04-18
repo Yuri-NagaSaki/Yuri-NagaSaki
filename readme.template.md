@@ -2,7 +2,7 @@
  * @Author: Sayyiku
  * @Date: 2022-04-18 19:11:19
  * @LastEditors: Sayyiku
- * @LastEditTime: 2022-04-18 21:09:39
+ * @LastEditTime: 2022-04-18 21:12:25
  * @FilePath: \Innei\readme.template.md
  * @Description: 
  * 
@@ -11,8 +11,6 @@
 <body>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
-# Sayyiku 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@8f09fc45-b1aa-4951-8046-13cde4bedc14)
-
 <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
   <img src ="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c8728b15d7193ce23f241bf86f111ade8baaff36.jpg">
@@ -72,9 +70,7 @@ most used s-s-social things >~< xoxox</p>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c7e3ff262011b14a2d5759c1490b68b36eb27a5c38058-BfU7VM.m2mccvurr74.jpg">
 </div>
-  <p align="center">
-  <a href="https://github.com/Sayyiku"><img src="https://github-readme-stats.vercel.app/api?username=Sayyiku&hide_border=true&show_icons=true" alt="Sayyiku's github stats"></a>
-</p>
+
 <hr>
 </div>
 </div>
