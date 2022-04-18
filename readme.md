@@ -2,13 +2,12 @@
  * @Author: Sayyiku
  * @Date: 2022-04-18 19:11:19
  * @LastEditors: Sayyiku
- * @LastEditTime: 2022-04-18 21:36:25
+ * @LastEditTime: 2022-04-18 21:41:47
  * @FilePath: \Innei\readme.template.md
  * @Description: 
  * 
  * Copyright (c) 2022 by Sayyiku, All Rights Reserved. 
 -->
-# 🧑🏻‍💻[![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)]
 <body>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
@@ -94,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/hackjutsu/Lepton>hackjutsu/Lepton</a><p>💻 Democratizing Snippet Management (macOS/Win/Linux)</p></li><li><a href=https://github.com/1c7/Crash-Course-Computer-Science-Chinese>1c7/Crash-Course-Computer-Science-Chinese</a><p>:computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)</p></li><li><a href=https://github.com/CyC2018/CS-Notes>CyC2018/CS-Notes</a><p>:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计</p></li><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers (Beta)</p></li><li><a href=https://github.com/dromara/hutool>dromara/hutool</a><p>🍬A set of tools that keep Java sweet.</p></li></ul>
+<ul><li><a href=https://github.com/hackjutsu/Lepton>hackjutsu/Lepton</a><p>💻 Democratizing Snippet Management (macOS/Win/Linux)</p></li><li><a href=https://github.com/amplication/amplication>amplication/amplication</a><p>Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.</p></li><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li><li><a href=https://github.com/kumard3/dev.ui>kumard3/dev.ui</a><p>Dev ui - it is a collection of ui components and templates</p></li><li><a href=https://github.com/byoungd/English-level-up-tips>byoungd/English-level-up-tips</a><p>An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。</p></li></ul>
 
 **你能找到我吗**
 
@@ -103,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/22, 9:39 PM<br>下一次刷新：4/19/22, 12:39 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/22, 9:42 PM<br>下一次刷新：4/19/22, 12:42 AM</p>
