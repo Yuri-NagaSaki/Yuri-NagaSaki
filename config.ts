@@ -1,22 +1,12 @@
 export const opensource = {
   active: [
-    'mx-space/kami',
-    'mx-space/mx-server',
-    'mx-space/mx-admin',
-    'mx-space/api-client',
+    'Sayyiku/FormatCode',
   ],
   toys: {
-    limit: 3,
+    limit: 1,
     random: true,
     repos: [
-      'Innei/react-typewriter',
-      'Innei/simple-clock',
-      'Innei/shuffle-article',
-      'Innei/bump-version',
-      'Innei/candy',
-      'Innei/pageproxy',
-      'Innei/animate-uri',
-      'Innei/rayon-terminal'
+      'Sayyiku/FormatCode',
     ],
   },
 }
