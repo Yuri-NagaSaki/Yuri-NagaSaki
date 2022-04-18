@@ -8,7 +8,7 @@
  * 
  * Copyright (c) 2022 by Sayyiku, All Rights Reserved. 
 -->
-# 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@8f09fc45-b1aa-4951-8046-13cde4bedc14)
+
 <body>
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
 <br>
