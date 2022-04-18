@@ -1,7 +1,7 @@
 {
-  "name": "Sayyiku",
+  "name": "innei",
   "private": true,
-  "description": "Sayyiku's profile",
+  "description": "Innei's profile",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev index.ts",
