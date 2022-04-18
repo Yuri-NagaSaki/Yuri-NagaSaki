@@ -72,9 +72,6 @@ most used s-s-social things >~< xoxox</p>
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c7e3ff262011b14a2d5759c1490b68b36eb27a5c38058-BfU7VM.m2mccvurr74.jpg">
 </div>
-  <p align="center">
-  <a href="https://github.com/Sayyiku"><img src="https://github-readme-stats.vercel.app/api?username=Sayyiku&hide_border=true&show_icons=true" alt="Sayyiku's github stats"></a>
-</p>
 <hr>
 </div>
 </div>
