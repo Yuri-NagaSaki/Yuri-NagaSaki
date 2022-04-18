@@ -2,82 +2,83 @@
  * @Author: Sayyiku
  * @Date: 2022-04-18 19:11:19
  * @LastEditors: Sayyiku
- * @LastEditTime: 2022-04-18 19:52:08
+ * @LastEditTime: 2022-04-18 21:09:39
  * @FilePath: \Innei\readme.template.md
  * @Description: 
  * 
  * Copyright (c) 2022 by Sayyiku, All Rights Reserved. 
 -->
+<body>
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<br>
 # Sayyiku 🧑🏻‍💻 [![wakatime](https://wakatime.com/badge/user/9213dc96-df0d-4e66-b0bb-50f9e04e988c.svg)](https://wakatime.com/@8f09fc45-b1aa-4951-8046-13cde4bedc14)
 
-Sayyiku 是一个热衷于探索全栈开发新事物的初级萌新。现阶段为在读学生，坐标温州。
+<div align="center">
+<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+  <img src ="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c8728b15d7193ce23f241bf86f111ade8baaff36.jpg">
+</div>
+<br>
+<div>
+<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
+<!-- <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
+  <img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/images/20170807094904_xcPrZ.2pkmcuhkwh40.jpeg" align="right" width="373.5px" height="208.5px">
+<li>
+<b>Name:</b> Sayyiku</li>
+<li>
+<b>Fursona:</b> Female Snow Fox > ~ <
+</li>
+<li>
+<b>Loves:</b> Candy Apple  and games maybe -///-
+</li>
+<li>
+<b>Gender:</b> she/her/Female
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff,  Web Development
+</li>
+<li>
+<b>Working:</b> At home
+</li>
 
-在互联网领域，他常常在 GitHub 中活跃，并且向往于成为自由独立开发者。他具备以下技能：
-
-**Web Developer**
-
+<br>
+<!-- <p><b>     Thanks fow weading this onyee-san<br>
+                  verwy cuwute of chu</b></p> -->
+</div>
+<div>
+<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="TypeScript"
-    src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="Apollo"
-    src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat-square&logo=apollo-graphql&logoColor=white" />
-  <img alt="GraphQL"
-    src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components"
-    src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Rollup"
-    src="https://img.shields.io/badge/-Rollup-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white" />
-
-<img alt="Prettier"
-    src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-<img alt="TailwindCSS"
-    src="https://img.shields.io/badge/-tailwindcss-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img alt="Vite 2" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
-<img alt="Vue 3" src="https://img.shields.io/badge/-Vue-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
-
+<!-- <img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211208/20200228053803_rT5ey.460dfalk7to0.gif" align="right"> -->
+  <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" width="373.5px" height="208.5px">
+</div>
+<div>
+<p align="center"><img src="https://img.shields.io/badge/PS-PhotoShop-orange"/> <img src="https://img.shields.io/badge/JS-JavaScript-blueviolet"/> <img src="https://img.shields.io/badge/-Python-blueviolet"/><br>
+ <img src="https://img.shields.io/badge/-JAVA-important"/> <img src="https://img.shields.io/badge/-Vue-success"/> <img src="https://img.shields.io/badge/-Spring-brightgreen"/> <br><br>
+Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design, which i mostly post on Twitter, where a big part my Stuff already is sitting
 </p>
-
-**Backend Developer (maybe)**
-
-<p>
-  <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
-  <img alt="NodeJS" src="https://img.shields.io/badge/-NodeJS-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="MongoDB"
-    src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express"
-    src="https://img.shields.io/badge/-express-13aa52?style=flat-square&logo=express&logoColor=white" />
+<br>
+<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
+</a>
+<br>
+<p align="center">Here are some of my <br>
+most used s-s-social things >~< xoxox</p>
+<p align="center"><a href="https://twitter.com/liricarain" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ff69b4"/></a> 
+<a href="https://steamcommunity.com/profiles/76561198985581347/" target="_blank"><img src="https://img.shields.io/badge/-Steam-orange"/>
+</a>
+</div>
+<br>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c7e3ff262011b14a2d5759c1490b68b36eb27a5c38058-BfU7VM.m2mccvurr74.jpg">
+</div>
+  <p align="center">
+  <a href="https://github.com/Sayyiku"><img src="https://github-readme-stats.vercel.app/api?username=Sayyiku&hide_border=true&show_icons=true" alt="Sayyiku's github stats"></a>
 </p>
-
-**iOS Developer (prospective)**
-
-<p>
-  <img alt="SwiftUI" src="https://img.shields.io/badge/-SwiftUI-EB543A?style=flat-square&logo=swift&logoColor=white" />
-  <img alt="RN" src="https://img.shields.io/badge/-ReactNative-7DD0EF?style=flat-square&logo=react&logoColor=white" />
-
-</p>
-
-**DevOps**
-
-<p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="github actions"
-    src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-DB652A?style=flat-square&logo=ubuntu&logoColor=white" />
-</p>
-
-**Environment**
-
-<p>
-  <img alt="macOS" src="https://img.shields.io/badge/-macOS-333?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
-  <img alt="nvim" src="https://img.shields.io/badge/NeoVim-649047?style=flat-square&logo=neovim&logoColor=ffffff" />
-</p>
+<hr>
+</div>
+</div>
+</body>
 
 **开源在...**
 
@@ -97,7 +98,7 @@ Sayyiku 是一个热衷于探索全栈开发新事物的初级萌新。现阶段
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/OBKoro1/koro1FileHeader>OBKoro1/koro1FileHeader</a><p>VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。</p></li><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>React components library with native dark theme support</p></li><li><a href=https://github.com/webbery/civet>webbery/civet</a><p>一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.</p></li><li><a href=https://github.com/personqianduixue/Math_Model>personqianduixue/Math_Model</a><p>数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法</p></li><li><a href=https://github.com/The-Run-Philosophy-Organization/run>The-Run-Philosophy-Organization/run</a><p>润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。</p></li></ul>
+<ul><li><a href=https://github.com/tandpfun/skill-icons>tandpfun/skill-icons</a><p>Showcase your skills on your Github readme or resumé with ease ✨</p></li><li><a href=https://github.com/ziishaned/learn-regex>ziishaned/learn-regex</a><p>Learn regex the easy way</p></li><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li><li><a href=https://github.com/The-Run-Philosophy-Organization/run>The-Run-Philosophy-Organization/run</a><p>润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。</p></li><li><a href=https://github.com/amplication/amplication>amplication/amplication</a><p>Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.</p></li></ul>
 
 **你能找到我吗**
 
@@ -106,4 +107,4 @@ Sayyiku 是一个热衷于探索全栈开发新事物的初级萌新。现阶段
 ------------
 
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/22, 9:02 PM<br>下一次刷新：4/19/22, 12:02 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/18/22, 9:10 PM<br>下一次刷新：4/19/22, 12:10 AM</p>
