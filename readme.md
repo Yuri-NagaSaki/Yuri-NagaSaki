@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wangdicoder/tiny-ui>wangdicoder/tiny-ui</a><p>⚛️ A friendly UI component set for React.js</p></li><li><a href=https://github.com/personqianduixue/Math_Model>personqianduixue/Math_Model</a><p>数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法</p></li><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><p>科技爱好者周刊，每周五发布</p></li><li><a href=https://github.com/hackjutsu/Lepton>hackjutsu/Lepton</a><p>💻 Democratizing Snippet Management (macOS/Win/Linux)</p></li><li><a href=https://github.com/AkashiCoin/nonebot_plugins_zhenxun_bot>AkashiCoin/nonebot_plugins_zhenxun_bot</a><p>真寻bot的插件库，稍微修改也可在nonebot2平台通用</p></li></ul>
+<ul><li><a href=https://github.com/RicheyJang/PaimengBot>RicheyJang/PaimengBot</a><p>派蒙Bot：一个使用Onebot协议、基于ZeroBot的QQ娱乐机器人，支持30余种功能，可以大大丰富你的QQ体验或群活跃度，欸嘿。支持多种数据库（包括SQLite、Postgresql、Mysql等）</p></li><li><a href=https://github.com/wuyouzhuguli/SpringAll>wuyouzhuguli/SpringAll</a><p>循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc</p></li><li><a href=https://github.com/dromara/hutool>dromara/hutool</a><p>🍬A set of tools that keep Java sweet.</p></li><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</p></li><li><a href=https://github.com/hackjutsu/Lepton>hackjutsu/Lepton</a><p>💻 Democratizing Snippet Management (macOS/Win/Linux)</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/22, 5:11 AM<br>下一次刷新：4/19/22, 8:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/22, 9:08 AM<br>下一次刷新：4/19/22, 12:08 PM</p>
