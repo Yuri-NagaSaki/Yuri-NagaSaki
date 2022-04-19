@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>React components library with native dark theme support</p></li><li><a href=https://github.com/amplication/amplication>amplication/amplication</a><p>Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.</p></li><li><a href=https://github.com/YunYouJun/cook>YunYouJun/cook</a><p>🍲 好的，今天我们来做菜！OK, Let's Cook!</p></li><li><a href=https://github.com/hackjutsu/Lepton>hackjutsu/Lepton</a><p>💻 Democratizing Snippet Management (macOS/Win/Linux)</p></li><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><p>科技爱好者周刊，每周五发布</p></li></ul>
+<ul><li><a href=https://github.com/webbery/civet>webbery/civet</a><p>一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.</p></li><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>React components library with native dark theme support</p></li><li><a href=https://github.com/1c7/Crash-Course-Computer-Science-Chinese>1c7/Crash-Course-Computer-Science-Chinese</a><p>:computer: 计算机速成课 | Crash Course 字幕组 (全40集 2018-5-1 精校完成)</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo>Wechat-ggGitHub/Awesome-GitHub-Repo</a><p>收集整理 GitHub 上高质量、有趣的开源项目。</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/20/22, 2:15 AM<br>下一次刷新：4/20/22, 5:15 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/20/22, 5:11 AM<br>下一次刷新：4/20/22, 8:11 AM</p>
