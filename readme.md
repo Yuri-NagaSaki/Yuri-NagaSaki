@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/amehime/hexo-theme-shoka>amehime/hexo-theme-shoka</a><p>Just For https://shoka.lostyu.me/</p></li><li><a href=https://github.com/dromara/hutool>dromara/hutool</a><p>🍬A set of tools that keep Java sweet.</p></li><li><a href=https://github.com/wuyouzhuguli/SpringAll>wuyouzhuguli/SpringAll</a><p>循序渐进，学习Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2，博客Spring系列源码：https://mrbird.cc</p></li><li><a href=https://github.com/sxzz/eslint-config>sxzz/eslint-config</a><p>A ESLint config preset</p></li><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><p>科技爱好者周刊，每周五发布</p></li></ul>
+<ul><li><a href=https://github.com/hackjutsu/Lepton>hackjutsu/Lepton</a><p>💻 Democratizing Snippet Management (macOS/Win/Linux)</p></li><li><a href=https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo>Wechat-ggGitHub/Awesome-GitHub-Repo</a><p>收集整理 GitHub 上高质量、有趣的开源项目。</p></li><li><a href=https://github.com/sxzz/eslint-config>sxzz/eslint-config</a><p>A ESLint config preset</p></li><li><a href=https://github.com/amehime/hexo-theme-shoka>amehime/hexo-theme-shoka</a><p>Just For https://shoka.lostyu.me/</p></li><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers (Beta)</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/22, 11:52 AM<br>下一次刷新：4/19/22, 2:52 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/22, 2:16 PM<br>下一次刷新：4/19/22, 5:16 PM</p>
