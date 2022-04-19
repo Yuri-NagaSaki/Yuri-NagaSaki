@@ -85,7 +85,7 @@ most used s-s-social things >~< xoxox</p>
 
 **最近写了...**
 
-<ul><li><span>4/10/22 - <a href=https://iris.lirica.cn/posts/default/javascript>Javascrpit</a></span></li><li><span>4/5/22 - <a href=https://iris.lirica.cn/posts/default/postgresql>在CentOS 7上安装&配置PostgreSQL 12</a></span></li><li><span>4/5/22 - <a href=https://iris.lirica.cn/posts/default/access>GitHub本地ssl问题解决</a></span></li><li><span>4/5/22 - <a href=https://iris.lirica.cn/posts/default/MarkdownExample>Markdown Example</a></span></li><li><span>4/5/22 - <a href="https://iris.lirica.cn/posts/default/Mix Space">Mix Space 部署</a></span></li></ul>
+<ul><li><span>4/19/22 - <a href=https://iris.lirica.cn/posts/default/bubble>JavaScript Algorithms #1- Bubble Sort</a></span></li><li><span>4/10/22 - <a href=https://iris.lirica.cn/posts/default/javascript>Javascrpit</a></span></li><li><span>4/5/22 - <a href=https://iris.lirica.cn/posts/default/postgresql>在CentOS 7上安装&配置PostgreSQL 12</a></span></li><li><span>4/5/22 - <a href=https://iris.lirica.cn/posts/default/access>GitHub本地ssl问题解决</a></span></li><li><span>4/5/22 - <a href=https://iris.lirica.cn/posts/default/MarkdownExample>Markdown Example</a></span></li></ul>
 
 **最近赞了...**
 
@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Kaiyiwing/qwerty-learner>Kaiyiwing/qwerty-learner</a><p>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</p></li><li><a href=https://github.com/amehime/hexo-theme-shoka>amehime/hexo-theme-shoka</a><p>Just For https://shoka.lostyu.me/</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><p>科技爱好者周刊，每周五发布</p></li><li><a href=https://github.com/CyC2018/CS-Notes>CyC2018/CS-Notes</a><p>:books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计</p></li></ul>
+<ul><li><a href=https://github.com/mantinedev/mantine>mantinedev/mantine</a><p>React components library with native dark theme support</p></li><li><a href=https://github.com/amplication/amplication>amplication/amplication</a><p>Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.</p></li><li><a href=https://github.com/YunYouJun/cook>YunYouJun/cook</a><p>🍲 好的，今天我们来做菜！OK, Let's Cook!</p></li><li><a href=https://github.com/hackjutsu/Lepton>hackjutsu/Lepton</a><p>💻 Democratizing Snippet Management (macOS/Win/Linux)</p></li><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><p>科技爱好者周刊，每周五发布</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/19/22, 11:13 PM<br>下一次刷新：4/20/22, 2:13 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/20/22, 2:15 AM<br>下一次刷新：4/20/22, 5:15 AM</p>
