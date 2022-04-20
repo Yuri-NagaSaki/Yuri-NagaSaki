@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/amplication/amplication>amplication/amplication</a><p>Amplication is an open‑source development tool. It helps you develop quality Node.js applications without spending time on repetitive coding tasks.</p></li><li><a href=https://github.com/AkashiCoin/nonebot_plugins_zhenxun_bot>AkashiCoin/nonebot_plugins_zhenxun_bot</a><p>真寻bot的插件库，稍微修改也可在nonebot2平台通用</p></li><li><a href=https://github.com/dromara/hutool>dromara/hutool</a><p>🍬A set of tools that keep Java sweet.</p></li><li><a href=https://github.com/ziishaned/learn-regex>ziishaned/learn-regex</a><p>Learn regex the easy way</p></li><li><a href=https://github.com/OBKoro1/koro1FileHeader>OBKoro1/koro1FileHeader</a><p>VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。</p></li></ul>
+<ul><li><a href=https://github.com/sxzz/eslint-config>sxzz/eslint-config</a><p>A ESLint config preset</p></li><li><a href=https://github.com/byoungd/English-level-up-tips>byoungd/English-level-up-tips</a><p>An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。</p></li><li><a href=https://github.com/OBKoro1/koro1FileHeader>OBKoro1/koro1FileHeader</a><p>VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers (Beta)</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/20/22, 11:14 PM<br>下一次刷新：4/21/22, 2:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/21/22, 2:15 AM<br>下一次刷新：4/21/22, 5:15 AM</p>
