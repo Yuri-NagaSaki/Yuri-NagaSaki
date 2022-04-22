@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/webbery/civet>webbery/civet</a><p>一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.</p></li><li><a href=https://github.com/The-Run-Philosophy-Organization/run>The-Run-Philosophy-Organization/run</a><p>润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。</p></li><li><a href=https://github.com/sxzz/eslint-config>sxzz/eslint-config</a><p>A ESLint config preset</p></li><li><a href=https://github.com/MakinoharaShoko/WebGAL_Terre>MakinoharaShoko/WebGAL_Terre</a><p>Galgame Editing. Redefined</p></li><li><a href=https://github.com/strapi/strapi>strapi/strapi</a><p>🚀 Open source Node.js Headless CMS to easily build customisable APIs</p></li></ul>
+<ul><li><a href=https://github.com/personqianduixue/Math_Model>personqianduixue/Math_Model</a><p>数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法</p></li><li><a href=https://github.com/webbery/civet>webbery/civet</a><p>一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.</p></li><li><a href=https://github.com/OBKoro1/koro1FileHeader>OBKoro1/koro1FileHeader</a><p>VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li><li><a href=https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo>Wechat-ggGitHub/Awesome-GitHub-Repo</a><p>收集整理 GitHub 上高质量、有趣的开源项目。</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/22/22, 8:24 PM<br>下一次刷新：4/22/22, 11:24 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/22/22, 11:13 PM<br>下一次刷新：4/23/22, 2:13 AM</p>
