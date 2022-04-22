@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AkashiCoin/nonebot_plugins_zhenxun_bot>AkashiCoin/nonebot_plugins_zhenxun_bot</a><p>真寻bot的插件库，稍微修改也可在nonebot2平台通用</p></li><li><a href=https://github.com/RicheyJang/PaimengBot>RicheyJang/PaimengBot</a><p>派蒙Bot：一个使用Onebot协议、基于ZeroBot的QQ娱乐机器人，支持30余种功能，可以大大丰富你的QQ体验或群活跃度，欸嘿。支持多种数据库（包括SQLite、Postgresql、Mysql等）</p></li><li><a href=https://github.com/YunYouJun/cook>YunYouJun/cook</a><p>🍲 好的，今天我们来做菜！OK, Let's Cook!</p></li><li><a href=https://github.com/ruanyf/weekly>ruanyf/weekly</a><p>科技爱好者周刊，每周五发布</p></li><li><a href=https://github.com/OBKoro1/koro1FileHeader>OBKoro1/koro1FileHeader</a><p>VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。</p></li></ul>
+<ul><li><a href=https://github.com/rishimohan/pika>rishimohan/pika</a><p>Quickly design beautiful screenshots and open graph images</p></li><li><a href=https://github.com/ziishaned/learn-regex>ziishaned/learn-regex</a><p>Learn regex the easy way</p></li><li><a href=https://github.com/webbery/civet>webbery/civet</a><p>一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.</p></li><li><a href=https://github.com/sxzz/eslint-config>sxzz/eslint-config</a><p>A ESLint config preset</p></li><li><a href=https://github.com/strapi/strapi>strapi/strapi</a><p>🚀 Open source Node.js Headless CMS to easily build customisable APIs</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/22/22, 5:11 AM<br>下一次刷新：4/22/22, 8:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/22/22, 9:04 AM<br>下一次刷新：4/22/22, 12:04 PM</p>
