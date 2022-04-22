@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rishimohan/pika>rishimohan/pika</a><p>Quickly design beautiful screenshots and open graph images</p></li><li><a href=https://github.com/webbery/civet>webbery/civet</a><p>一款类似Eagle的，基于electron-vue及C++开发的本地图片素材管理软件。An Image management software.</p></li><li><a href=https://github.com/youngyangyang04/leetcode-master>youngyangyang04/leetcode-master</a><p>《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/AkashiCoin/nonebot_plugins_zhenxun_bot>AkashiCoin/nonebot_plugins_zhenxun_bot</a><p>真寻bot的插件库，稍微修改也可在nonebot2平台通用</p></li></ul>
+<ul><li><a href=https://github.com/AkashiCoin/nonebot_plugins_zhenxun_bot>AkashiCoin/nonebot_plugins_zhenxun_bot</a><p>真寻bot的插件库，稍微修改也可在nonebot2平台通用</p></li><li><a href=https://github.com/The-Run-Philosophy-Organization/run>The-Run-Philosophy-Organization/run</a><p>润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。</p></li><li><a href=https://github.com/rishimohan/pika>rishimohan/pika</a><p>Quickly design beautiful screenshots and open graph images</p></li><li><a href=https://github.com/strapi/strapi>strapi/strapi</a><p>🚀 Open source Node.js Headless CMS to easily build customisable APIs</p></li><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers (Beta)</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/22/22, 12:02 PM<br>下一次刷新：4/22/22, 3:02 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/22/22, 2:16 PM<br>下一次刷新：4/22/22, 5:16 PM</p>
