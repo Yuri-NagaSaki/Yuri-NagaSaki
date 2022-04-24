@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/dromara/hutool>dromara/hutool</a><p>🍬A set of tools that keep Java sweet.</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/fuzhengwei/itstack-demo-design>fuzhengwei/itstack-demo-design</a><p>:art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn</p></li><li><a href=https://github.com/geekxh/hello-algorithm>geekxh/hello-algorithm</a><p>🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）</p></li><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers (Beta)</p></li></ul>
+<ul><li><a href=https://github.com/tom5079/Pupil>tom5079/Pupil</a><p>Hitomi.la viewer for Android</p></li><li><a href=https://github.com/MakinoharaShoko/WebGAL>MakinoharaShoko/WebGAL</a><p>全新的基于 Web 的 视觉小说引擎 | A brand new Visual Novel engine based on Web.</p></li><li><a href=https://github.com/doocs/advanced-java>doocs/advanced-java</a><p>😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/labuladong/fucking-algorithm>labuladong/fucking-algorithm</a><p>刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/24/22, 5:12 PM<br>下一次刷新：4/24/22, 8:12 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/24/22, 8:20 PM<br>下一次刷新：4/24/22, 11:20 PM</p>
