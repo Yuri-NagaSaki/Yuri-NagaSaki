@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/labuladong/fucking-algorithm>labuladong/fucking-algorithm</a><p>刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</p></li><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/tom5079/Pupil>tom5079/Pupil</a><p>Hitomi.la viewer for Android</p></li><li><a href=https://github.com/personqianduixue/Math_Model>personqianduixue/Math_Model</a><p>数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法</p></li><li><a href=https://github.com/MakinoharaShoko/WebGAL_Terre>MakinoharaShoko/WebGAL_Terre</a><p>Galgame Editing. Redefined</p></li></ul>
+<ul><li><a href=https://github.com/doocs/advanced-java>doocs/advanced-java</a><p>😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers | 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识</p></li><li><a href=https://github.com/vercel/turborepo>vercel/turborepo</a><p>The High-performance Build System for JavaScript & TypeScript Codebases</p></li><li><a href=https://github.com/sxzz/eslint-config>sxzz/eslint-config</a><p>A ESLint config preset</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers (Beta)</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/26/22, 2:18 AM<br>下一次刷新：4/26/22, 5:18 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/26/22, 5:11 AM<br>下一次刷新：4/26/22, 8:11 AM</p>
