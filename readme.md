@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/OBKoro1/koro1FileHeader>OBKoro1/koro1FileHeader</a><p>VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li><li><a href=https://github.com/personqianduixue/Math_Model>personqianduixue/Math_Model</a><p>数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法</p></li><li><a href=https://github.com/ciderapp/Cider>ciderapp/Cider</a><p>A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li></ul>
+<ul><li><a href=https://github.com/tom5079/Pupil>tom5079/Pupil</a><p>Hitomi.la viewer for Android</p></li><li><a href=https://github.com/sxzz/eslint-config>sxzz/eslint-config</a><p>A ESLint config preset</p></li><li><a href=https://github.com/labuladong/fucking-algorithm>labuladong/fucking-algorithm</a><p>刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</p></li><li><a href=https://github.com/OBKoro1/koro1FileHeader>OBKoro1/koro1FileHeader</a><p>VSCode插件：自动生成，自动更新VSCode文件头部注释, 自动生成函数注释并支持提取函数参数，支持所有主流语言，文档齐全，使用简单，配置灵活方便，持续维护多年。</p></li><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/27/22, 2:16 AM<br>下一次刷新：4/27/22, 5:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/27/22, 5:12 AM<br>下一次刷新：4/27/22, 8:12 AM</p>
