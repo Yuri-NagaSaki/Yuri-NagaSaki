@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/The-Run-Philosophy-Organization/run>The-Run-Philosophy-Organization/run</a><p>润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。</p></li><li><a href=https://github.com/byoungd/English-level-up-tips>byoungd/English-level-up-tips</a><p>An advanced guide to learn English which might benefit you a lot 🎉 . 可能是让你受益匪浅的英语进阶指南。</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/ciderapp/Cider>ciderapp/Cider</a><p>A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀</p></li><li><a href=https://github.com/AkashiCoin/nonebot_plugins_zhenxun_bot>AkashiCoin/nonebot_plugins_zhenxun_bot</a><p>真寻bot的插件库，稍微修改也可在nonebot2平台通用</p></li></ul>
+<ul><li><a href=https://github.com/httpie/httpie>httpie/httpie</a><p>As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie</p></li><li><a href=https://github.com/YunYouJun/cook>YunYouJun/cook</a><p>🍲 好的，今天我们来做菜！OK, Let's Cook!</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/slidevjs/slidev>slidevjs/slidev</a><p>Presentation Slides for Developers (Beta)</p></li><li><a href=https://github.com/labuladong/fucking-algorithm>labuladong/fucking-algorithm</a><p>刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/26/22, 2:16 PM<br>下一次刷新：4/26/22, 5:16 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/26/22, 5:13 PM<br>下一次刷新：4/26/22, 8:13 PM</p>
