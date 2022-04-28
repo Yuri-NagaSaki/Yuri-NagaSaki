@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tom5079/Pupil>tom5079/Pupil</a><p>Hitomi.la viewer for Android</p></li><li><a href=https://github.com/jsonhero-io/jsonhero-web>jsonhero-io/jsonhero-web</a><p>JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀</p></li><li><a href=https://github.com/rishimohan/pika>rishimohan/pika</a><p>Quickly design beautiful screenshots and open graph images</p></li><li><a href=https://github.com/q815101630/LeetFlash>q815101630/LeetFlash</a><p>A reliable flashcard app for reviewing algorithm problems</p></li><li><a href=https://github.com/ciderapp/Cider>ciderapp/Cider</a><p>A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀</p></li></ul>
+<ul><li><a href=https://github.com/strapi/strapi>strapi/strapi</a><p>🚀 Open source Node.js Headless CMS to easily build customisable APIs</p></li><li><a href=https://github.com/AkashiCoin/nonebot_plugins_zhenxun_bot>AkashiCoin/nonebot_plugins_zhenxun_bot</a><p>真寻bot的插件库，稍微修改也可在nonebot2平台通用</p></li><li><a href=https://github.com/jsonhero-io/jsonhero-web>jsonhero-io/jsonhero-web</a><p>JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀</p></li><li><a href=https://github.com/vercel/turborepo>vercel/turborepo</a><p>The High-performance Build System for JavaScript & TypeScript Codebases</p></li><li><a href=https://github.com/tom5079/Pupil>tom5079/Pupil</a><p>Hitomi.la viewer for Android</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/28/22, 5:12 AM<br>下一次刷新：4/28/22, 8:12 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/28/22, 9:23 AM<br>下一次刷新：4/28/22, 12:23 PM</p>
