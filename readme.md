@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/labuladong/fucking-algorithm>labuladong/fucking-algorithm</a><p>刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</p></li><li><a href=https://github.com/tom5079/Pupil>tom5079/Pupil</a><p>Hitomi.la viewer for Android</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/fuzhengwei/itstack-demo-design>fuzhengwei/itstack-demo-design</a><p>:art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn</p></li><li><a href=https://github.com/rishimohan/pika>rishimohan/pika</a><p>Quickly design beautiful screenshots and open graph images</p></li></ul>
+<ul><li><a href=https://github.com/voidcosmos/npkill>voidcosmos/npkill</a><p>List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.</p></li><li><a href=https://github.com/q815101630/LeetFlash>q815101630/LeetFlash</a><p>A reliable flashcard app for reviewing algorithm problems</p></li><li><a href=https://github.com/tom5079/Pupil>tom5079/Pupil</a><p>Hitomi.la viewer for Android</p></li><li><a href=https://github.com/Innei/nest-http-boilerplate>Innei/nest-http-boilerplate</a><p>A template for NestJS Typegoose Vitest and more, fast and simple boilerplate.</p></li><li><a href=https://github.com/ciderapp/Cider>ciderapp/Cider</a><p>A new cross-platform Apple Music experience based on Electron and Vue.js written from scratch with performance in mind. 🚀</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/29/22, 9:01 AM<br>下一次刷新：4/29/22, 12:01 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/29/22, 11:48 AM<br>下一次刷新：4/29/22, 2:48 PM</p>
