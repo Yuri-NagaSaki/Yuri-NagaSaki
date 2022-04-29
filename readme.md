@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mx-space/kami>mx-space/kami</a><p>🍰 Kami is mx-space's web frontend theme. Cute and lovely.</p></li><li><a href=https://github.com/MomokkoW/Grasscutter-docs-zh_CN>MomokkoW/Grasscutter-docs-zh_CN</a></li><li><a href=https://github.com/fuzhengwei/itstack-demo-design>fuzhengwei/itstack-demo-design</a><p>:art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/adrianmg/github-pewpew>adrianmg/github-pewpew</a><p>🔫 Pew pew needless GitHub repos from your CLI!</p></li></ul>
+<ul><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li><li><a href=https://github.com/geekxh/hello-algorithm>geekxh/hello-algorithm</a><p>🌍 针对小白的算法训练 | 包括四部分：①.算法基础 ②.力扣图解 ③.大厂面经 ④.CS_汇总 | 附：1、千本开源电子书 2、百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）</p></li><li><a href=https://github.com/MomokkoW/Grasscutter-docs-zh_CN>MomokkoW/Grasscutter-docs-zh_CN</a></li><li><a href=https://github.com/voidcosmos/npkill>voidcosmos/npkill</a><p>List any node_modules directories in your system, as well as the space they take up. You can then select which ones you want to erase to free up space.</p></li><li><a href=https://github.com/vercel/turborepo>vercel/turborepo</a><p>The High-performance Build System for JavaScript & TypeScript Codebases</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/29/22, 11:14 PM<br>下一次刷新：4/30/22, 2:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：4/30/22, 2:16 AM<br>下一次刷新：4/30/22, 5:16 AM</p>
