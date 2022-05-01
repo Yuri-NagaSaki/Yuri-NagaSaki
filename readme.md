@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MomokkoW/Grasscutter-docs-zh_CN>MomokkoW/Grasscutter-docs-zh_CN</a></li><li><a href=https://github.com/sudheerj/javascript-interview-questions>sudheerj/javascript-interview-questions</a><p>List of 1000 JavaScript Interview Questions</p></li><li><a href=https://github.com/sfvsfv/ComputerStudent>sfvsfv/ComputerStudent</a><p>计算机专业系统性学习资料（python,c,c++,计算机组成，计算机网络，编译原理，电路，谷歌插件，爬虫）</p></li><li><a href=https://github.com/OI-wiki/OI-wiki>OI-wiki/OI-wiki</a><p>:star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）</p></li><li><a href=https://github.com/JulienMaille/dribbblish-dynamic-theme>JulienMaille/dribbblish-dynamic-theme</a><p>A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.</p></li></ul>
+<ul><li><a href=https://github.com/tom5079/Pupil>tom5079/Pupil</a><p>Hitomi.la viewer for Android</p></li><li><a href=https://github.com/vercel/turborepo>vercel/turborepo</a><p>The High-performance Build System for JavaScript & TypeScript Codebases</p></li><li><a href=https://github.com/sfvsfv/ComputerStudent>sfvsfv/ComputerStudent</a><p>计算机专业系统性学习资料（python,c,c++,计算机组成，计算机网络，编译原理，电路，谷歌插件，爬虫）</p></li><li><a href=https://github.com/JulienMaille/dribbblish-dynamic-theme>JulienMaille/dribbblish-dynamic-theme</a><p>A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.</p></li><li><a href=https://github.com/adrianmg/github-pewpew>adrianmg/github-pewpew</a><p>🔫 Pew pew needless GitHub repos from your CLI!</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/1/22, 5:11 AM<br>下一次刷新：5/1/22, 8:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/1/22, 9:18 AM<br>下一次刷新：5/1/22, 12:18 PM</p>
