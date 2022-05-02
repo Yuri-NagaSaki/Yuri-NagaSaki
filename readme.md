@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Dusk-Labs/dim>Dusk-Labs/dim</a><p>Dim, a media manager fueled by dark forces.</p></li><li><a href=https://github.com/Molyleaf/Sakurairo_Vision_Genshin>Molyleaf/Sakurairo_Vision_Genshin</a><p>原神主题Sakurairo_Vision</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>OneDrive public directory listing, powered by Vercel and Next.js</p></li><li><a href=https://github.com/Grasscutters/Grasscutter>Grasscutters/Grasscutter</a><p>A server software reimplementation for a certain anime game.</p></li></ul>
+<ul><li><a href=https://github.com/labuladong/fucking-algorithm>labuladong/fucking-algorithm</a><p>刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</p></li><li><a href=https://github.com/MomokkoW/Grasscutter-docs-zh_CN>MomokkoW/Grasscutter-docs-zh_CN</a></li><li><a href=https://github.com/Idered/chalk.ist>Idered/chalk.ist</a><p>📷 Create beautiful images of your source code</p></li><li><a href=https://github.com/OI-wiki/OI-wiki>OI-wiki/OI-wiki</a><p>:star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）</p></li><li><a href=https://github.com/JulienMaille/dribbblish-dynamic-theme>JulienMaille/dribbblish-dynamic-theme</a><p>A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/2/22, 11:14 PM<br>下一次刷新：5/3/22, 2:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/2/22, 11:20 PM<br>下一次刷新：5/3/22, 2:20 AM</p>
