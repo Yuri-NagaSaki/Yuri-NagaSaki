@@ -7,6 +7,7 @@ export const opensource = {
     random: true,
     repos: [
       'Sayyiku/FormatCode',
+      'Sayyiku/Butterfly',
     ],
   },
 }
