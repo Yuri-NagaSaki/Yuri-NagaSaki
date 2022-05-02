@@ -1,6 +1,7 @@
 export const opensource = {
   active: [
     'Sayyiku/FormatCode',
+    'Sayyiku/Butterfly',
   ],
   toys: {
     limit: 1,
