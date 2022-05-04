@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jsonhero-io/jsonhero-web>jsonhero-io/jsonhero-web</a><p>JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li><li><a href=https://github.com/honjow/FEhViewer>honjow/FEhViewer</a><p>An e-hentai/exhentai app make on flutter</p></li><li><a href=https://github.com/Dusk-Labs/dim>Dusk-Labs/dim</a><p>Dim, a media manager fueled by dark forces.</p></li><li><a href=https://github.com/geekan/HowToLiveLonger>geekan/HowToLiveLonger</a><p>程序员延寿指南 | A programmer's guide to live longer</p></li></ul>
+<ul><li><a href=https://github.com/adrianmg/github-pewpew>adrianmg/github-pewpew</a><p>🔫 Pew pew needless GitHub repos from your CLI!</p></li><li><a href=https://github.com/Linus0080/TongJi65472>Linus0080/TongJi65472</a><p>整活专用（bushi</p></li><li><a href=https://github.com/q815101630/LeetFlash>q815101630/LeetFlash</a><p>A reliable flashcard app for reviewing algorithm problems</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>OneDrive public directory listing, powered by Vercel and Next.js</p></li><li><a href=https://github.com/febobo/web-interview>febobo/web-interview</a><p>语音打卡社群维护的前端面试题库，包含不限于Vue面试题，React面试题，JS面试题，HTTP面试题，工程化面试题，CSS面试题，算法面试题，大厂面试题，高频面试题</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/4/22, 11:14 PM<br>下一次刷新：5/5/22, 2:14 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/5/22, 2:15 AM<br>下一次刷新：5/5/22, 5:15 AM</p>
