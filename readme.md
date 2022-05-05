@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/ThaUnknown/miru>ThaUnknown/miru</a><p>Bittorrent streaming software for cats</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li><li><a href=https://github.com/jareer12/DiscordBotPanel>jareer12/DiscordBotPanel</a><p>🎉 Manage your discord bots and node.js scripts with a web panel.</p></li><li><a href=https://github.com/pofey/movie_robot>pofey/movie_robot</a><p>轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。</p></li><li><a href=https://github.com/webp-sh/webp_server_go>webp-sh/webp_server_go</a><p>Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.</p></li></ul>
+<ul><li><a href=https://github.com/comwrg/FUCK-GFW>comwrg/FUCK-GFW</a><p>记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW</p></li><li><a href=https://github.com/ThaUnknown/miru>ThaUnknown/miru</a><p>Bittorrent streaming software for cats</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li><li><a href=https://github.com/jareer12/DiscordBotPanel>jareer12/DiscordBotPanel</a><p>🎉 Manage your discord bots and node.js scripts with a web panel.</p></li><li><a href=https://github.com/pofey/movie_robot>pofey/movie_robot</a><p>轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Linus0080/TongJi65472>Linus0080/TongJi65472</a><p>整活专用（bushi</p></li><li><a href=https://github.com/sfvsfv/ComputerStudent>sfvsfv/ComputerStudent</a><p>计算机专业系统性学习资料（python,c,c++,计算机组成，计算机网络，编译原理，电路，谷歌插件，爬虫）</p></li><li><a href=https://github.com/q815101630/LeetFlash>q815101630/LeetFlash</a><p>A reliable flashcard app for reviewing algorithm problems</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li><li><a href=https://github.com/JulienMaille/dribbblish-dynamic-theme>JulienMaille/dribbblish-dynamic-theme</a><p>A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.</p></li></ul>
+<ul><li><a href=https://github.com/Dusk-Labs/dim>Dusk-Labs/dim</a><p>Dim, a media manager fueled by dark forces.</p></li><li><a href=https://github.com/OI-wiki/OI-wiki>OI-wiki/OI-wiki</a><p>:star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）</p></li><li><a href=https://github.com/spencerwooo/PaimonMenuBar>spencerwooo/PaimonMenuBar</a><p>Paimon's now in your macOS menu bar!</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li><li><a href=https://github.com/webp-sh/webp_server_go>webp-sh/webp_server_go</a><p>Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/5/22, 8:26 PM<br>下一次刷新：5/5/22, 11:26 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/6/22, 2:16 AM<br>下一次刷新：5/6/22, 5:16 AM</p>
