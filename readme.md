@@ -81,7 +81,7 @@ most used s-s-social things >~< xoxox</p>
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/FormatCode target=_blank><b>Sayyiku/FormatCode</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/FormatCode?style=flat-square&labelColor=343b41"></td><td>4/17/2022</td><td>4/18/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/Butterfly target=_blank><b>Sayyiku/Butterfly</b></a> <a href=https://beauty.shiinamahiru.cc/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/Butterfly?style=flat-square&labelColor=343b41"></td><td>4/20/2022</td><td>5/2/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a><p>Your self-hosted, globally interconnected microblogging community</p></li><li><a href=https://github.com/mx-space/mx-web-yun>mx-space/mx-web-yun</a><p>☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。</p></li><li><a href=https://github.com/sfvsfv/ComputerStudent>sfvsfv/ComputerStudent</a><p>计算机专业系统性学习资料（python,c,c++,计算机组成，计算机网络，编译原理，电路，谷歌插件，爬虫）</p></li><li><a href=https://github.com/JulienMaille/dribbblish-dynamic-theme>JulienMaille/dribbblish-dynamic-theme</a><p>A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.</p></li><li><a href=https://github.com/GriffinJohnston/uiball-loaders>GriffinJohnston/uiball-loaders</a><p>Modern, tree-shakeable loaders & spinners for React. Made with CSS, HTML and a splash of SVG. https://uiball.com/loaders</p></li></ul>
+<ul><li><a href=https://github.com/Linus0080/TongJi65472>Linus0080/TongJi65472</a><p>整活专用（bushi</p></li><li><a href=https://github.com/sfvsfv/ComputerStudent>sfvsfv/ComputerStudent</a><p>计算机专业系统性学习资料（python,c,c++,计算机组成，计算机网络，编译原理，电路，谷歌插件，爬虫）</p></li><li><a href=https://github.com/q815101630/LeetFlash>q815101630/LeetFlash</a><p>A reliable flashcard app for reviewing algorithm problems</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li><li><a href=https://github.com/JulienMaille/dribbblish-dynamic-theme>JulienMaille/dribbblish-dynamic-theme</a><p>A mod of Dribbblish theme for Spicetify with support for light/dark modes and album art based colors.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/5/22, 5:14 PM<br>下一次刷新：5/5/22, 8:14 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/5/22, 8:26 PM<br>下一次刷新：5/5/22, 11:26 PM</p>
