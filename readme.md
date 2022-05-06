@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/comwrg/FUCK-GFW>comwrg/FUCK-GFW</a><p>记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW</p></li><li><a href=https://github.com/ThaUnknown/miru>ThaUnknown/miru</a><p>Bittorrent streaming software for cats</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li><li><a href=https://github.com/jareer12/DiscordBotPanel>jareer12/DiscordBotPanel</a><p>🎉 Manage your discord bots and node.js scripts with a web panel.</p></li><li><a href=https://github.com/pofey/movie_robot>pofey/movie_robot</a><p>轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。</p></li></ul>
+<ul><li><a href=https://github.com/iskurbanov/shopify-next.js-tailwind>iskurbanov/shopify-next.js-tailwind</a><p>Learn the Shopify + Next.js + Tailwind CSS Stack! SWR, Hydrogen, + more</p></li><li><a href=https://github.com/AkashiCoin/zhenxun_bot-deploy>AkashiCoin/zhenxun_bot-deploy</a><p>真寻bot一键部署脚本</p></li><li><a href=https://github.com/taowen/vite-howto>taowen/vite-howto</a><p>Modularization best practice to common web development scenarios, applies to vue/react/... any framework</p></li><li><a href=https://github.com/Dreamacro/clash-tracing>Dreamacro/clash-tracing</a></li><li><a href=https://github.com/comwrg/FUCK-GFW>comwrg/FUCK-GFW</a><p>记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/sudheerj/javascript-interview-questions>sudheerj/javascript-interview-questions</a><p>List of 1000 JavaScript Interview Questions</p></li><li><a href=https://github.com/honjow/FEhViewer>honjow/FEhViewer</a><p>An e-hentai/exhentai app make on flutter</p></li><li><a href=https://github.com/Idered/chalk.ist>Idered/chalk.ist</a><p>📷 Create beautiful images of your source code</p></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a><p>Your self-hosted, globally interconnected microblogging community</p></li><li><a href=https://github.com/spencerwooo/PaimonMenuBar>spencerwooo/PaimonMenuBar</a><p>Paimon's now in your macOS menu bar!</p></li></ul>
+<ul><li><a href=https://github.com/pofey/movie_robot>pofey/movie_robot</a><p>轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。</p></li><li><a href=https://github.com/daidr/paimon-webext>daidr/paimon-webext</a></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a><p>Your self-hosted, globally interconnected microblogging community</p></li><li><a href=https://github.com/adrianmg/github-pewpew>adrianmg/github-pewpew</a><p>🔫 Pew pew needless GitHub repos from your CLI!</p></li><li><a href=https://github.com/caddyserver/caddy>caddyserver/caddy</a><p>Fast, multi-platform web server with automatic HTTPS</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/6/22, 8:56 AM<br>下一次刷新：5/6/22, 11:56 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/6/22, 2:18 PM<br>下一次刷新：5/6/22, 5:18 PM</p>
