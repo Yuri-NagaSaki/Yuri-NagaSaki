@@ -81,7 +81,7 @@ most used s-s-social things >~< xoxox</p>
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/Butterfly target=_blank><b>Sayyiku/Butterfly</b></a> <a href=https://beauty.shiinamahiru.cc/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/Butterfly?style=flat-square&labelColor=343b41"></td><td>4/20/2022</td><td>5/2/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/FormatCode target=_blank><b>Sayyiku/FormatCode</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/FormatCode?style=flat-square&labelColor=343b41"></td><td>4/17/2022</td><td>4/18/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/iskurbanov/shopify-next.js-tailwind>iskurbanov/shopify-next.js-tailwind</a><p>Learn the Shopify + Next.js + Tailwind CSS Stack! SWR, Hydrogen, + more</p></li><li><a href=https://github.com/AkashiCoin/zhenxun_bot-deploy>AkashiCoin/zhenxun_bot-deploy</a><p>真寻bot一键部署脚本</p></li><li><a href=https://github.com/taowen/vite-howto>taowen/vite-howto</a><p>Modularization best practice to common web development scenarios, applies to vue/react/... any framework</p></li><li><a href=https://github.com/Dreamacro/clash-tracing>Dreamacro/clash-tracing</a></li><li><a href=https://github.com/comwrg/FUCK-GFW>comwrg/FUCK-GFW</a><p>记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW</p></li></ul>
+<ul><li><a href=https://github.com/freeCodeCamp/freeCodeCamp>freeCodeCamp/freeCodeCamp</a><p>freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</p></li><li><a href=https://github.com/iskurbanov/shopify-next.js-tailwind>iskurbanov/shopify-next.js-tailwind</a><p>Learn the Shopify + Next.js + Tailwind CSS Stack! SWR, Hydrogen, + more</p></li><li><a href=https://github.com/AkashiCoin/zhenxun_bot-deploy>AkashiCoin/zhenxun_bot-deploy</a><p>真寻bot一键部署脚本</p></li><li><a href=https://github.com/taowen/vite-howto>taowen/vite-howto</a><p>Modularization best practice to common web development scenarios, applies to vue/react/... any framework</p></li><li><a href=https://github.com/Dreamacro/clash-tracing>Dreamacro/clash-tracing</a></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/ThaUnknown/miru>ThaUnknown/miru</a><p>Bittorrent streaming software for cats</p></li><li><a href=https://github.com/Dusk-Labs/dim>Dusk-Labs/dim</a><p>Dim, a media manager fueled by dark forces.</p></li><li><a href=https://github.com/honjow/FEhViewer>honjow/FEhViewer</a><p>An e-hentai/exhentai app make on flutter</p></li><li><a href=https://github.com/q815101630/LeetFlash>q815101630/LeetFlash</a><p>A reliable flashcard app for reviewing algorithm problems</p></li><li><a href=https://github.com/daidr/paimon-webext>daidr/paimon-webext</a></li></ul>
+<ul><li><a href=https://github.com/caddyserver/caddy>caddyserver/caddy</a><p>Fast, multi-platform web server with automatic HTTPS</p></li><li><a href=https://github.com/spencerwooo/PaimonMenuBar>spencerwooo/PaimonMenuBar</a><p>Paimon's now in your macOS menu bar!</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a><p>Your self-hosted, globally interconnected microblogging community</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/7/22, 8:59 AM<br>下一次刷新：5/7/22, 11:59 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/7/22, 11:31 AM<br>下一次刷新：5/7/22, 2:31 PM</p>
