@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Molyleaf/Sakurairo_Vision_Genshin>Molyleaf/Sakurairo_Vision_Genshin</a><p>原神主题Sakurairo_Vision</p></li><li><a href=https://github.com/ThaUnknown/miru>ThaUnknown/miru</a><p>Bittorrent streaming software for cats</p></li><li><a href=https://github.com/Linus0080/TongJi65472>Linus0080/TongJi65472</a><p>整活专用（bushi</p></li><li><a href=https://github.com/sudheerj/javascript-interview-questions>sudheerj/javascript-interview-questions</a><p>List of 1000 JavaScript Interview Questions</p></li><li><a href=https://github.com/pofey/movie_robot>pofey/movie_robot</a><p>轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。</p></li></ul>
+<ul><li><a href=https://github.com/OI-wiki/OI-wiki>OI-wiki/OI-wiki</a><p>:star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li><li><a href=https://github.com/comwrg/FUCK-GFW>comwrg/FUCK-GFW</a><p>记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW</p></li><li><a href=https://github.com/sfvsfv/ComputerStudent>sfvsfv/ComputerStudent</a><p>计算机专业系统性学习资料（python,c,c++,计算机组成，计算机网络，编译原理，电路，谷歌插件，爬虫）</p></li><li><a href=https://github.com/mx-space/mx-web-yun>mx-space/mx-web-yun</a><p>☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/7/22, 11:13 PM<br>下一次刷新：5/8/22, 2:13 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/8/22, 2:14 AM<br>下一次刷新：5/8/22, 5:14 AM</p>
