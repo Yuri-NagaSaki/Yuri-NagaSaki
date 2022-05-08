@@ -81,7 +81,7 @@ most used s-s-social things >~< xoxox</p>
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/Butterfly target=_blank><b>Sayyiku/Butterfly</b></a> <a href=https://beauty.shiinamahiru.cc/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/Butterfly?style=flat-square&labelColor=343b41"></td><td>4/20/2022</td><td>5/2/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/FormatCode target=_blank><b>Sayyiku/FormatCode</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/FormatCode?style=flat-square&labelColor=343b41"></td><td>4/17/2022</td><td>4/18/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Linus0080/TongJi65472>Linus0080/TongJi65472</a><p>整活专用（bushi</p></li><li><a href=https://github.com/jareer12/DiscordBotPanel>jareer12/DiscordBotPanel</a><p>🎉 Manage your discord bots and node.js scripts with a web panel.</p></li><li><a href=https://github.com/spencerwooo/PaimonMenuBar>spencerwooo/PaimonMenuBar</a><p>Paimon's now in your macOS menu bar!</p></li><li><a href=https://github.com/pofey/movie_robot>pofey/movie_robot</a><p>轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li></ul>
+<ul><li><a href=https://github.com/comwrg/FUCK-GFW>comwrg/FUCK-GFW</a><p>记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW</p></li><li><a href=https://github.com/mastodon/mastodon>mastodon/mastodon</a><p>Your self-hosted, globally interconnected microblogging community</p></li><li><a href=https://github.com/caddyserver/caddy>caddyserver/caddy</a><p>Fast, multi-platform web server with automatic HTTPS</p></li><li><a href=https://github.com/webp-sh/webp_server_go>webp-sh/webp_server_go</a><p>Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/8/22, 5:12 AM<br>下一次刷新：5/8/22, 8:12 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/8/22, 9:00 AM<br>下一次刷新：5/8/22, 12:00 PM</p>
