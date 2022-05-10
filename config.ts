@@ -16,8 +16,8 @@ export const github = {
 }
 
 export const mxSpace = {
-  url: 'https://iris.lirica.cn',
-  api: 'https://iris.lirica.cn/api/v2',
+  url: 'https://innei.ren/',
+  api: 'https://innei.ren/api/v2',
 }
 
 export const timeZone = 'Asia/Shanghai'
