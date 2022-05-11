@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/XIU2/CloudflareSpeedTest>XIU2/CloudflareSpeedTest</a><p>🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~</p></li><li><a href=https://github.com/jareer12/DiscordBotPanel>jareer12/DiscordBotPanel</a><p>🎉 Manage your discord bots and node.js scripts with a web panel.</p></li><li><a href=https://github.com/Molyleaf/Sakurairo_Vision_Genshin>Molyleaf/Sakurairo_Vision_Genshin</a><p>原神主题Sakurairo_Vision</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li><li><a href=https://github.com/pofey/movie_robot>pofey/movie_robot</a><p>轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。</p></li></ul>
+<ul><li><a href=https://github.com/GriffinJohnston/uiball-loaders>GriffinJohnston/uiball-loaders</a><p>Modern, tree-shakeable loaders & spinners for React. Made with CSS, HTML and a splash of SVG. https://uiball.com/loaders</p></li><li><a href=https://github.com/honjow/FEhViewer>honjow/FEhViewer</a><p>An e-hentai/exhentai app make on flutter</p></li><li><a href=https://github.com/iskurbanov/shopify-next.js-tailwind>iskurbanov/shopify-next.js-tailwind</a><p>Learn the Shopify + Next.js + Tailwind CSS Stack! SWR, Hydrogen, + more</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/daidr/paimon-webext>daidr/paimon-webext</a><p>在浏览器中查看原神账号情况（树脂等）</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/11/22, 8:04 PM<br>下一次刷新：5/11/22, 11:04 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/11/22, 11:03 PM<br>下一次刷新：5/12/22, 2:03 AM</p>
