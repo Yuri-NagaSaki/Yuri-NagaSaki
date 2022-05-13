@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/freeCodeCamp/freeCodeCamp>freeCodeCamp/freeCodeCamp</a><p>freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</p></li><li><a href=https://github.com/daidr/paimon-webext>daidr/paimon-webext</a><p>在浏览器中查看原神账号情况（树脂等）</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li><li><a href=https://github.com/ThaUnknown/miru>ThaUnknown/miru</a><p>Bittorrent streaming software for cats</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li></ul>
+<ul><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/GoogleChrome/lighthouse>GoogleChrome/lighthouse</a><p>Automated auditing, performance metrics, and best practices for the web.</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li><li><a href=https://github.com/freeCodeCamp/freeCodeCamp>freeCodeCamp/freeCodeCamp</a><p>freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</p></li><li><a href=https://github.com/taowen/vite-howto>taowen/vite-howto</a><p>Modularization best practice to common web development scenarios, applies to vue/react/... any framework</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/13/22, 11:03 PM<br>下一次刷新：5/14/22, 2:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/14/22, 2:03 AM<br>下一次刷新：5/14/22, 5:03 AM</p>
