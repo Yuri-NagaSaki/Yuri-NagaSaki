@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/pofey/movie_robot>pofey/movie_robot</a><p>轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。</p></li><li><a href=https://github.com/Molyleaf/Sakurairo_Vision_Genshin>Molyleaf/Sakurairo_Vision_Genshin</a><p>原神主题Sakurairo_Vision</p></li><li><a href=https://github.com/webp-sh/webp_server_go>webp-sh/webp_server_go</a><p>Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.</p></li><li><a href=https://github.com/Idered/chalk.ist>Idered/chalk.ist</a><p>📷 Create beautiful images of your source code</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li></ul>
+<ul><li><a href=https://github.com/Idered/chalk.ist>Idered/chalk.ist</a><p>📷 Create beautiful images of your source code</p></li><li><a href=https://github.com/rutikwankhade/CoverView>rutikwankhade/CoverView</a><p>🛠 Create awesome cover images for your blog posts quickly.</p></li><li><a href=https://github.com/Dreamacro/clash-tracing>Dreamacro/clash-tracing</a></li><li><a href=https://github.com/spencerwooo/PaimonMenuBar>spencerwooo/PaimonMenuBar</a><p>Paimon's now in your macOS menu bar!</p></li><li><a href=https://github.com/GriffinJohnston/uiball-loaders>GriffinJohnston/uiball-loaders</a><p>Modern, tree-shakeable loaders & spinners for React. Made with CSS, HTML and a splash of SVG. https://uiball.com/loaders</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/13/22, 2:06 PM<br>下一次刷新：5/13/22, 5:06 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/13/22, 5:03 PM<br>下一次刷新：5/13/22, 8:03 PM</p>
