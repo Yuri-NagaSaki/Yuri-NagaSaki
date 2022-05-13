@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/GoogleChrome/lighthouse>GoogleChrome/lighthouse</a><p>Automated auditing, performance metrics, and best practices for the web.</p></li><li><a href=https://github.com/charmbracelet/glow>charmbracelet/glow</a><p>Render markdown on the CLI, with pizzazz! 💅🏻</p></li><li><a href=https://github.com/freeCodeCamp/freeCodeCamp>freeCodeCamp/freeCodeCamp</a><p>freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</p></li><li><a href=https://github.com/taowen/vite-howto>taowen/vite-howto</a><p>Modularization best practice to common web development scenarios, applies to vue/react/... any framework</p></li></ul>
+<ul><li><a href=https://github.com/Dusk-Labs/dim>Dusk-Labs/dim</a><p>Dim, a media manager fueled by dark forces.</p></li><li><a href=https://github.com/Dreamacro/clash-tracing>Dreamacro/clash-tracing</a></li><li><a href=https://github.com/XIU2/CloudflareSpeedTest>XIU2/CloudflareSpeedTest</a><p>🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~</p></li><li><a href=https://github.com/Idered/chalk.ist>Idered/chalk.ist</a><p>📷 Create beautiful images of your source code</p></li><li><a href=https://github.com/GriffinJohnston/uiball-loaders>GriffinJohnston/uiball-loaders</a><p>Modern, tree-shakeable loaders & spinners for React. Made with CSS, HTML and a splash of SVG. https://uiball.com/loaders</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/14/22, 2:03 AM<br>下一次刷新：5/14/22, 5:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/14/22, 5:03 AM<br>下一次刷新：5/14/22, 8:03 AM</p>
