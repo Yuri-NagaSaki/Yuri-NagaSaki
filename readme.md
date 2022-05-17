@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/freeCodeCamp/freeCodeCamp>freeCodeCamp/freeCodeCamp</a><p>freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</p></li><li><a href=https://github.com/alephjs/aleph.js>alephjs/aleph.js</a><p>The Full-stack Framework in Deno.</p></li><li><a href=https://github.com/mx-space/mx-web-yun>mx-space/mx-web-yun</a><p>☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。</p></li><li><a href=https://github.com/spencerwooo/onedrive-vercel-index>spencerwooo/onedrive-vercel-index</a><p>OneDrive public directory listing, powered by Vercel and Next.js</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li></ul>
+<ul><li><a href=https://github.com/alephjs/aleph.js>alephjs/aleph.js</a><p>The Full-stack Framework in Deno.</p></li><li><a href=https://github.com/jareer12/DiscordBotPanel>jareer12/DiscordBotPanel</a><p>🎉 Manage your discord bots and node.js scripts with a web panel.</p></li><li><a href=https://github.com/GoogleChrome/lighthouse>GoogleChrome/lighthouse</a><p>Automated auditing, performance metrics, and best practices for the web.</p></li><li><a href=https://github.com/ThaUnknown/miru>ThaUnknown/miru</a><p>Bittorrent streaming software for cats</p></li><li><a href=https://github.com/NvChad/NvChad>NvChad/NvChad</a><p>An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/17/22, 5:03 PM<br>下一次刷新：5/17/22, 8:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/17/22, 8:04 PM<br>下一次刷新：5/17/22, 11:04 PM</p>
