@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/NvChad/NvChad>NvChad/NvChad</a><p>An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms</p></li><li><a href=https://github.com/taowen/vite-howto>taowen/vite-howto</a><p>Modularization best practice to common web development scenarios, applies to vue/react/... any framework</p></li><li><a href=https://github.com/freeCodeCamp/freeCodeCamp>freeCodeCamp/freeCodeCamp</a><p>freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</p></li><li><a href=https://github.com/Dreamacro/clash-tracing>Dreamacro/clash-tracing</a></li><li><a href=https://github.com/alephjs/aleph.js>alephjs/aleph.js</a><p>The Full-stack Framework in Deno.</p></li></ul>
+<ul><li><a href=https://github.com/GriffinJohnston/uiball-loaders>GriffinJohnston/uiball-loaders</a><p>Modern, tree-shakeable loaders & spinners for React. Made with CSS, HTML and a splash of SVG. https://uiball.com/loaders</p></li><li><a href=https://github.com/pofey/movie_robot>pofey/movie_robot</a><p>轻松便捷的与家人和朋友，一同享受多终端- 致的高品质私有化观影体验。</p></li><li><a href=https://github.com/alephjs/aleph.js>alephjs/aleph.js</a><p>The Full-stack Framework in Deno.</p></li><li><a href=https://github.com/serverless/serverless>serverless/serverless</a><p>⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –</p></li><li><a href=https://github.com/mx-space/mx-web-yun>mx-space/mx-web-yun</a><p>☁️ A fast & light & lovely theme for Mix Space. 一个对可爱自以为是的前端风格。</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/18/22, 8:10 AM<br>下一次刷新：5/18/22, 11:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/18/22, 11:27 AM<br>下一次刷新：5/18/22, 2:27 PM</p>
