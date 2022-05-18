@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/alephjs/aleph.js>alephjs/aleph.js</a><p>The Full-stack Framework in Deno.</p></li><li><a href=https://github.com/rohidisdev/code-to-img>rohidisdev/code-to-img</a><p>Code to Image converter is a beautifully designed application that helps you generate beautiful and customizable images of your code snippets. This is built for the developer by the developer. If you want to share your code with anyone or on any social media this is the application you need.</p></li><li><a href=https://github.com/daidr/paimon-webext>daidr/paimon-webext</a><p>在浏览器中查看原神账号情况（树脂等）</p></li><li><a href=https://github.com/Amphitrite632/SimpleOSCTransmitter>Amphitrite632/SimpleOSCTransmitter</a><p>OpenSoundControl client with only minimal functionality featuring lightweight and beautiful UI</p></li><li><a href=https://github.com/flameshot-org/flameshot>flameshot-org/flameshot</a><p>Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:</p></li></ul>
+<ul><li><a href=https://github.com/GriffinJohnston/uiball-loaders>GriffinJohnston/uiball-loaders</a><p>Modern, tree-shakeable loaders & spinners for React. Made with CSS, HTML and a splash of SVG. https://uiball.com/loaders</p></li><li><a href=https://github.com/GoogleChrome/lighthouse>GoogleChrome/lighthouse</a><p>Automated auditing, performance metrics, and best practices for the web.</p></li><li><a href=https://github.com/taowen/vite-howto>taowen/vite-howto</a><p>Modularization best practice to common web development scenarios, applies to vue/react/... any framework</p></li><li><a href=https://github.com/XIU2/CloudflareSpeedTest>XIU2/CloudflareSpeedTest</a><p>🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~</p></li><li><a href=https://github.com/zhenxun-org/zhenxun_bot-deploy>zhenxun-org/zhenxun_bot-deploy</a><p>真寻bot一键部署脚本</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/19/22, 2:03 AM<br>下一次刷新：5/19/22, 5:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/19/22, 5:03 AM<br>下一次刷新：5/19/22, 8:03 AM</p>
