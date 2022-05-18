@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/taowen/vite-howto>taowen/vite-howto</a><p>Modularization best practice to common web development scenarios, applies to vue/react/... any framework</p></li><li><a href=https://github.com/webp-sh/webp_server_go>webp-sh/webp_server_go</a><p>Go version of WebP Server. A tool that will serve your JPG/PNGs as WebP format with compression, on-the-fly.</p></li><li><a href=https://github.com/spacedriveapp/spacedrive>spacedriveapp/spacedrive</a><p>Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.</p></li><li><a href=https://github.com/serverless/serverless>serverless/serverless</a><p>⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –</p></li><li><a href=https://github.com/spencerwooo/PaimonMenuBar>spencerwooo/PaimonMenuBar</a><p>Paimon's now in your macOS menu bar!</p></li></ul>
+<ul><li><a href=https://github.com/NvChad/NvChad>NvChad/NvChad</a><p>An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 20ms to 70ms</p></li><li><a href=https://github.com/taowen/vite-howto>taowen/vite-howto</a><p>Modularization best practice to common web development scenarios, applies to vue/react/... any framework</p></li><li><a href=https://github.com/freeCodeCamp/freeCodeCamp>freeCodeCamp/freeCodeCamp</a><p>freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.</p></li><li><a href=https://github.com/Dreamacro/clash-tracing>Dreamacro/clash-tracing</a></li><li><a href=https://github.com/alephjs/aleph.js>alephjs/aleph.js</a><p>The Full-stack Framework in Deno.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/18/22, 5:03 AM<br>下一次刷新：5/18/22, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/18/22, 8:10 AM<br>下一次刷新：5/18/22, 11:10 AM</p>
