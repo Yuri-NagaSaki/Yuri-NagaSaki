@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/GoogleChrome/lighthouse>GoogleChrome/lighthouse</a><p>Automated auditing, performance metrics, and best practices for the web.</p></li><li><a href=https://github.com/rohidisdev/code-to-img>rohidisdev/code-to-img</a><p>Code to Image converter is a beautifully designed application that helps you generate beautiful and customizable images of your code snippets. This is built for the developer by the developer. If you want to share your code with anyone or on any social media this is the application you need.</p></li><li><a href=https://github.com/bedimcode/responsive-halloween-website>bedimcode/responsive-halloween-website</a><p>Responsive Halloween Website Design Using HTML CSS & JavaScript</p></li><li><a href=https://github.com/rzashakeri/beautify-github-profile>rzashakeri/beautify-github-profile</a><p>This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐</p></li><li><a href=https://github.com/amehime/shoka>amehime/shoka</a><p>书架@github</p></li></ul>
+<ul><li><a href=https://github.com/iskurbanov/shopify-next.js-tailwind>iskurbanov/shopify-next.js-tailwind</a><p>Learn the Shopify + Next.js + Tailwind CSS Stack! SWR, Hydrogen, + more</p></li><li><a href=https://github.com/Amphitrite632/SimpleOSCTransmitter>Amphitrite632/SimpleOSCTransmitter</a><p>OpenSoundControl client with only minimal functionality featuring lightweight and beautiful UI</p></li><li><a href=https://github.com/GoogleChrome/lighthouse>GoogleChrome/lighthouse</a><p>Automated auditing, performance metrics, and best practices for the web.</p></li><li><a href=https://github.com/taowen/vite-howto>taowen/vite-howto</a><p>Modularization best practice to common web development scenarios, applies to vue/react/... any framework</p></li><li><a href=https://github.com/rohidisdev/code-to-img>rohidisdev/code-to-img</a><p>Code to Image converter is a beautifully designed application that helps you generate beautiful and customizable images of your code snippets. This is built for the developer by the developer. If you want to share your code with anyone or on any social media this is the application you need.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/21/22, 2:04 PM<br>下一次刷新：5/21/22, 5:04 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/21/22, 5:03 PM<br>下一次刷新：5/21/22, 8:03 PM</p>
