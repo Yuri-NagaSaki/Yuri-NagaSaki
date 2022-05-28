@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/LYshiying/ui_bot>LYshiying/ui_bot</a><p>[羽衣bot~]基于Nonebot1的QQ机器人,功能: 搜图,搜本,订阅推特, 订阅pixiv, 订阅rsshub, 获取色图, 彩云续写, blhxwiki, 今日新闻等多种功能</p></li><li><a href=https://github.com/baseplate-admin/CoreProject>baseplate-admin/CoreProject</a><p>A modern streaming site</p></li><li><a href=https://github.com/Teahouse-Studios/bot>Teahouse-Studios/bot</a><p>茶馆群内QQ机器人（小可）</p></li><li><a href=https://github.com/serverless/serverless>serverless/serverless</a><p>⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –</p></li><li><a href=https://github.com/rzashakeri/beautify-github-profile>rzashakeri/beautify-github-profile</a><p>This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐</p></li></ul>
+<ul><li><a href=https://github.com/jhipster/generator-jhipster>jhipster/generator-jhipster</a><p>JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.</p></li><li><a href=https://github.com/baseplate-admin/CoreProject>baseplate-admin/CoreProject</a><p>A modern streaming site</p></li><li><a href=https://github.com/blackboxo/CleanMyWechat>blackboxo/CleanMyWechat</a><p>自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。</p></li><li><a href=https://github.com/Solido/awesome-flutter>Solido/awesome-flutter</a><p>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</p></li><li><a href=https://github.com/CSML-by-Clevy/csml-engine>CSML-by-Clevy/csml-engine</a><p>CSML is an easy-to-use chatbot programming language and framework.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/28/22, 8:03 PM<br>下一次刷新：5/28/22, 11:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/28/22, 11:03 PM<br>下一次刷新：5/29/22, 2:03 AM</p>
