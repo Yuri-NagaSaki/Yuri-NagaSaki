@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/elementor/elementor>elementor/elementor</a><p>The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.</p></li><li><a href=https://github.com/baseplate-admin/CoreProject>baseplate-admin/CoreProject</a><p>A modern streaming site</p></li><li><a href=https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books>cat-milk/Anime-Girls-Holding-Programming-Books</a><p>Anime Girls Holding Programming Books</p></li><li><a href=https://github.com/rzashakeri/beautify-github-profile>rzashakeri/beautify-github-profile</a><p>This repository helps you to have a more beautiful and attractive github profile, and you can access a complete set of tools and guides for beautifying your github profile. 🪄 ⭐</p></li><li><a href=https://github.com/amehime/shoka>amehime/shoka</a><p>书架@github</p></li></ul>
+<ul><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li><li><a href=https://github.com/YieldRay/Random-Picture>YieldRay/Random-Picture</a><p>随机图片api</p></li><li><a href=https://github.com/elementor/elementor>elementor/elementor</a><p>The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.</p></li><li><a href=https://github.com/jhipster/generator-jhipster>jhipster/generator-jhipster</a><p>JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.</p></li><li><a href=https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books>cat-milk/Anime-Girls-Holding-Programming-Books</a><p>Anime Girls Holding Programming Books</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/28/22, 5:03 AM<br>下一次刷新：5/28/22, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/28/22, 8:11 AM<br>下一次刷新：5/28/22, 11:11 AM</p>
