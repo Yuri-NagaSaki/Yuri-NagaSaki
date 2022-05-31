@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/elementor/elementor>elementor/elementor</a><p>The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.</p></li><li><a href=https://github.com/ElMassimo/iles>ElMassimo/iles</a><p>🏝 The joyful site generator</p></li><li><a href=https://github.com/EstrellaXD/Auto_Bangumi>EstrellaXD/Auto_Bangumi</a><p>AutoBangumi - 全自动追番工具，节约时间创造价值</p></li><li><a href=https://github.com/snowie2000/mactype>snowie2000/mactype</a><p>Better font rendering for Windows.</p></li><li><a href=https://github.com/rkstrdee/Amethyst>rkstrdee/Amethyst</a><p>A KDE plasma theme</p></li></ul>
+<ul><li><a href=https://github.com/yang991178/fluent-reader>yang991178/fluent-reader</a><p>Modern desktop RSS reader built with Electron, React, and Fluent UI</p></li><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/CSML-by-Clevy/csml-engine>CSML-by-Clevy/csml-engine</a><p>CSML is an easy-to-use chatbot programming language and framework.</p></li><li><a href=https://github.com/LYshiying/ui_bot>LYshiying/ui_bot</a><p>[羽衣bot~]基于Nonebot1的QQ机器人,功能: 搜图,搜本,订阅推特, 订阅pixiv, 订阅rsshub, 获取色图, 彩云续写, blhxwiki, 今日新闻等多种功能</p></li><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/31/22, 2:03 PM<br>下一次刷新：5/31/22, 5:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：5/31/22, 5:03 PM<br>下一次刷新：5/31/22, 8:03 PM</p>
