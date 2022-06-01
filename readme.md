@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/abhisheknaiidu/awesome-github-profile-readme>abhisheknaiidu/awesome-github-profile-readme</a><p>😎 A curated list of awesome GitHub Profile READMEs 📝</p></li><li><a href=https://github.com/Solido/awesome-flutter>Solido/awesome-flutter</a><p>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</p></li><li><a href=https://github.com/rkstrdee/Amethyst>rkstrdee/Amethyst</a><p>A KDE plasma theme</p></li><li><a href=https://github.com/Teahouse-Studios/bot>Teahouse-Studios/bot</a><p>茶馆群内QQ机器人（小可）</p></li><li><a href=https://github.com/bedimcode/responsive-404-page>bedimcode/responsive-404-page</a><p>Responsive 404 Page Website Design Using HTML CSS & JavaScript</p></li></ul>
+<ul><li><a href=https://github.com/yang991178/fluent-reader>yang991178/fluent-reader</a><p>Modern desktop RSS reader built with Electron, React, and Fluent UI</p></li><li><a href=https://github.com/dailydotdev/daily>dailydotdev/daily</a><p>daily.dev is where developers grow together 👩🏽‍💻 👨‍💻</p></li><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/rkstrdee/Amethyst>rkstrdee/Amethyst</a><p>A KDE plasma theme</p></li><li><a href=https://github.com/EstrellaXD/Auto_Bangumi>EstrellaXD/Auto_Bangumi</a><p>AutoBangumi - 全自动追番工具，节约时间创造价值</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/22, 5:04 PM<br>下一次刷新：6/1/22, 8:04 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/1/22, 8:04 PM<br>下一次刷新：6/1/22, 11:04 PM</p>
