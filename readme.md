@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li><li><a href=https://github.com/jhipster/generator-jhipster>jhipster/generator-jhipster</a><p>JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.</p></li><li><a href=https://github.com/yang991178/fluent-reader>yang991178/fluent-reader</a><p>Modern desktop RSS reader built with Electron, React, and Fluent UI</p></li><li><a href=https://github.com/ElMassimo/iles>ElMassimo/iles</a><p>🏝 The joyful site generator</p></li><li><a href=https://github.com/baseplate-admin/CoreProject>baseplate-admin/CoreProject</a><p>A modern streaming site</p></li></ul>
+<ul><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li><li><a href=https://github.com/blackboxo/CleanMyWechat>blackboxo/CleanMyWechat</a><p>自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。</p></li><li><a href=https://github.com/litespeedtech/ls-cloud-image>litespeedtech/ls-cloud-image</a></li><li><a href=https://github.com/RimoChan/sese-engine>RimoChan/sese-engine</a><p>【sese-engine】新时代的搜索引擎！</p></li><li><a href=https://github.com/jhipster/generator-jhipster>jhipster/generator-jhipster</a><p>JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/22, 2:03 AM<br>下一次刷新：6/3/22, 5:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/22, 5:03 AM<br>下一次刷新：6/3/22, 8:03 AM</p>
