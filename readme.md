@@ -85,7 +85,7 @@ most used s-s-social things >~< xoxox</p>
 
 **最近写了...**
 
-<ul><li><span>3/8/22 - <a href=https://innei.ren//posts/programming/remix-get-initial-data-for-root>Remix 首屏数据注入的 HACK 方式</a></span></li><li><span>1/14/22 - <a href=https://innei.ren//posts/programming/how-to-handle-nextjs-getInitialProps-error>在 NextJS 预获取数据时正确处理异常请求</a></span><p>Emmm.. 这个问题困恼我两年之久，终于得以解开。</p></li><li><span>1/10/22 - <a href=https://innei.ren//posts/technology/2022-frontend-is-so-juan>2022 年学习前端需要学点什么</a></span><p>前端真是太卷了，卷卷卷卷卷卷卷</p></li><li><span>1/3/22 - <a href=https://innei.ren//posts/learning-process/thinking-with-js-event-loop>由一个钟表引发的思考</a></span></li><li><span>12/14/21 - <a href=https://innei.ren//posts/programming/sdk-unit-test-and-e2e>编写接口请求库单元测试与 E2E 测试的思考</a></span><p>在做接口请求 JS SDK 时做的一些思考与尝试。不知道有没有更好的办法。还请指点</p></li></ul>
+<ul><li><span>6/3/22 - <a href=https://innei.ren//posts/programming/recently-2022_3-6>最近写的小玩意</a></span><p>我太水了。</p></li><li><span>3/8/22 - <a href=https://innei.ren//posts/programming/remix-get-initial-data-for-root>Remix 首屏数据注入的 HACK 方式</a></span></li><li><span>1/14/22 - <a href=https://innei.ren//posts/programming/how-to-handle-nextjs-getInitialProps-error>在 NextJS 预获取数据时正确处理异常请求</a></span><p>Emmm.. 这个问题困恼我两年之久，终于得以解开。</p></li><li><span>1/10/22 - <a href=https://innei.ren//posts/technology/2022-frontend-is-so-juan>2022 年学习前端需要学点什么</a></span><p>前端真是太卷了，卷卷卷卷卷卷卷</p></li><li><span>1/3/22 - <a href=https://innei.ren//posts/learning-process/thinking-with-js-event-loop>由一个钟表引发的思考</a></span></li></ul>
 
 **最近赞了...**
 
@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/honojs/hono>honojs/hono</a><p>Ultrafast web framework for Cloudflare Workers. Fast, but not only fast.</p></li><li><a href=https://github.com/c0re100/qBittorrent-Enhanced-Edition>c0re100/qBittorrent-Enhanced-Edition</a><p>[Unofficial] qBittorrent Enhanced, based on qBittorrent</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li><li><a href=https://github.com/EstrellaXD/Auto_Bangumi>EstrellaXD/Auto_Bangumi</a><p>AutoBangumi - 全自动追番工具，节约时间创造价值</p></li><li><a href=https://github.com/Teahouse-Studios/bot>Teahouse-Studios/bot</a><p>茶馆群内QQ机器人（小可）</p></li></ul>
+<ul><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li><li><a href=https://github.com/insoxin/China-Telecom-Helper>insoxin/China-Telecom-Helper</a><p>中国电信助手,白嫖年入保底256+话费 .每月金豆领取(lv6,1000金豆),每日签到(随机金豆),每日喂食宠物.每日登录奖励领取(5金豆),查看我的云盘(10金豆),翻牌 (10金豆),查看我的订单 (5金豆),打开消息 (100金豆),当日分享 (50金豆),浏览生活频道 (5金豆),查看我的金豆 (5金豆),关注直播 (5金豆),观看直播15s (5金豆),打开消息 (100金豆),答问卷 (100金豆)</p></li><li><a href=https://github.com/ElMassimo/iles>ElMassimo/iles</a><p>🏝 The joyful site generator</p></li><li><a href=https://github.com/blackboxo/CleanMyWechat>blackboxo/CleanMyWechat</a><p>自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/22, 5:03 PM<br>下一次刷新：6/3/22, 8:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/3/22, 11:03 PM<br>下一次刷新：6/4/22, 2:03 AM</p>
