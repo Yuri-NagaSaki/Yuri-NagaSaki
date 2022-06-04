@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/dailydotdev/daily>dailydotdev/daily</a><p>daily.dev is where developers grow together 👩🏽‍💻 👨‍💻</p></li><li><a href=https://github.com/Teahouse-Studios/bot>Teahouse-Studios/bot</a><p>茶馆群内QQ机器人（小可）</p></li><li><a href=https://github.com/elementor/elementor>elementor/elementor</a><p>The most advanced frontend drag & drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.</p></li><li><a href=https://github.com/amehime/shoka>amehime/shoka</a><p>书架@github</p></li><li><a href=https://github.com/rkstrdee/Amethyst>rkstrdee/Amethyst</a><p>A KDE plasma theme</p></li></ul>
+<ul><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li><li><a href=https://github.com/jhipster/generator-jhipster>jhipster/generator-jhipster</a><p>JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.</p></li><li><a href=https://github.com/ElMassimo/iles>ElMassimo/iles</a><p>🏝 The joyful site generator</p></li><li><a href=https://github.com/dailydotdev/daily>dailydotdev/daily</a><p>daily.dev is where developers grow together 👩🏽‍💻 👨‍💻</p></li><li><a href=https://github.com/YieldRay/Random-Picture>YieldRay/Random-Picture</a><p>随机图片api</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/5/22, 2:03 AM<br>下一次刷新：6/5/22, 5:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/5/22, 5:03 AM<br>下一次刷新：6/5/22, 8:03 AM</p>
