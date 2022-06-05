@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/smartcontractkit/full-blockchain-solidity-course-js>smartcontractkit/full-blockchain-solidity-course-js</a><p>Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript</p></li><li><a href=https://github.com/yang991178/fluent-reader>yang991178/fluent-reader</a><p>Modern desktop RSS reader built with Electron, React, and Fluent UI</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li><li><a href=https://github.com/amehime/shoka>amehime/shoka</a><p>书架@github</p></li><li><a href=https://github.com/c0re100/qBittorrent-Enhanced-Edition>c0re100/qBittorrent-Enhanced-Edition</a><p>[Unofficial] qBittorrent Enhanced, based on qBittorrent</p></li></ul>
+<ul><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li><li><a href=https://github.com/abhisheknaiidu/awesome-github-profile-readme>abhisheknaiidu/awesome-github-profile-readme</a><p>😎 A curated list of awesome GitHub Profile READMEs 📝</p></li><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li><li><a href=https://github.com/ElMassimo/iles>ElMassimo/iles</a><p>🏝 The joyful site generator</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/5/22, 2:03 PM<br>下一次刷新：6/5/22, 5:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/5/22, 5:03 PM<br>下一次刷新：6/5/22, 8:03 PM</p>
