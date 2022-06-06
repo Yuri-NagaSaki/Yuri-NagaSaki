@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jhipster/generator-jhipster>jhipster/generator-jhipster</a><p>JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.</p></li><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li><li><a href=https://github.com/honojs/hono>honojs/hono</a><p>Ultrafast web framework for Cloudflare Workers. Fast, but not only fast.</p></li><li><a href=https://github.com/snowie2000/mactype>snowie2000/mactype</a><p>Better font rendering for Windows.</p></li><li><a href=https://github.com/blackboxo/CleanMyWechat>blackboxo/CleanMyWechat</a><p>自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。</p></li></ul>
+<ul><li><a href=https://github.com/EstrellaXD/Auto_Bangumi>EstrellaXD/Auto_Bangumi</a><p>AutoBangumi - 全自动追番工具，节约时间创造价值</p></li><li><a href=https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books>cat-milk/Anime-Girls-Holding-Programming-Books</a><p>Anime Girls Holding Programming Books</p></li><li><a href=https://github.com/litespeedtech/ls-cloud-image>litespeedtech/ls-cloud-image</a></li><li><a href=https://github.com/Teahouse-Studios/bot>Teahouse-Studios/bot</a><p>茶馆群内QQ机器人（小可）</p></li><li><a href=https://github.com/honojs/hono>honojs/hono</a><p>Ultrafast web framework for Cloudflare Workers. Fast, but not only fast.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/6/22, 5:03 PM<br>下一次刷新：6/6/22, 8:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/6/22, 8:03 PM<br>下一次刷新：6/6/22, 11:03 PM</p>
