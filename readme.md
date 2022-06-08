@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/litespeedtech/ls-cloud-image>litespeedtech/ls-cloud-image</a></li><li><a href=https://github.com/EstrellaXD/Auto_Bangumi>EstrellaXD/Auto_Bangumi</a><p>AutoBangumi - 全自动追番工具，节约时间创造价值</p></li><li><a href=https://github.com/honojs/hono>honojs/hono</a><p>Ultrafast web framework for Cloudflare Workers. Fast, but not only fast.</p></li><li><a href=https://github.com/requarks/wiki>requarks/wiki</a><p>Wiki.js | A modern and powerful wiki app built on Node.js</p></li><li><a href=https://github.com/c0re100/qBittorrent-Enhanced-Edition>c0re100/qBittorrent-Enhanced-Edition</a><p>[Unofficial] qBittorrent Enhanced, based on qBittorrent</p></li></ul>
+<ul><li><a href=https://github.com/c0re100/qBittorrent-Enhanced-Edition>c0re100/qBittorrent-Enhanced-Edition</a><p>[Unofficial] qBittorrent Enhanced, based on qBittorrent</p></li><li><a href=https://github.com/requarks/wiki>requarks/wiki</a><p>Wiki.js | A modern and powerful wiki app built on Node.js</p></li><li><a href=https://github.com/Akebi-Group/Akebi-GC>Akebi-Group/Akebi-GC</a><p>The great software for some game that exploiting anime girls (and boys).</p></li><li><a href=https://github.com/rkstrdee/Amethyst>rkstrdee/Amethyst</a><p>A KDE plasma theme</p></li><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/22, 11:03 PM<br>下一次刷新：6/9/22, 2:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/9/22, 2:03 AM<br>下一次刷新：6/9/22, 5:03 AM</p>
