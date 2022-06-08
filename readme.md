@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Akebi-Group/Akebi-GC>Akebi-Group/Akebi-GC</a><p>The great software for some game that exploiting anime girls (and boys).</p></li><li><a href=https://github.com/abhisheknaiidu/awesome-github-profile-readme>abhisheknaiidu/awesome-github-profile-readme</a><p>😎 A curated list of awesome GitHub Profile READMEs 📝</p></li><li><a href=https://github.com/Solido/awesome-flutter>Solido/awesome-flutter</a><p>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</p></li><li><a href=https://github.com/rkstrdee/Amethyst>rkstrdee/Amethyst</a><p>A KDE plasma theme</p></li><li><a href=https://github.com/Teahouse-Studios/bot>Teahouse-Studios/bot</a><p>茶馆群内QQ机器人（小可）</p></li></ul>
+<ul><li><a href=https://github.com/litespeedtech/ls-cloud-image>litespeedtech/ls-cloud-image</a></li><li><a href=https://github.com/Teahouse-Studios/bot>Teahouse-Studios/bot</a><p>茶馆群内QQ机器人（小可）</p></li><li><a href=https://github.com/Asabeneh/30-Days-Of-React>Asabeneh/30-Days-Of-React</a><p>30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100 days, follow your own pace.</p></li><li><a href=https://github.com/blackboxo/CleanMyWechat>blackboxo/CleanMyWechat</a><p>自动删除 PC 端微信缓存数据，包括从所有聊天中自动下载的大量文件、视频、图片等数据内容，解放你的空间。</p></li><li><a href=https://github.com/yang991178/fluent-reader>yang991178/fluent-reader</a><p>Modern desktop RSS reader built with Electron, React, and Fluent UI</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/22, 5:03 AM<br>下一次刷新：6/8/22, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/8/22, 8:09 AM<br>下一次刷新：6/8/22, 11:09 AM</p>
