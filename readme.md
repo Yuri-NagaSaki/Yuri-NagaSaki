@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/Cveinnt/LiveTerm>Cveinnt/LiveTerm</a><p>💻 Build terminal styled websites in minutes!</p></li><li><a href=https://github.com/Solido/awesome-flutter>Solido/awesome-flutter</a><p>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</p></li><li><a href=https://github.com/getumbrel/umbrel>getumbrel/umbrel</a><p>A beautiful personal server OS for self-hosting. Install on a Raspberry Pi or Ubuntu/Debian.</p></li><li><a href=https://github.com/Asabeneh/30-Days-Of-React>Asabeneh/30-Days-Of-React</a><p>30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100 days, follow your own pace.</p></li></ul>
+<ul><li><a href=https://github.com/snowie2000/mactype>snowie2000/mactype</a><p>Better font rendering for Windows.</p></li><li><a href=https://github.com/RimoChan/sese-engine>RimoChan/sese-engine</a><p>【sese-engine】新时代的搜索引擎！</p></li><li><a href=https://github.com/baseplate-admin/CoreProject>baseplate-admin/CoreProject</a><p>A modern streaming site</p></li><li><a href=https://github.com/litespeedtech/ls-cloud-image>litespeedtech/ls-cloud-image</a></li><li><a href=https://github.com/chakra-ui/chakra-ui>chakra-ui/chakra-ui</a><p>⚡️ Simple, Modular & Accessible UI Components for your React Applications</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/9/22, 8:10 PM<br>下一次刷新：6/9/22, 11:10 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 2:05 AM<br>下一次刷新：6/10/22, 5:05 AM</p>
