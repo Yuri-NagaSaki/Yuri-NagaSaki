@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/honojs/hono>honojs/hono</a><p>Ultrafast web framework for Cloudflare Workers. Fast, but not only fast.</p></li><li><a href=https://github.com/coreybutler/nvm-windows>coreybutler/nvm-windows</a><p>A node.js version management utility for Windows. Ironically written in Go.</p></li><li><a href=https://github.com/EstrellaXD/Auto_Bangumi>EstrellaXD/Auto_Bangumi</a><p>AutoBangumi - 全自动追番工具，节约时间创造价值</p></li><li><a href=https://github.com/DeSireFire/animeTrackerList>DeSireFire/animeTrackerList</a><p>动漫磁性链接加速方案（animeTrackerList）</p></li><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li></ul>
+<ul><li><a href=https://github.com/Asabeneh/30-Days-Of-React>Asabeneh/30-Days-Of-React</a><p>30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100 days, follow your own pace.</p></li><li><a href=https://github.com/litespeedtech/ls-cloud-image>litespeedtech/ls-cloud-image</a></li><li><a href=https://github.com/Cveinnt/LiveTerm>Cveinnt/LiveTerm</a><p>💻 Build terminal styled websites in minutes!</p></li><li><a href=https://github.com/honojs/hono>honojs/hono</a><p>Ultrafast web framework for Cloudflare Workers. Fast, but not only fast.</p></li><li><a href=https://github.com/dailydotdev/daily>dailydotdev/daily</a><p>daily.dev is where developers grow together 👩🏽‍💻 👨‍💻</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 8:26 PM<br>下一次刷新：6/10/22, 11:26 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/10/22, 11:15 PM<br>下一次刷新：6/11/22, 2:15 AM</p>
