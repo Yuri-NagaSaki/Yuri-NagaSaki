@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/litespeedtech/ls-cloud-image>litespeedtech/ls-cloud-image</a></li><li><a href=https://github.com/c0re100/qBittorrent-Enhanced-Edition>c0re100/qBittorrent-Enhanced-Edition</a><p>[Unofficial] qBittorrent Enhanced, based on qBittorrent</p></li><li><a href=https://github.com/Cveinnt/LiveTerm>Cveinnt/LiveTerm</a><p>💻 Build terminal styled websites in minutes!</p></li><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/Solido/awesome-flutter>Solido/awesome-flutter</a><p>An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.</p></li></ul>
+<ul><li><a href=https://github.com/rakkasjs/rakkasjs>rakkasjs/rakkasjs</a><p>Lightning fast Next.js alternative powered by Vite</p></li><li><a href=https://github.com/Akebi-Group/Akebi-GC>Akebi-Group/Akebi-GC</a><p>The great software for some game that exploiting anime girls (and boys).</p></li><li><a href=https://github.com/snowie2000/mactype>snowie2000/mactype</a><p>Better font rendering for Windows.</p></li><li><a href=https://github.com/Rem0o/FanControl.Releases>Rem0o/FanControl.Releases</a><p>This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.</p></li><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/11/22, 2:16 AM<br>下一次刷新：6/11/22, 5:16 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/11/22, 5:11 AM<br>下一次刷新：6/11/22, 8:11 AM</p>
