@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lissy93/dashy>Lissy93/dashy</a><p>🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</p></li><li><a href=https://github.com/Akebi-Group/Akebi-GC>Akebi-Group/Akebi-GC</a><p>The great software for some game that exploiting anime girls (and boys).</p></li><li><a href=https://github.com/czy0729/Bangumi>czy0729/Bangumi</a><p>:electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的的 bgm.tv 第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，已适配 iOS / Android、mobile / 简单 pad、light / dark theme，并加入了很多网页端难以实现的增强型功能。目前逐步迭代到 TypeScript。</p></li><li><a href=https://github.com/RimoChan/sese-engine>RimoChan/sese-engine</a><p>【sese-engine】新时代的搜索引擎！</p></li><li><a href=https://github.com/litespeedtech/ls-cloud-image>litespeedtech/ls-cloud-image</a></li></ul>
+<ul><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/czy0729/Bangumi>czy0729/Bangumi</a><p>:electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的的 bgm.tv 第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，已适配 iOS / Android、mobile / 简单 pad、light / dark theme，并加入了很多网页端难以实现的增强型功能。目前逐步迭代到 TypeScript。</p></li><li><a href=https://github.com/honojs/hono>honojs/hono</a><p>Ultrafast web framework for Cloudflare Workers. Fast, but not only fast.</p></li><li><a href=https://github.com/RimoChan/sese-engine>RimoChan/sese-engine</a><p>【sese-engine】新时代的搜索引擎！</p></li><li><a href=https://github.com/DeSireFire/animeTrackerList>DeSireFire/animeTrackerList</a><p>动漫磁性链接加速方案（animeTrackerList）</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/12/22, 11:12 PM<br>下一次刷新：6/13/22, 2:12 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/13/22, 2:14 AM<br>下一次刷新：6/13/22, 5:14 AM</p>
