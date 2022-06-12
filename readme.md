@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/litespeedtech/ls-cloud-image>litespeedtech/ls-cloud-image</a></li><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/c0re100/qBittorrent-Enhanced-Edition>c0re100/qBittorrent-Enhanced-Edition</a><p>[Unofficial] qBittorrent Enhanced, based on qBittorrent</p></li><li><a href=https://github.com/requarks/wiki>requarks/wiki</a><p>Wiki.js | A modern and powerful wiki app built on Node.js</p></li></ul>
+<ul><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/dempfi/ayu>dempfi/ayu</a><p>🎨🖌 Modern Sublime Text theme</p></li><li><a href=https://github.com/yang991178/fluent-reader>yang991178/fluent-reader</a><p>Modern desktop RSS reader built with Electron, React, and Fluent UI</p></li><li><a href=https://github.com/EstrellaXD/Auto_Bangumi>EstrellaXD/Auto_Bangumi</a><p>AutoBangumi - 全自动追番工具，节约时间创造价值</p></li><li><a href=https://github.com/Cveinnt/LiveTerm>Cveinnt/LiveTerm</a><p>💻 Build terminal styled websites in minutes!</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/12/22, 5:13 PM<br>下一次刷新：6/12/22, 8:13 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/12/22, 8:20 PM<br>下一次刷新：6/12/22, 11:20 PM</p>
