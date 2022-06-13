@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/coreybutler/nvm-windows>coreybutler/nvm-windows</a><p>A node.js version management utility for Windows. Ironically written in Go.</p></li><li><a href=https://github.com/litespeedtech/ls-cloud-image>litespeedtech/ls-cloud-image</a></li><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/payloadcms/payload>payloadcms/payload</a><p>Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB</p></li></ul>
+<ul><li><a href=https://github.com/dailydotdev/daily>dailydotdev/daily</a><p>daily.dev is where developers grow together 👩🏽‍💻 👨‍💻</p></li><li><a href=https://github.com/minio/minio>minio/minio</a><p>Multi-Cloud :cloud: Object Storage</p></li><li><a href=https://github.com/SudhanPlayz/Discord-MusicBot>SudhanPlayz/Discord-MusicBot</a><p>An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!</p></li><li><a href=https://github.com/Cveinnt/LiveTerm>Cveinnt/LiveTerm</a><p>💻 Build terminal styled websites in minutes!</p></li><li><a href=https://github.com/coreybutler/nvm-windows>coreybutler/nvm-windows</a><p>A node.js version management utility for Windows. Ironically written in Go.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/13/22, 11:17 PM<br>下一次刷新：6/14/22, 2:17 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/14/22, 5:12 AM<br>下一次刷新：6/14/22, 8:12 AM</p>
