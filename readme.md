@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/yang991178/fluent-reader>yang991178/fluent-reader</a><p>Modern desktop RSS reader built with Electron, React, and Fluent UI</p></li><li><a href=https://github.com/Asabeneh/30-Days-Of-React>Asabeneh/30-Days-Of-React</a><p>30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100 days, follow your own pace.</p></li><li><a href=https://github.com/dailydotdev/daily>dailydotdev/daily</a><p>daily.dev is where developers grow together 👩🏽‍💻 👨‍💻</p></li><li><a href=https://github.com/dempfi/ayu>dempfi/ayu</a><p>🎨🖌 Modern Sublime Text theme</p></li><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li></ul>
+<ul><li><a href=https://github.com/Cveinnt/LiveTerm>Cveinnt/LiveTerm</a><p>💻 Build terminal styled websites in minutes!</p></li><li><a href=https://github.com/honojs/hono>honojs/hono</a><p>Ultrafast web framework for Cloudflare Workers. Fast, but not only fast.</p></li><li><a href=https://github.com/c0re100/qBittorrent-Enhanced-Edition>c0re100/qBittorrent-Enhanced-Edition</a><p>[Unofficial] qBittorrent Enhanced, based on qBittorrent</p></li><li><a href=https://github.com/dempfi/ayu>dempfi/ayu</a><p>🎨🖌 Modern Sublime Text theme</p></li><li><a href=https://github.com/Asabeneh/30-Days-Of-React>Asabeneh/30-Days-Of-React</a><p>30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take more than 100 days, follow your own pace.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/13/22, 9:07 AM<br>下一次刷新：6/13/22, 12:07 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/13/22, 11:54 AM<br>下一次刷新：6/13/22, 2:54 PM</p>
