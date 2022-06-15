@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/requarks/wiki>requarks/wiki</a><p>Wiki.js | A modern and powerful wiki app built on Node.js</p></li><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/tinymce/tinymce>tinymce/tinymce</a><p>The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular</p></li><li><a href=https://github.com/Lissy93/dashy>Lissy93/dashy</a><p>🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</p></li></ul>
+<ul><li><a href=https://github.com/Akebi-Group/Akebi-GC>Akebi-Group/Akebi-GC</a><p>The great software for some game that exploiting anime girls (and boys).</p></li><li><a href=https://github.com/VishwaGauravIn/github-profile-readme-maker>VishwaGauravIn/github-profile-readme-maker</a><p>🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫</p></li><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/c0re100/qBittorrent-Enhanced-Edition>c0re100/qBittorrent-Enhanced-Edition</a><p>[Unofficial] qBittorrent Enhanced, based on qBittorrent</p></li><li><a href=https://github.com/requarks/wiki>requarks/wiki</a><p>Wiki.js | A modern and powerful wiki app built on Node.js</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/15/22, 5:03 AM<br>下一次刷新：6/15/22, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/15/22, 8:12 AM<br>下一次刷新：6/15/22, 11:12 AM</p>
