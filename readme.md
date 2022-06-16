@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/DeSireFire/animeTrackerList>DeSireFire/animeTrackerList</a><p>动漫磁性链接加速方案（animeTrackerList）</p></li><li><a href=https://github.com/payloadcms/payload>payloadcms/payload</a><p>Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB</p></li><li><a href=https://github.com/Lissy93/dashy>Lissy93/dashy</a><p>🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</p></li><li><a href=https://github.com/MisterBooo/LeetCodeAnimation>MisterBooo/LeetCodeAnimation</a><p>Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）</p></li><li><a href=https://github.com/coollabsio/coolify>coollabsio/coolify</a><p>An open-source & self-hostable Heroku / Netlify alternative.</p></li></ul>
+<ul><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/Vets-Who-Code/windows-dev-guide>Vets-Who-Code/windows-dev-guide</a><p>Windows Developer Setup Guide (2022)</p></li><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a><p>⛷轻灵的 Markdown 笔记本伴你写出妙言 ⛷Lightweight Markdown app to help you write great sentences.</p></li><li><a href=https://github.com/Lissy93/dashy>Lissy93/dashy</a><p>🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/16/22, 5:03 PM<br>下一次刷新：6/16/22, 8:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/16/22, 8:03 PM<br>下一次刷新：6/16/22, 11:03 PM</p>
