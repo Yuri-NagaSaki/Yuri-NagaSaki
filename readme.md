@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li><li><a href=https://github.com/dempfi/ayu>dempfi/ayu</a><p>🎨🖌 Modern Sublime Text theme</p></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a><p>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</p></li><li><a href=https://github.com/tw93/MiaoYan>tw93/MiaoYan</a><p>⛷轻灵的 Markdown 笔记本伴你写出妙言 ⛷Lightweight Markdown app to help you write great sentences.</p></li><li><a href=https://github.com/minio/minio>minio/minio</a><p>Multi-Cloud :cloud: Object Storage</p></li></ul>
+<ul><li><a href=https://github.com/jonasschmedtmann/complete-javascript-course>jonasschmedtmann/complete-javascript-course</a><p>Starter files, final projects, and FAQ for my Complete JavaScript course</p></li><li><a href=https://github.com/tinymce/tinymce>tinymce/tinymce</a><p>The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular</p></li><li><a href=https://github.com/czy0729/Bangumi>czy0729/Bangumi</a><p>:electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的的 bgm.tv 第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，已适配 iOS / Android、mobile / 简单 pad、light / dark theme，并加入了很多网页端难以实现的增强型功能。目前逐步迭代到 TypeScript。</p></li><li><a href=https://github.com/Vets-Who-Code/windows-dev-guide>Vets-Who-Code/windows-dev-guide</a><p>Windows Developer Setup Guide (2022)</p></li><li><a href=https://github.com/getumbrel/umbrel>getumbrel/umbrel</a><p>A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/16/22, 11:03 PM<br>下一次刷新：6/17/22, 2:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/22, 2:03 AM<br>下一次刷新：6/17/22, 5:03 AM</p>
