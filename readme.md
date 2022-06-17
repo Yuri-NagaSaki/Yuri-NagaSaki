@@ -61,7 +61,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <p align="center">Here are some of my <br>
 most used s-s-social things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/Sayyiku" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ff69b4"/></a> 
+<p align="center"><a href="https://twitter.com/liricarain" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ff69b4"/></a> 
 <a href="https://steamcommunity.com/profiles/76561198985581347/" target="_blank"><img src="https://img.shields.io/badge/-Steam-orange"/>
 </a>
 </div>
@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/nitin42/react-imgpro>nitin42/react-imgpro</a><p>📷 Image Processing Component for React</p></li><li><a href=https://github.com/catppuccin/catppuccin>catppuccin/catppuccin</a><p>😸 Soothing pastel theme for the high-spirited!</p></li><li><a href=https://github.com/sindresorhus/awesome>sindresorhus/awesome</a><p>😎 Awesome lists about all kinds of interesting topics</p></li><li><a href=https://github.com/HalseySpicy/Geeker-Admin>HalseySpicy/Geeker-Admin</a><p>✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。</p></li><li><a href=https://github.com/wmjordan/PDFPatcher>wmjordan/PDFPatcher</a><p>PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等</p></li></ul>
+<ul><li><a href=https://github.com/AppFlowy-IO/AppFlowy>AppFlowy-IO/AppFlowy</a><p>AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</p></li><li><a href=https://github.com/nitin42/react-imgpro>nitin42/react-imgpro</a><p>📷 Image Processing Component for React</p></li><li><a href=https://github.com/catppuccin/catppuccin>catppuccin/catppuccin</a><p>😸 Soothing pastel theme for the high-spirited!</p></li><li><a href=https://github.com/sindresorhus/awesome>sindresorhus/awesome</a><p>😎 Awesome lists about all kinds of interesting topics</p></li><li><a href=https://github.com/HalseySpicy/Geeker-Admin>HalseySpicy/Geeker-Admin</a><p>✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/payloadcms/payload>payloadcms/payload</a><p>Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB</p></li><li><a href=https://github.com/getumbrel/umbrel>getumbrel/umbrel</a><p>A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.</p></li><li><a href=https://github.com/Splidejs/splide>Splidejs/splide</a><p>Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.</p></li><li><a href=https://github.com/coreybutler/nvm-windows>coreybutler/nvm-windows</a><p>A node.js version management utility for Windows. Ironically written in Go.</p></li><li><a href=https://github.com/VishwaGauravIn/github-profile-readme-maker>VishwaGauravIn/github-profile-readme-maker</a><p>🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫</p></li></ul>
+<ul><li><a href=https://github.com/eidam/cf-workers-status-page>eidam/cf-workers-status-page</a><p>Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.</p></li><li><a href=https://github.com/getumbrel/umbrel>getumbrel/umbrel</a><p>A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.</p></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a><p>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</p></li><li><a href=https://github.com/requarks/wiki>requarks/wiki</a><p>Wiki.js | A modern and powerful wiki app built on Node.js</p></li><li><a href=https://github.com/nextui-org/nextui>nextui-org/nextui</a><p>🚀 Beautiful, fast and modern React UI library.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/22, 8:10 AM<br>下一次刷新：6/17/22, 11:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/22, 9:32 AM<br>下一次刷新：6/17/22, 12:32 PM</p>
