@@ -61,7 +61,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <p align="center">Here are some of my <br>
 most used s-s-social things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/liricarain" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ff69b4"/></a> 
+<p align="center"><a href="https://twitter.com/Sayyiku" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ff69b4"/></a> 
 <a href="https://steamcommunity.com/profiles/76561198985581347/" target="_blank"><img src="https://img.shields.io/badge/-Steam-orange"/>
 </a>
 </div>
