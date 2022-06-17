@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/czy0729/Bangumi>czy0729/Bangumi</a><p>:electron: An unofficial https://bgm.tv app client for Android and iOS, built with React Native. 一个无广告、不以盈利为目的的 bgm.tv 第三方客户端。简单比喻就是专门做 ACG 的类似豆瓣的应用。专门为移动端重新设计，已适配 iOS / Android、mobile / 简单 pad、light / dark theme，并加入了很多网页端难以实现的增强型功能。目前逐步迭代到 TypeScript。</p></li><li><a href=https://github.com/Vets-Who-Code/windows-dev-guide>Vets-Who-Code/windows-dev-guide</a><p>Windows Developer Setup Guide (2022)</p></li><li><a href=https://github.com/payloadcms/payload>payloadcms/payload</a><p>Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB</p></li><li><a href=https://github.com/tinymce/tinymce>tinymce/tinymce</a><p>The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular</p></li><li><a href=https://github.com/getumbrel/umbrel>getumbrel/umbrel</a><p>A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.</p></li></ul>
+<ul><li><a href=https://github.com/Vets-Who-Code/windows-dev-guide>Vets-Who-Code/windows-dev-guide</a><p>Windows Developer Setup Guide (2022)</p></li><li><a href=https://github.com/sindresorhus/awesome>sindresorhus/awesome</a><p>😎 Awesome lists about all kinds of interesting topics</p></li><li><a href=https://github.com/jonasschmedtmann/complete-javascript-course>jonasschmedtmann/complete-javascript-course</a><p>Starter files, final projects, and FAQ for my Complete JavaScript course</p></li><li><a href=https://github.com/RustySamovar/RustySamovar>RustySamovar/RustySamovar</a><p>Server</p></li><li><a href=https://github.com/VishwaGauravIn/github-profile-readme-maker>VishwaGauravIn/github-profile-readme-maker</a><p>🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/22, 5:07 PM<br>下一次刷新：6/17/22, 8:07 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/17/22, 8:04 PM<br>下一次刷新：6/17/22, 11:04 PM</p>
