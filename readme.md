@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SudhanPlayz/Discord-MusicBot>SudhanPlayz/Discord-MusicBot</a><p>An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!</p></li><li><a href=https://github.com/HalseySpicy/Geeker-Admin>HalseySpicy/Geeker-Admin</a><p>✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。</p></li><li><a href=https://github.com/frontity/frontity>frontity/frontity</a><p>» Frontity - The React Framework for WordPress</p></li><li><a href=https://github.com/coreybutler/nvm-windows>coreybutler/nvm-windows</a><p>A node.js version management utility for Windows. Ironically written in Go.</p></li><li><a href=https://github.com/Splidejs/splide>Splidejs/splide</a><p>Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.</p></li></ul>
+<ul><li><a href=https://github.com/eidam/cf-workers-status-page>eidam/cf-workers-status-page</a><p>Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.</p></li><li><a href=https://github.com/frontity/frontity>frontity/frontity</a><p>» Frontity - The React Framework for WordPress</p></li><li><a href=https://github.com/sindresorhus/awesome>sindresorhus/awesome</a><p>😎 Awesome lists about all kinds of interesting topics</p></li><li><a href=https://github.com/coreybutler/nvm-windows>coreybutler/nvm-windows</a><p>A node.js version management utility for Windows. Ironically written in Go.</p></li><li><a href=https://github.com/nitin42/react-imgpro>nitin42/react-imgpro</a><p>📷 Image Processing Component for React</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/18/22, 2:03 PM<br>下一次刷新：6/18/22, 5:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/18/22, 5:03 PM<br>下一次刷新：6/18/22, 8:03 PM</p>
