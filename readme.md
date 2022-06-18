@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/coreybutler/nvm-windows>coreybutler/nvm-windows</a><p>A node.js version management utility for Windows. Ironically written in Go.</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/VishwaGauravIn/github-profile-readme-maker>VishwaGauravIn/github-profile-readme-maker</a><p>🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫</p></li><li><a href=https://github.com/payloadcms/payload>payloadcms/payload</a><p>Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB</p></li><li><a href=https://github.com/nitin42/react-imgpro>nitin42/react-imgpro</a><p>📷 Image Processing Component for React</p></li></ul>
+<ul><li><a href=https://github.com/SudhanPlayz/Discord-MusicBot>SudhanPlayz/Discord-MusicBot</a><p>An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!</p></li><li><a href=https://github.com/HalseySpicy/Geeker-Admin>HalseySpicy/Geeker-Admin</a><p>✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。</p></li><li><a href=https://github.com/frontity/frontity>frontity/frontity</a><p>» Frontity - The React Framework for WordPress</p></li><li><a href=https://github.com/coreybutler/nvm-windows>coreybutler/nvm-windows</a><p>A node.js version management utility for Windows. Ironically written in Go.</p></li><li><a href=https://github.com/Splidejs/splide>Splidejs/splide</a><p>Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/18/22, 11:27 AM<br>下一次刷新：6/18/22, 2:27 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/18/22, 2:03 PM<br>下一次刷新：6/18/22, 5:03 PM</p>
