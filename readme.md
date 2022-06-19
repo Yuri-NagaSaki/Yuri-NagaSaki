@@ -101,5 +101,5 @@ most used s-s-social things >~< xoxox</p>
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center><strong>お可愛いこと。</strong></p>
+<p align=center><strong>お可愛いこと</strong></p>
 <p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/19/22, 8:03 PM<br>下一次刷新：6/19/22, 11:03 PM</p>
