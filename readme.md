@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/BeyondDimension/SteamTools>BeyondDimension/SteamTools</a><p>🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。</p></li><li><a href=https://github.com/opq-osc/opqqq-plugin>opq-osc/opqqq-plugin</a><p>OPQBot 即开即用的插件，自定义表情、早晚安、Vtuber/Pcr/原神 运势等（兼容 nonebot-plugin 原项目配置）</p></li><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a><p>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</p></li><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers.</p></li></ul>
+<ul><li><a href=https://github.com/sudoaugustin/vslook>sudoaugustin/vslook</a><p>Customize your own vscode theme.</p></li><li><a href=https://github.com/BeyondDimension/SteamTools>BeyondDimension/SteamTools</a><p>🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。</p></li><li><a href=https://github.com/opq-osc/opqqq-plugin>opq-osc/opqqq-plugin</a><p>OPQBot 即开即用的插件，自定义表情、早晚安、Vtuber/Pcr/原神 运势等（兼容 nonebot-plugin 原项目配置）</p></li><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a><p>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</p></li><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/MisterBooo/LeetCodeAnimation>MisterBooo/LeetCodeAnimation</a><p>Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）</p></li><li><a href=https://github.com/coreybutler/nvm-windows>coreybutler/nvm-windows</a><p>A node.js version management utility for Windows. Ironically written in Go.</p></li><li><a href=https://github.com/VishwaGauravIn/github-profile-readme-maker>VishwaGauravIn/github-profile-readme-maker</a><p>🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫</p></li><li><a href=https://github.com/nitin42/react-imgpro>nitin42/react-imgpro</a><p>📷 Image Processing Component for React</p></li><li><a href=https://github.com/jonasschmedtmann/complete-javascript-course>jonasschmedtmann/complete-javascript-course</a><p>Starter files, final projects, and FAQ for my Complete JavaScript course</p></li></ul>
+<ul><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/getumbrel/umbrel>getumbrel/umbrel</a><p>A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.</p></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a><p>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</p></li><li><a href=https://github.com/Vets-Who-Code/windows-dev-guide>Vets-Who-Code/windows-dev-guide</a><p>Windows Developer Setup Guide (2022)</p></li><li><a href=https://github.com/jonasschmedtmann/complete-javascript-course>jonasschmedtmann/complete-javascript-course</a><p>Starter files, final projects, and FAQ for my Complete JavaScript course</p></li></ul>
 
 **你能找到我吗**
 
@@ -101,5 +101,5 @@ most used s-s-social things >~< xoxox</p>
 
 ------------
 Thanks，[@innei](https://innei.ren)
-<p align=center><strong>お可愛いこと</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/19/22, 8:03 PM<br>下一次刷新：6/19/22, 11:03 PM</p>
+<p align=center><strong>お可愛いこと。</strong></p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/19/22, 11:49 PM<br>下一次刷新：6/20/22, 2:49 AM</p>
