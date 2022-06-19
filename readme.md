@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/getumbrel/umbrel>getumbrel/umbrel</a><p>A beautiful personal server OS for self-hosting. Install on a Raspberry Pi 4 or Ubuntu/Debian.</p></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a><p>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</p></li><li><a href=https://github.com/Vets-Who-Code/windows-dev-guide>Vets-Who-Code/windows-dev-guide</a><p>Windows Developer Setup Guide (2022)</p></li><li><a href=https://github.com/jonasschmedtmann/complete-javascript-course>jonasschmedtmann/complete-javascript-course</a><p>Starter files, final projects, and FAQ for my Complete JavaScript course</p></li></ul>
+<ul><li><a href=https://github.com/SudhanPlayz/Discord-MusicBot>SudhanPlayz/Discord-MusicBot</a><p>An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!</p></li><li><a href=https://github.com/dempfi/ayu>dempfi/ayu</a><p>🎨🖌 Modern Sublime Text theme</p></li><li><a href=https://github.com/payloadcms/payload>payloadcms/payload</a><p>Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB</p></li><li><a href=https://github.com/tinymce/tinymce>tinymce/tinymce</a><p>The world's #1 JavaScript library for rich text editing. Available for React, Vue and Angular</p></li><li><a href=https://github.com/eidam/cf-workers-status-page>eidam/cf-workers-status-page</a><p>Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/19/22, 11:49 PM<br>下一次刷新：6/20/22, 2:49 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/20/22, 2:03 AM<br>下一次刷新：6/20/22, 5:03 AM</p>
