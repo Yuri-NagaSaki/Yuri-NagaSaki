@@ -81,7 +81,7 @@ most used s-s-social things >~< xoxox</p>
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/FormatCode target=_blank><b>Sayyiku/FormatCode</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/FormatCode?style=flat-square&labelColor=343b41"></td><td>4/17/2022</td><td>5/21/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/FormatCode target=_blank><b>Sayyiku/FormatCode</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/FormatCode?style=flat-square&labelColor=343b41"></td><td>4/17/2022</td><td>6/20/2022</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Splidejs/splide>Splidejs/splide</a><p>Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.</p></li><li><a href=https://github.com/wmjordan/PDFPatcher>wmjordan/PDFPatcher</a><p>PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等</p></li><li><a href=https://github.com/AppFlowy-IO/AppFlowy>AppFlowy-IO/AppFlowy</a><p>AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</p></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a><p>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</p></li><li><a href=https://github.com/sindresorhus/awesome>sindresorhus/awesome</a><p>😎 Awesome lists about all kinds of interesting topics</p></li></ul>
+<ul><li><a href=https://github.com/Le-niao/Yunzai-Bot>Le-niao/Yunzai-Bot</a><p>原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回</p></li><li><a href=https://github.com/VishwaGauravIn/github-profile-readme-maker>VishwaGauravIn/github-profile-readme-maker</a><p>🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫</p></li><li><a href=https://github.com/Splidejs/splide>Splidejs/splide</a><p>Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers.</p></li><li><a href=https://github.com/coollabsio/coolify>coollabsio/coolify</a><p>An open-source & self-hostable Heroku / Netlify alternative.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/20/22, 5:03 PM<br>下一次刷新：6/20/22, 8:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/20/22, 11:03 PM<br>下一次刷新：6/21/22, 2:03 AM</p>
