@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SudhanPlayz/Discord-MusicBot>SudhanPlayz/Discord-MusicBot</a><p>An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!</p></li><li><a href=https://github.com/eidam/cf-workers-status-page>eidam/cf-workers-status-page</a><p>Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.</p></li><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li><li><a href=https://github.com/nitin42/react-imgpro>nitin42/react-imgpro</a><p>📷 Image Processing Component for React</p></li><li><a href=https://github.com/FiloSottile/mkcert>FiloSottile/mkcert</a><p>A simple zero-config tool to make locally trusted development certificates with any names you'd like.</p></li></ul>
+<ul><li><a href=https://github.com/MisterBooo/LeetCodeAnimation>MisterBooo/LeetCodeAnimation</a><p>Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）</p></li><li><a href=https://github.com/coollabsio/coolify>coollabsio/coolify</a><p>An open-source & self-hostable Heroku / Netlify alternative.</p></li><li><a href=https://github.com/SudhanPlayz/Discord-MusicBot>SudhanPlayz/Discord-MusicBot</a><p>An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!</p></li><li><a href=https://github.com/wmjordan/PDFPatcher>wmjordan/PDFPatcher</a><p>PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等</p></li><li><a href=https://github.com/opq-osc/opqqq-plugin>opq-osc/opqqq-plugin</a><p>OPQBot 即开即用的插件，自定义表情、早晚安、Vtuber/Pcr/原神 运势等（兼容 nonebot-plugin 原项目配置）</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/21/22, 2:03 PM<br>下一次刷新：6/21/22, 5:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/21/22, 8:06 PM<br>下一次刷新：6/21/22, 11:06 PM</p>
