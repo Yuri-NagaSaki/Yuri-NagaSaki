@@ -103,3 +103,7 @@ most used s-s-social things >~< xoxox</p>
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
 <p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/22/22, 8:11 AM<br>下一次刷新：6/22/22, 11:11 AM</p>
+
+<a href="https://app.daily.dev/Sayyiku"><img src="https://api.daily.dev/devcards/df9f19ac64914936ba04897f7e46ac7e.png?r=wd9"  width="400" alt="Sayyiku's Dev Card"/></a>
+
+
