@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/dragonflydb/dragonfly>dragonflydb/dragonfly</a><p>A modern replacement for Redis and Memcached</p></li><li><a href=https://github.com/miiiku/hugo-theme-kagome>miiiku/hugo-theme-kagome</a><p>一个卡片类拟态风格的Hugo主题</p></li><li><a href=https://github.com/sudoaugustin/vslook>sudoaugustin/vslook</a><p>Customize your own vscode theme.</p></li><li><a href=https://github.com/BeyondDimension/SteamTools>BeyondDimension/SteamTools</a><p>🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。</p></li></ul>
+<ul><li><a href=https://github.com/Rongronggg9/RSS-to-Telegram-Bot>Rongronggg9/RSS-to-Telegram-Bot</a><p>A Telegram RSS bot that cares about your reading experience</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/dragonflydb/dragonfly>dragonflydb/dragonfly</a><p>A modern replacement for Redis and Memcached</p></li><li><a href=https://github.com/miiiku/hugo-theme-kagome>miiiku/hugo-theme-kagome</a><p>一个卡片类拟态风格的Hugo主题</p></li><li><a href=https://github.com/sudoaugustin/vslook>sudoaugustin/vslook</a><p>Customize your own vscode theme.</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/wmjordan/PDFPatcher>wmjordan/PDFPatcher</a><p>PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/SudhanPlayz/Discord-MusicBot>SudhanPlayz/Discord-MusicBot</a><p>An advanced discord music bot, supports Spotify, Soundcloud, YouTube with Shuffling, Volume Control and Web Dashboard with Slash Commands support!</p></li><li><a href=https://github.com/dempfi/ayu>dempfi/ayu</a><p>🎨🖌 Modern Sublime Text theme</p></li><li><a href=https://github.com/catppuccin/catppuccin>catppuccin/catppuccin</a><p>😸 Soothing pastel theme for the high-spirited!</p></li></ul>
+<ul><li><a href=https://github.com/Splidejs/splide>Splidejs/splide</a><p>Splide is a lightweight, flexible and accessible slider/carousel written in TypeScript. No dependencies, no Lighthouse errors.</p></li><li><a href=https://github.com/AppFlowy-IO/AppFlowy>AppFlowy-IO/AppFlowy</a><p>AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</p></li><li><a href=https://github.com/Innei/naive-ui-dashboard-template>Innei/naive-ui-dashboard-template</a><p>Naive UI Dashboard Template with TypeScript, WindiCSS.</p></li><li><a href=https://github.com/BeyondDimension/SteamTools>BeyondDimension/SteamTools</a><p>🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。</p></li><li><a href=https://github.com/VishwaGauravIn/github-profile-readme-maker>VishwaGauravIn/github-profile-readme-maker</a><p>🏆 Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free ! 💫</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,8 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/22/22, 8:11 AM<br>下一次刷新：6/22/22, 11:11 AM</p>
-
-<a href="https://app.daily.dev/Sayyiku"><img src="https://api.daily.dev/devcards/df9f19ac64914936ba04897f7e46ac7e.png?r=wd9"  width="400" alt="Sayyiku's Dev Card"/></a>
-
-
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/22/22, 9:43 AM<br>下一次刷新：6/22/22, 12:43 PM</p>
