@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/miiiku/hugo-theme-kagome>miiiku/hugo-theme-kagome</a><p>一个卡片类拟态风格的Hugo主题</p></li><li><a href=https://github.com/sindresorhus/awesome>sindresorhus/awesome</a><p>😎 Awesome lists about all kinds of interesting topics</p></li><li><a href=https://github.com/nitin42/react-imgpro>nitin42/react-imgpro</a><p>📷 Image Processing Component for React</p></li><li><a href=https://github.com/BeyondDimension/SteamTools>BeyondDimension/SteamTools</a><p>🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。</p></li><li><a href=https://github.com/SkyD666/Imomoe>SkyD666/Imomoe</a><p>樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。Discord：https://discord.gg/MyaRtRGEzr</p></li></ul>
+<ul><li><a href=https://github.com/MALSync/MALSync>MALSync/MALSync</a><p>Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.</p></li><li><a href=https://github.com/Kylart/KawAnime>Kylart/KawAnime</a><p>Desktop app for anime fans</p></li><li><a href=https://github.com/sindresorhus/awesome>sindresorhus/awesome</a><p>😎 Awesome lists about all kinds of interesting topics</p></li><li><a href=https://github.com/akbaryahya/DockerGC>akbaryahya/DockerGC</a><p>DockerGC is a container that runs Grasscutter with just a single command.</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/22/22, 5:03 PM<br>下一次刷新：6/22/22, 8:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/22/22, 8:04 PM<br>下一次刷新：6/22/22, 11:04 PM</p>
