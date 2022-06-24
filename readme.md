@@ -85,7 +85,7 @@ most used s-s-social things >~< xoxox</p>
 
 **最近写了...**
 
-<ul><li><span>6/3/22 - <a href=https://innei.ren//posts/programming/recently-2022_3-6>最近写的小玩意</a></span><p>我太水了。</p></li><li><span>3/8/22 - <a href=https://innei.ren//posts/programming/remix-get-initial-data-for-root>Remix 首屏数据注入的 HACK 方式</a></span></li><li><span>1/14/22 - <a href=https://innei.ren//posts/programming/how-to-handle-nextjs-getInitialProps-error>在 NextJS 预获取数据时正确处理异常请求</a></span><p>Emmm.. 这个问题困恼我两年之久，终于得以解开。</p></li><li><span>1/10/22 - <a href=https://innei.ren//posts/technology/2022-frontend-is-so-juan>2022 年学习前端需要学点什么</a></span><p>前端真是太卷了，卷卷卷卷卷卷卷</p></li><li><span>1/3/22 - <a href=https://innei.ren//posts/learning-process/thinking-with-js-event-loop>由一个钟表引发的思考</a></span></li></ul>
+<ul><li><span>6/24/22 - <a href=https://innei.ren//posts/programming/nextjs-optimiztion-perfermance>NextJS 首屏加载优化</a></span><p>记录对 NextJS 一次优化的过程。</p></li><li><span>6/3/22 - <a href=https://innei.ren//posts/programming/recently-2022_3-6>最近写的小玩意</a></span><p>我太水了。</p></li><li><span>3/8/22 - <a href=https://innei.ren//posts/programming/remix-get-initial-data-for-root>Remix 首屏数据注入的 HACK 方式</a></span></li><li><span>1/14/22 - <a href=https://innei.ren//posts/programming/how-to-handle-nextjs-getInitialProps-error>在 NextJS 预获取数据时正确处理异常请求</a></span><p>Emmm.. 这个问题困恼我两年之久，终于得以解开。</p></li><li><span>1/10/22 - <a href=https://innei.ren//posts/technology/2022-frontend-is-so-juan>2022 年学习前端需要学点什么</a></span><p>前端真是太卷了，卷卷卷卷卷卷卷</p></li></ul>
 
 **最近赞了...**
 
@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/miiiku/hugo-theme-kagome>miiiku/hugo-theme-kagome</a><p>一个卡片类拟态风格的Hugo主题</p></li><li><a href=https://github.com/AppFlowy-IO/AppFlowy>AppFlowy-IO/AppFlowy</a><p>AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</p></li><li><a href=https://github.com/wmjordan/PDFPatcher>wmjordan/PDFPatcher</a><p>PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/doki-theme/doki-theme-jetbrains>doki-theme/doki-theme-jetbrains</a><p>Cute anime character themes for your JetBrains IDEs.</p></li></ul>
+<ul><li><a href=https://github.com/eidam/cf-workers-status-page>eidam/cf-workers-status-page</a><p>Monitor your websites, showcase status including daily history, and get Slack/Telegram/Discord notification whenever your website status changes. Using Cloudflare Workers, CRON Triggers, and KV storage.</p></li><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li><li><a href=https://github.com/dragonflydb/dragonfly>dragonflydb/dragonfly</a><p>A modern replacement for Redis and Memcached</p></li><li><a href=https://github.com/BeeeQueue/yuna>BeeeQueue/yuna</a><p>ツ An anime player that integrates with AniList, Simkl, Crunchyroll, and Hidive.</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/24/22, 2:03 PM<br>下一次刷新：6/24/22, 5:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/24/22, 5:03 PM<br>下一次刷新：6/24/22, 8:03 PM</p>
