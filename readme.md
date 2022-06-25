@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li><li><a href=https://github.com/samuelmaddock/metastream>samuelmaddock/metastream</a><p>Watch streaming media with friends.</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li><li><a href=https://github.com/IgorKowalczyk/majo.exe>IgorKowalczyk/majo.exe</a><p>❤️ Majo.exe have almost everything - Fun, Memes, Images, Giveaway Moderation, Anime, NSFW and even more! Majo.exe serve over 150 commands!</p></li></ul>
+<ul><li><a href=https://github.com/Comfy-Themes/Spicetify>Comfy-Themes/Spicetify</a><p>Stay comfy while listening to music</p></li><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li><li><a href=https://github.com/samuelmaddock/metastream>samuelmaddock/metastream</a><p>Watch streaming media with friends.</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/doki-theme/doki-theme-jetbrains>doki-theme/doki-theme-jetbrains</a><p>Cute anime character themes for your JetBrains IDEs.</p></li><li><a href=https://github.com/chirag-droid/animeflix>chirag-droid/animeflix</a><p>A anime discovery, streaming site made with NextJs and TailwindCSS. Uses AniList API and video data from GogoAnime. No ads and no vpn required</p></li><li><a href=https://github.com/riimuru/gogoanime>riimuru/gogoanime</a><p>Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime</p></li><li><a href=https://github.com/nitin42/react-imgpro>nitin42/react-imgpro</a><p>📷 Image Processing Component for React</p></li><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li></ul>
+<ul><li><a href=https://github.com/BeeeQueue/yuna>BeeeQueue/yuna</a><p>ツ An anime player that integrates with AniList, Simkl, Crunchyroll, and Hidive.</p></li><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a><p>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</p></li><li><a href=https://github.com/AppFlowy-IO/AppFlowy>AppFlowy-IO/AppFlowy</a><p>AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</p></li><li><a href=https://github.com/catppuccin/catppuccin>catppuccin/catppuccin</a><p>😸 Soothing pastel theme for the high-spirited!</p></li><li><a href=https://github.com/wmjordan/PDFPatcher>wmjordan/PDFPatcher</a><p>PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 8:10 AM<br>下一次刷新：6/25/22, 11:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 11:31 AM<br>下一次刷新：6/25/22, 2:31 PM</p>
