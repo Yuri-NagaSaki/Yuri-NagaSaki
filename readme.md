@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/miiiku/hugo-theme-kagome>miiiku/hugo-theme-kagome</a><p>一个卡片类拟态风格的Hugo主题</p></li><li><a href=https://github.com/sudoaugustin/vslook>sudoaugustin/vslook</a><p>Customize your own vscode theme.</p></li><li><a href=https://github.com/catppuccin/catppuccin>catppuccin/catppuccin</a><p>😸 Soothing pastel theme for the high-spirited!</p></li><li><a href=https://github.com/MALSync/MALSync>MALSync/MALSync</a><p>Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.</p></li><li><a href=https://github.com/dragonflydb/dragonfly>dragonflydb/dragonfly</a><p>A modern replacement for Redis and Memcached</p></li></ul>
+<ul><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a><p>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</p></li><li><a href=https://github.com/Kylart/KawAnime>Kylart/KawAnime</a><p>Desktop app for anime fans</p></li><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li><li><a href=https://github.com/sindresorhus/awesome>sindresorhus/awesome</a><p>😎 Awesome lists about all kinds of interesting topics</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/22, 2:03 AM<br>下一次刷新：6/26/22, 5:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/22, 5:03 AM<br>下一次刷新：6/26/22, 8:03 AM</p>
