@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/Comfy-Themes/Spicetify>Comfy-Themes/Spicetify</a><p>Stay comfy while listening to music</p></li><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li><li><a href=https://github.com/samuelmaddock/metastream>samuelmaddock/metastream</a><p>Watch streaming media with friends.</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li></ul>
+<ul><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/Comfy-Themes/Spicetify>Comfy-Themes/Spicetify</a><p>Stay comfy while listening to music</p></li><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li><li><a href=https://github.com/samuelmaddock/metastream>samuelmaddock/metastream</a><p>Watch streaming media with friends.</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a><p>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</p></li><li><a href=https://github.com/SkyD666/Imomoe>SkyD666/Imomoe</a><p>樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。Discord：https://discord.gg/MyaRtRGEzr</p></li><li><a href=https://github.com/BeeeQueue/yuna>BeeeQueue/yuna</a><p>ツ An anime player that integrates with AniList, Simkl, Crunchyroll, and Hidive.</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li></ul>
+<ul><li><a href=https://github.com/miiiku/hugo-theme-kagome>miiiku/hugo-theme-kagome</a><p>一个卡片类拟态风格的Hugo主题</p></li><li><a href=https://github.com/sudoaugustin/vslook>sudoaugustin/vslook</a><p>Customize your own vscode theme.</p></li><li><a href=https://github.com/catppuccin/catppuccin>catppuccin/catppuccin</a><p>😸 Soothing pastel theme for the high-spirited!</p></li><li><a href=https://github.com/MALSync/MALSync>MALSync/MALSync</a><p>Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.</p></li><li><a href=https://github.com/dragonflydb/dragonfly>dragonflydb/dragonfly</a><p>A modern replacement for Redis and Memcached</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 11:03 PM<br>下一次刷新：6/26/22, 2:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/26/22, 2:03 AM<br>下一次刷新：6/26/22, 5:03 AM</p>
