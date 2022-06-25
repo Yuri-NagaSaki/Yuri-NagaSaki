@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/HalseySpicy/Geeker-Admin>HalseySpicy/Geeker-Admin</a><p>✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。</p></li><li><a href=https://github.com/AppFlowy-IO/AppFlowy>AppFlowy-IO/AppFlowy</a><p>AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</p></li><li><a href=https://github.com/BeyondDimension/SteamTools>BeyondDimension/SteamTools</a><p>🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。</p></li><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a><p>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</p></li></ul>
+<ul><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a><p>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</p></li><li><a href=https://github.com/SkyD666/Imomoe>SkyD666/Imomoe</a><p>樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。Discord：https://discord.gg/MyaRtRGEzr</p></li><li><a href=https://github.com/BeeeQueue/yuna>BeeeQueue/yuna</a><p>ツ An anime player that integrates with AniList, Simkl, Crunchyroll, and Hidive.</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 8:03 PM<br>下一次刷新：6/25/22, 11:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/25/22, 11:03 PM<br>下一次刷新：6/26/22, 2:03 AM</p>
