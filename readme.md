@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a><p>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</p></li><li><a href=https://github.com/doki-theme/doki-theme-jetbrains>doki-theme/doki-theme-jetbrains</a><p>Cute anime character themes for your JetBrains IDEs.</p></li><li><a href=https://github.com/HalseySpicy/Geeker-Admin>HalseySpicy/Geeker-Admin</a><p>✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。</p></li><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers.</p></li></ul>
+<ul><li><a href=https://github.com/nitin42/react-imgpro>nitin42/react-imgpro</a><p>📷 Image Processing Component for React</p></li><li><a href=https://github.com/IgorKowalczyk/majo.exe>IgorKowalczyk/majo.exe</a><p>❤️ Majo.exe have almost everything - Fun, Memes, Images, Giveaway Moderation, Anime, NSFW and even more! Majo.exe serve over 150 commands!</p></li><li><a href=https://github.com/AppFlowy-IO/AppFlowy>AppFlowy-IO/AppFlowy</a><p>AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</p></li><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a><p>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/27/22, 11:37 AM<br>下一次刷新：6/27/22, 2:37 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/27/22, 2:04 PM<br>下一次刷新：6/27/22, 5:04 PM</p>
