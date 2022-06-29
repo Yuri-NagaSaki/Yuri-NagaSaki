@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AppFlowy-IO/AppFlowy>AppFlowy-IO/AppFlowy</a><p>AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li><li><a href=https://github.com/chirag-droid/animeflix>chirag-droid/animeflix</a><p>A anime discovery, streaming site made with NextJs and TailwindCSS. Uses AniList API and video data from GogoAnime. No ads and no vpn required</p></li><li><a href=https://github.com/dragonflydb/dragonfly>dragonflydb/dragonfly</a><p>A modern replacement for Redis and Memcached</p></li><li><a href=https://github.com/MALSync/MALSync>MALSync/MALSync</a><p>Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.</p></li></ul>
+<ul><li><a href=https://github.com/miiiku/hugo-theme-kagome>miiiku/hugo-theme-kagome</a><p>一个卡片类拟态风格的Hugo主题</p></li><li><a href=https://github.com/riimuru/gogoanime>riimuru/gogoanime</a><p>Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime</p></li><li><a href=https://github.com/Rongronggg9/RSS-to-Telegram-Bot>Rongronggg9/RSS-to-Telegram-Bot</a><p>A Telegram RSS bot that cares about your reading experience</p></li><li><a href=https://github.com/Kylart/KawAnime>Kylart/KawAnime</a><p>Desktop app for anime fans</p></li><li><a href=https://github.com/doki-theme/doki-theme-jetbrains>doki-theme/doki-theme-jetbrains</a><p>Cute anime character themes for your JetBrains IDEs.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/29/22, 11:21 PM<br>下一次刷新：6/30/22, 2:21 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/30/22, 2:06 AM<br>下一次刷新：6/30/22, 5:06 AM</p>
