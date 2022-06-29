@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/opq-osc/opqqq-plugin>opq-osc/opqqq-plugin</a><p>OPQBot 即开即用的插件，自定义表情、早晚安、Vtuber/Pcr/原神 运势等（兼容 nonebot-plugin 原项目配置）</p></li><li><a href=https://github.com/BeeeQueue/yuna>BeeeQueue/yuna</a><p>ツ An anime player that integrates with AniList, Simkl, Crunchyroll, and Hidive.</p></li><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li><li><a href=https://github.com/IgorKowalczyk/majo.exe>IgorKowalczyk/majo.exe</a><p>❤️ Majo.exe have almost everything - Fun, Memes, Images, Giveaway Moderation, Anime, NSFW and even more! Majo.exe serve over 150 commands!</p></li><li><a href=https://github.com/dragonflydb/dragonfly>dragonflydb/dragonfly</a><p>A modern replacement for Redis and Memcached</p></li></ul>
+<ul><li><a href=https://github.com/iCyris/Magia>iCyris/Magia</a><p>🎀『魔法少女まどか☆マギカ』- CSS Animation Exercises</p></li><li><a href=https://github.com/samuelmaddock/metastream>samuelmaddock/metastream</a><p>Watch streaming media with friends.</p></li><li><a href=https://github.com/rocksdanister/lively>rocksdanister/lively</a><p>Free and open-source software that allows users to set animated desktop wallpapers and screensavers.</p></li><li><a href=https://github.com/tauri-apps/tauri>tauri-apps/tauri</a><p>Build smaller, faster, and more secure desktop applications with a web frontend.</p></li><li><a href=https://github.com/jenius-apps/ambie>jenius-apps/ambie</a><p>The best white noise app on Windows</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/29/22, 5:03 PM<br>下一次刷新：6/29/22, 8:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：6/29/22, 8:03 PM<br>下一次刷新：6/29/22, 11:03 PM</p>
