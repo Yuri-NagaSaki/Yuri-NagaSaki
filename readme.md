@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/Blackman99/casual-ui>Blackman99/casual-ui</a><p>A casual ui components lib. Supports Vue3+ and React 17+ （一个随意的组件库，支持Vue3+与React17+）</p></li><li><a href=https://github.com/rampatra/photography>rampatra/photography</a><p>A free online portfolio website to showcase your photos.</p></li><li><a href=https://github.com/paperplanefactory/paperplane-photography-theme>paperplanefactory/paperplane-photography-theme</a><p>A WordPress theme for photographers | 4K images and PWA - ready</p></li><li><a href=https://github.com/littleHiuman/Copyright-free-picture-website>littleHiuman/Copyright-free-picture-website</a><p>无版权图片网站（收集）</p></li></ul>
+<ul><li><a href=https://github.com/heyanLE/EasyBangumi>heyanLE/EasyBangumi</a><p>纯纯看番，追番和看番的安卓软件，多番剧源 -樱花动漫 -Bimibimi - AGE 动漫</p></li><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/Blackman99/casual-ui>Blackman99/casual-ui</a><p>A casual ui components lib. Supports Vue3+ and React 17+ （一个随意的组件库，支持Vue3+与React17+）</p></li><li><a href=https://github.com/rampatra/photography>rampatra/photography</a><p>A free online portfolio website to showcase your photos.</p></li><li><a href=https://github.com/paperplanefactory/paperplane-photography-theme>paperplanefactory/paperplane-photography-theme</a><p>A WordPress theme for photographers | 4K images and PWA - ready</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/moonrepo/moon>moonrepo/moon</a><p>A build system for the JavaScript ecosystem, written in Rust.</p></li><li><a href=https://github.com/Rongronggg9/RSS-to-Telegram-Bot>Rongronggg9/RSS-to-Telegram-Bot</a><p>A Telegram RSS bot that cares about your reading experience</p></li><li><a href=https://github.com/akbaryahya/DockerGC>akbaryahya/DockerGC</a><p>DockerGC is a container that runs Grasscutter with just a single command.</p></li><li><a href=https://github.com/Sayyiku/wonderful-acg>Sayyiku/wonderful-acg</a><p>一些有趣的acg项目</p></li><li><a href=https://github.com/y-young/nazurin>y-young/nazurin</a><p>🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illustrations.</p></li></ul>
+<ul><li><a href=https://github.com/y-young/nazurin>y-young/nazurin</a><p>🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illustrations.</p></li><li><a href=https://github.com/SkyD666/Imomoe>SkyD666/Imomoe</a><p>樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。Discord：https://discord.gg/MyaRtRGEzr</p></li><li><a href=https://github.com/akbaryahya/DockerGC>akbaryahya/DockerGC</a><p>DockerGC is a container that runs Grasscutter with just a single command.</p></li><li><a href=https://github.com/rocboss/paopao-ce>rocboss/paopao-ce</a><p>🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区</p></li><li><a href=https://github.com/samuelmaddock/metastream>samuelmaddock/metastream</a><p>Watch streaming media with friends.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/2/22, 8:11 AM<br>下一次刷新：7/2/22, 11:11 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/2/22, 11:35 AM<br>下一次刷新：7/2/22, 2:35 PM</p>
