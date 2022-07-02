@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/paperplanefactory/paperplane-photography-theme>paperplanefactory/paperplane-photography-theme</a><p>A WordPress theme for photographers | 4K images and PWA - ready</p></li><li><a href=https://github.com/samuelmaddock/metastream>samuelmaddock/metastream</a><p>Watch streaming media with friends.</p></li><li><a href=https://github.com/MALSync/MALSync>MALSync/MALSync</a><p>Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.</p></li><li><a href=https://github.com/Rongronggg9/RSS-to-Telegram-Bot>Rongronggg9/RSS-to-Telegram-Bot</a><p>A Telegram RSS bot that cares about your reading experience</p></li><li><a href=https://github.com/WeebDev/chibisafe>WeebDev/chibisafe</a><p>Blazing fast file uploader and awesome bunker written in node! 🚀</p></li></ul>
+<ul><li><a href=https://github.com/riimuru/gogoanime>riimuru/gogoanime</a><p>Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime</p></li><li><a href=https://github.com/rocboss/paopao-ce>rocboss/paopao-ce</a><p>🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li><li><a href=https://github.com/chirag-droid/animeflix>chirag-droid/animeflix</a><p>A anime discovery, streaming site made with NextJs and TailwindCSS. Uses AniList API and video data from GogoAnime. No ads and no vpn required</p></li><li><a href=https://github.com/BeeeQueue/yuna>BeeeQueue/yuna</a><p>ツ An anime player that integrates with AniList, Simkl, Crunchyroll, and Hidive.</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/22, 2:03 AM<br>下一次刷新：7/3/22, 5:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/22, 5:03 AM<br>下一次刷新：7/3/22, 8:03 AM</p>
