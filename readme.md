@@ -85,7 +85,7 @@ most used s-s-social things >~< xoxox</p>
 
 **最近写了...**
 
-<ul><li><span>6/27/22 - <a href=https://innei.ren//posts/design/talk-about-kami-ui-design-and-ux-with-animation>开发者聊 Kami 的设计与交互（动效设计）</a></span></li><li><span>6/24/22 - <a href=https://innei.ren//posts/programming/nextjs-optimiztion-perfermance>NextJS 首屏加载优化</a></span><p>记录对 NextJS 一次优化的过程。</p></li><li><span>6/3/22 - <a href=https://innei.ren//posts/programming/recently-2022_3-6>最近写的小玩意</a></span><p>我太水了。</p></li><li><span>3/8/22 - <a href=https://innei.ren//posts/programming/remix-get-initial-data-for-root>Remix 首屏数据注入的 HACK 方式</a></span></li><li><span>1/14/22 - <a href=https://innei.ren//posts/programming/how-to-handle-nextjs-getInitialProps-error>在 NextJS 预获取数据时正确处理异常请求</a></span><p>Emmm.. 这个问题困恼我两年之久，终于得以解开。</p></li></ul>
+<ul><li><span>Invalid Date - <a href="https://innei.ren//posts/undefined/undefined"></a></span></li><li><span>Invalid Date - <a href="https://innei.ren//posts/undefined/undefined"></a></span></li><li><span>Invalid Date - <a href="https://innei.ren//posts/undefined/undefined"></a></span></li><li><span>Invalid Date - <a href="https://innei.ren//posts/undefined/undefined"></a></span></li><li><span>Invalid Date - <a href="https://innei.ren//posts/undefined/undefined"></a></span></li></ul>
 
 **最近赞了...**
 
@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/littleHiuman/Copyright-free-picture-website>littleHiuman/Copyright-free-picture-website</a><p>无版权图片网站（收集）</p></li><li><a href=https://github.com/rocboss/paopao-ce>rocboss/paopao-ce</a><p>🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区</p></li><li><a href=https://github.com/akbaryahya/DockerGC>akbaryahya/DockerGC</a><p>DockerGC is a container that runs Grasscutter with just a single command.</p></li><li><a href=https://github.com/MALSync/MALSync>MALSync/MALSync</a><p>Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.</p></li><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li></ul>
+<ul><li><a href=https://github.com/littleHiuman/Copyright-free-picture-website>littleHiuman/Copyright-free-picture-website</a><p>无版权图片网站（收集）</p></li><li><a href=https://github.com/riimuru/gogoanime>riimuru/gogoanime</a><p>Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime</p></li><li><a href=https://github.com/y-young/nazurin>y-young/nazurin</a><p>🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illustrations.</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li><li><a href=https://github.com/WeebDev/chibisafe>WeebDev/chibisafe</a><p>Blazing fast file uploader and awesome bunker written in node! 🚀</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/2/22, 8:04 PM<br>下一次刷新：7/2/22, 11:04 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/2/22, 11:03 PM<br>下一次刷新：7/3/22, 2:03 AM</p>
