@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SkyD666/Imomoe>SkyD666/Imomoe</a><p>樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。Discord：https://discord.gg/MyaRtRGEzr</p></li><li><a href=https://github.com/chirag-droid/animeflix>chirag-droid/animeflix</a><p>A anime discovery, streaming site made with NextJs and TailwindCSS. Uses AniList API and video data from GogoAnime. No ads and no vpn required</p></li><li><a href=https://github.com/MALSync/MALSync>MALSync/MALSync</a><p>Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li><li><a href=https://github.com/Sayyiku/wonderful-acg>Sayyiku/wonderful-acg</a><p>一些有趣的acg项目</p></li></ul>
+<ul><li><a href=https://github.com/Rongronggg9/RSS-to-Telegram-Bot>Rongronggg9/RSS-to-Telegram-Bot</a><p>A Telegram RSS bot that cares about your reading experience</p></li><li><a href=https://github.com/Sayyiku/wonderful-acg>Sayyiku/wonderful-acg</a><p>一些有趣的acg项目</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/rocboss/paopao-ce>rocboss/paopao-ce</a><p>🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区</p></li><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/22, 11:31 AM<br>下一次刷新：7/3/22, 2:31 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/3/22, 2:03 PM<br>下一次刷新：7/3/22, 5:03 PM</p>
