@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SkyD666/Imomoe>SkyD666/Imomoe</a><p>樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。Discord：https://discord.gg/MyaRtRGEzr</p></li><li><a href=https://github.com/IgorKowalczyk/majo.exe>IgorKowalczyk/majo.exe</a><p>❤️ Majo.exe have almost everything - Fun, Memes, Images, Giveaway Moderation, Anime, NSFW and even more! Majo.exe serve over 150 commands!</p></li><li><a href=https://github.com/akbaryahya/DockerGC>akbaryahya/DockerGC</a><p>DockerGC is a container that runs Grasscutter with just a single command.</p></li><li><a href=https://github.com/Kylart/KawAnime>Kylart/KawAnime</a><p>Desktop app for anime fans</p></li><li><a href=https://github.com/y-young/nazurin>y-young/nazurin</a><p>🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illustrations.</p></li></ul>
+<ul><li><a href=https://github.com/Kylart/KawAnime>Kylart/KawAnime</a><p>Desktop app for anime fans</p></li><li><a href=https://github.com/Sayyiku/wonderful-acg>Sayyiku/wonderful-acg</a><p>一些有趣的acg项目</p></li><li><a href=https://github.com/rampatra/photography>rampatra/photography</a><p>A free online portfolio website to showcase your photos.</p></li><li><a href=https://github.com/moonrepo/moon>moonrepo/moon</a><p>A build system for the JavaScript ecosystem, written in Rust.</p></li><li><a href=https://github.com/IgorKowalczyk/majo.exe>IgorKowalczyk/majo.exe</a><p>❤️ Majo.exe have almost everything - Fun, Memes, Images, Giveaway Moderation, Anime, NSFW and even more! Majo.exe serve over 150 commands!</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/5/22, 2:03 AM<br>下一次刷新：7/5/22, 5:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/5/22, 5:03 AM<br>下一次刷新：7/5/22, 8:03 AM</p>
