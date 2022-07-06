@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/rampatra/photography>rampatra/photography</a><p>A free online portfolio website to showcase your photos.</p></li><li><a href=https://github.com/moonrepo/moon>moonrepo/moon</a><p>A build system for the JavaScript ecosystem, written in Rust.</p></li><li><a href=https://github.com/y-young/nazurin>y-young/nazurin</a><p>🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illustrations.</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li></ul>
+<ul><li><a href=https://github.com/littleHiuman/Copyright-free-picture-website>littleHiuman/Copyright-free-picture-website</a><p>无版权图片网站（收集）</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li><li><a href=https://github.com/IgorKowalczyk/majo.exe>IgorKowalczyk/majo.exe</a><p>❤️ Majo.exe have almost everything - Fun, Memes, Images, Giveaway Moderation, Anime, NSFW and even more! Majo.exe serve over 150 commands!</p></li><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/6/22, 5:03 AM<br>下一次刷新：7/6/22, 8:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/6/22, 8:11 AM<br>下一次刷新：7/6/22, 11:11 AM</p>
