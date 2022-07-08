@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li><li><a href=https://github.com/MALSync/MALSync>MALSync/MALSync</a><p>Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.</p></li><li><a href=https://github.com/samuelmaddock/metastream>samuelmaddock/metastream</a><p>Watch streaming media with friends.</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li><li><a href=https://github.com/Blackman99/casual-ui>Blackman99/casual-ui</a><p>An ui components lib that supports Vue3+、React 17+、Svelte3+(Coming soon)</p></li></ul>
+<ul><li><a href=https://github.com/IgorKowalczyk/majo.exe>IgorKowalczyk/majo.exe</a><p>❤️ Majo.exe have almost everything - Fun, Memes, Images, Giveaway Moderation, Anime, NSFW and even more! Majo.exe serve over 150 commands!</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li><li><a href=https://github.com/moonrepo/moon>moonrepo/moon</a><p>A build system for the JavaScript ecosystem, written in Rust.</p></li><li><a href=https://github.com/littleHiuman/Copyright-free-picture-website>littleHiuman/Copyright-free-picture-website</a><p>无版权图片网站（收集）</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/8/22, 5:03 PM<br>下一次刷新：7/8/22, 8:03 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/8/22, 8:04 PM<br>下一次刷新：7/8/22, 11:04 PM</p>
