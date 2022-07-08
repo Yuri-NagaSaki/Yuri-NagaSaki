@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/akbaryahya/DockerGC>akbaryahya/DockerGC</a><p>DockerGC is a container that runs Grasscutter with just a single command.</p></li><li><a href=https://github.com/Kylart/KawAnime>Kylart/KawAnime</a><p>Desktop app for anime fans</p></li><li><a href=https://github.com/rampatra/photography>rampatra/photography</a><p>A free online portfolio website to showcase your photos.</p></li><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/MALSync/MALSync>MALSync/MALSync</a><p>Integrates MyAnimeList/AniList/Kitsu/Simkl into various sites, with auto episode tracking.</p></li></ul>
+<ul><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li><li><a href=https://github.com/SkyD666/Imomoe>SkyD666/Imomoe</a><p>樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。Discord：https://discord.gg/MyaRtRGEzr</p></li><li><a href=https://github.com/doki-theme/doki-theme-jetbrains>doki-theme/doki-theme-jetbrains</a><p>Cute anime character themes for your JetBrains IDEs.</p></li><li><a href=https://github.com/riimuru/gogoanime>riimuru/gogoanime</a><p>Anime Streaming, Discovery API made with Cheerio and Express. Uses data from Gogoanime</p></li><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/8/22, 8:12 AM<br>下一次刷新：7/8/22, 11:12 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/8/22, 11:31 AM<br>下一次刷新：7/8/22, 2:31 PM</p>
