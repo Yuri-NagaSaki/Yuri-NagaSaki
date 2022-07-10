@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/rampatra/photography>rampatra/photography</a><p>A free online portfolio website to showcase your photos.</p></li><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li><li><a href=https://github.com/nineya/halo-theme-dream>nineya/halo-theme-dream</a><p>二次元风格 halo 博客主题</p></li><li><a href=https://github.com/littleHiuman/Copyright-free-picture-website>littleHiuman/Copyright-free-picture-website</a><p>无版权图片网站（收集）</p></li></ul>
+<ul><li><a href=https://github.com/littleHiuman/Copyright-free-picture-website>littleHiuman/Copyright-free-picture-website</a><p>无版权图片网站（收集）</p></li><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li><li><a href=https://github.com/WeebDev/chibisafe>WeebDev/chibisafe</a><p>Blazing fast file uploader and awesome bunker written in node! 🚀</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li><li><a href=https://github.com/CMHopeSunshine/LittlePaimon>CMHopeSunshine/LittlePaimon</a><p>小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/11/22, 2:03 AM<br>下一次刷新：7/11/22, 5:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/11/22, 5:03 AM<br>下一次刷新：7/11/22, 8:03 AM</p>
