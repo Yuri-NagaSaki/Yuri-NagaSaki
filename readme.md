@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><p>A fancy self-hosted monitoring tool</p></li><li><a href=https://github.com/djkcyl/ABot-Graia>djkcyl/ABot-Graia</a><p>一个使用 Graia Ariadne 搭建的 QQ 功能性机器人。</p></li><li><a href=https://github.com/kl3jvi/animity>kl3jvi/animity</a><p>🎦 Android app to watch anime on your phone without ads and best streaming quality available.</p></li><li><a href=https://github.com/gedoor/legado>gedoor/legado</a><p>阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</p></li><li><a href=https://github.com/Ice-Cirno/HoshinoBot>Ice-Cirno/HoshinoBot</a><p>A qqbot for Princess Connect Re:Dive (and other usage :)</p></li></ul>
+<ul><li><a href=https://github.com/Bit-Tech-Team/Anime-Tracker>Bit-Tech-Team/Anime-Tracker</a><p>Desktop APP for Anime Scene Search by Image</p></li><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><p>A fancy self-hosted monitoring tool</p></li><li><a href=https://github.com/djkcyl/ABot-Graia>djkcyl/ABot-Graia</a><p>一个使用 Graia Ariadne 搭建的 QQ 功能性机器人。</p></li><li><a href=https://github.com/kl3jvi/animity>kl3jvi/animity</a><p>🎦 Android app to watch anime on your phone without ads and best streaming quality available.</p></li><li><a href=https://github.com/gedoor/legado>gedoor/legado</a><p>阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li><li><a href=https://github.com/rocboss/paopao-ce>rocboss/paopao-ce</a><p>🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区</p></li><li><a href=https://github.com/paperplanefactory/paperplane-photography-theme>paperplanefactory/paperplane-photography-theme</a><p>A WordPress theme for photographers | 4K images and PWA - ready</p></li></ul>
+<ul><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/nineya/halo-theme-dream>nineya/halo-theme-dream</a><p>二次元风格 halo 博客主题</p></li><li><a href=https://github.com/heyanLE/EasyBangumi>heyanLE/EasyBangumi</a><p>纯纯看番，追番和看番的安卓软件，多番剧源 -樱花动漫 -Bimibimi - AGE 动漫</p></li><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/12/22, 8:10 AM<br>下一次刷新：7/12/22, 11:10 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/12/22, 11:44 AM<br>下一次刷新：7/12/22, 2:44 PM</p>
