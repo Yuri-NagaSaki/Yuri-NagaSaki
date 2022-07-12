@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/AlexGarrixen/vimox-frontend>AlexGarrixen/vimox-frontend</a><p>Anime web app online and base frontend of https://vimux.vercel.app</p></li><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/nineya/halo-theme-dream>nineya/halo-theme-dream</a><p>二次元风格 halo 博客主题</p></li><li><a href=https://github.com/heyanLE/EasyBangumi>heyanLE/EasyBangumi</a><p>纯纯看番，追番和看番的安卓软件，多番剧源 -樱花动漫 -Bimibimi - AGE 动漫</p></li><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li></ul>
+<ul><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/Ice-Cirno/HoshinoBot>Ice-Cirno/HoshinoBot</a><p>A qqbot for Princess Connect Re:Dive (and other usage :)</p></li><li><a href=https://github.com/moonrepo/moon>moonrepo/moon</a><p>A build system for the JavaScript ecosystem, written in Rust.</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li><li><a href=https://github.com/paperplanefactory/paperplane-photography-theme>paperplanefactory/paperplane-photography-theme</a><p>A WordPress theme for photographers | 4K images and PWA - ready</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/12/22, 11:44 AM<br>下一次刷新：7/12/22, 2:44 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/12/22, 2:03 PM<br>下一次刷新：7/12/22, 5:03 PM</p>
