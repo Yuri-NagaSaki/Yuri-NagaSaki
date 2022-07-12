@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li><li><a href=https://github.com/BeeeQueue/yuna>BeeeQueue/yuna</a><p>ツ An anime player that integrates with AniList, Simkl, Crunchyroll, and Hidive.</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li><li><a href=https://github.com/Blackman99/casual-ui>Blackman99/casual-ui</a><p>An ui components lib that supports Vue3+、React 17+、Svelte3+(Coming soon)</p></li><li><a href=https://github.com/gedoor/legado>gedoor/legado</a><p>阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。</p></li></ul>
+<ul><li><a href=https://github.com/paperplanefactory/paperplane-photography-theme>paperplanefactory/paperplane-photography-theme</a><p>A WordPress theme for photographers | 4K images and PWA - ready</p></li><li><a href=https://github.com/soruly/awesome-acg>soruly/awesome-acg</a><p>A curated list of awesome technologies related to Anime, Comic and Games</p></li><li><a href=https://github.com/Blackman99/casual-ui>Blackman99/casual-ui</a><p>An ui components lib that supports Vue3+、React 17+、Svelte3+(Coming soon)</p></li><li><a href=https://github.com/saadeghi/daisyui>saadeghi/daisyui</a><p>⭐️ ⭐️ ⭐️ ⭐️ ⭐️  The most popular, free and open-source Tailwind CSS component library</p></li><li><a href=https://github.com/CMHopeSunshine/LittlePaimon>CMHopeSunshine/LittlePaimon</a><p>小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/12/22, 11:03 PM<br>下一次刷新：7/13/22, 2:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/13/22, 2:03 AM<br>下一次刷新：7/13/22, 5:03 AM</p>
