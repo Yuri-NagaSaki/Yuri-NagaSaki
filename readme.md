@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><p>A fancy self-hosted monitoring tool</p></li><li><a href=https://github.com/djkcyl/ABot-Graia>djkcyl/ABot-Graia</a><p>一个使用 Graia Ariadne 搭建的 QQ 功能性机器人。</p></li><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/moonrepo/moon>moonrepo/moon</a><p>A build system for the JavaScript ecosystem, written in Rust.</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li></ul>
+<ul><li><a href=https://github.com/Blackman99/casual-ui>Blackman99/casual-ui</a><p>An ui components lib that supports Vue3+、React 17+、Svelte3+(Coming soon)</p></li><li><a href=https://github.com/kl3jvi/animity>kl3jvi/animity</a><p>🎦 Android app to watch anime on your phone without ads and best streaming quality available.</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li><li><a href=https://github.com/Sayyiku/wonderful-acg>Sayyiku/wonderful-acg</a><p>一些有趣的acg项目</p></li><li><a href=https://github.com/heyanLE/EasyBangumi>heyanLE/EasyBangumi</a><p>纯纯看番，追番和看番的安卓软件，多番剧源 -樱花动漫 -Bimibimi - AGE 动漫</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/14/22, 2:03 AM<br>下一次刷新：7/14/22, 5:03 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/14/22, 5:03 AM<br>下一次刷新：7/14/22, 8:03 AM</p>
