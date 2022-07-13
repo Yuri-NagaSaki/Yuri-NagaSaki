@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/y-young/nazurin>y-young/nazurin</a><p>🎉 Images collection done right. Telegram 图片收藏机器人 / A Telegram bot that helps you collect ACG illustrations.</p></li><li><a href=https://github.com/kl3jvi/animity>kl3jvi/animity</a><p>🎦 Android app to watch anime on your phone without ads and best streaming quality available.</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li></ul>
+<ul><li><a href=https://github.com/zaxtyson/AnimeSearcher>zaxtyson/AnimeSearcher</a><p>整合第三方网站的视频和弹幕资源, 为白嫖党提供最佳看番追剧体验</p></li><li><a href=https://github.com/samuelmaddock/metastream>samuelmaddock/metastream</a><p>Watch streaming media with friends.</p></li><li><a href=https://github.com/CMHopeSunshine/LittlePaimon>CMHopeSunshine/LittlePaimon</a><p>小派蒙！原神qq群机器人，基于NoneBot2的UID查询、抽卡导出分析、模拟抽卡、实时便签、札记等多功能小助手。</p></li><li><a href=https://github.com/synzen/MonitoRSS>synzen/MonitoRSS</a><p>Discord RSS bot (formerly known as Discord.RSS) with customizable feeds. https://monitorss.xyz</p></li><li><a href=https://github.com/Blackman99/casual-ui>Blackman99/casual-ui</a><p>An ui components lib that supports Vue3+、React 17+、Svelte3+(Coming soon)</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/13/22, 11:32 AM<br>下一次刷新：7/13/22, 2:32 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/13/22, 2:03 PM<br>下一次刷新：7/13/22, 5:03 PM</p>
