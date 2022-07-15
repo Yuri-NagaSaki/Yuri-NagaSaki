@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/qyurila/ayu-dark-jetbrains>qyurila/ayu-dark-jetbrains</a><p>ayu Dark color scheme for all of your favorite JetBrains IDEs</p></li><li><a href=https://github.com/brandii-co/jetbrains-nightfall-theme>brandii-co/jetbrains-nightfall-theme</a><p>A dark, clean, simple and elegant theme for JetBrains IDE.</p></li><li><a href=https://github.com/WeNeedHome/SummaryOfLoanSuspension>WeNeedHome/SummaryOfLoanSuspension</a><p>全国各省市停贷通知汇总</p></li><li><a href=https://github.com/strapi/documentation>strapi/documentation</a><p>Strapi Documentation mono-repo</p></li><li><a href=https://github.com/Lissy93/go-apod>Lissy93/go-apod</a><p>🌌 A CORS-enabled, no-auth API for NASA's Astronomy Picture of the Day</p></li></ul>
+<ul><li><a href=https://github.com/xwiki-labs/cryptpad>xwiki-labs/cryptpad</a><p>Collaboration suite, end-to-end encrypted and open-source.</p></li><li><a href=https://github.com/qyurila/ayu-dark-jetbrains>qyurila/ayu-dark-jetbrains</a><p>ayu Dark color scheme for all of your favorite JetBrains IDEs</p></li><li><a href=https://github.com/brandii-co/jetbrains-nightfall-theme>brandii-co/jetbrains-nightfall-theme</a><p>A dark, clean, simple and elegant theme for JetBrains IDE.</p></li><li><a href=https://github.com/WeNeedHome/SummaryOfLoanSuspension>WeNeedHome/SummaryOfLoanSuspension</a><p>全国各省市停贷通知汇总</p></li><li><a href=https://github.com/strapi/documentation>strapi/documentation</a><p>Strapi Documentation mono-repo</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><p>A fancy self-hosted monitoring tool</p></li><li><a href=https://github.com/Ice-Cirno/HoshinoBot>Ice-Cirno/HoshinoBot</a><p>A qqbot for Princess Connect Re:Dive (and other usage :)</p></li><li><a href=https://github.com/paperplanefactory/paperplane-photography-theme>paperplanefactory/paperplane-photography-theme</a><p>A WordPress theme for photographers | 4K images and PWA - ready</p></li><li><a href=https://github.com/txperl/PixivBiu>txperl/PixivBiu</a><p>Pixiv 辅助工具</p></li><li><a href=https://github.com/nineya/halo-theme-dream>nineya/halo-theme-dream</a><p>二次元风格 halo 博客主题</p></li></ul>
+<ul><li><a href=https://github.com/Sayyiku/wonderful-acg>Sayyiku/wonderful-acg</a><p>一些有趣的acg项目</p></li><li><a href=https://github.com/rocboss/paopao-ce>rocboss/paopao-ce</a><p>🔥A artistic "twitter like" community built on gin+zinc+vue+ts 清新文艺微社区</p></li><li><a href=https://github.com/Bit-Tech-Team/Anime-Tracker>Bit-Tech-Team/Anime-Tracker</a><p>Desktop APP for Anime Scene Search by Image</p></li><li><a href=https://github.com/lusaxweb/vuesax-next>lusaxweb/vuesax-next</a><p>Vuesax v4: framework components for Vuejs</p></li><li><a href=https://github.com/littleHiuman/Copyright-free-picture-website>littleHiuman/Copyright-free-picture-website</a><p>无版权图片网站（收集）</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/15/22, 2:04 PM<br>下一次刷新：7/15/22, 5:04 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/15/22, 5:03 PM<br>下一次刷新：7/15/22, 8:03 PM</p>
