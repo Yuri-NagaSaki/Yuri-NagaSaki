@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/WeNeedHome/SummaryOfLoanSuspension>WeNeedHome/SummaryOfLoanSuspension</a><p>全国各省市停贷通知汇总</p></li><li><a href=https://github.com/strapi/documentation>strapi/documentation</a><p>Strapi Documentation mono-repo</p></li><li><a href=https://github.com/Lissy93/go-apod>Lissy93/go-apod</a><p>🌌 A CORS-enabled, no-auth API for NASA's Astronomy Picture of the Day</p></li><li><a href=https://github.com/ChanceYu/front-end-rss>ChanceYu/front-end-rss</a><p>:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、淘系前端团队、张鑫旭博客、前端里、凹凸实验室</p></li><li><a href=https://github.com/UtopiaXC/My-Music-Player>UtopiaXC/My-Music-Player</a><p>这是一个本地化部署的基于Laravel的调用网易云API的网页音乐播放器。This is a localized deployment of Laravel-based web music player calling NetEase Cloud Music API.</p></li></ul>
+<ul><li><a href=https://github.com/qyurila/ayu-dark-jetbrains>qyurila/ayu-dark-jetbrains</a><p>ayu Dark color scheme for all of your favorite JetBrains IDEs</p></li><li><a href=https://github.com/brandii-co/jetbrains-nightfall-theme>brandii-co/jetbrains-nightfall-theme</a><p>A dark, clean, simple and elegant theme for JetBrains IDE.</p></li><li><a href=https://github.com/WeNeedHome/SummaryOfLoanSuspension>WeNeedHome/SummaryOfLoanSuspension</a><p>全国各省市停贷通知汇总</p></li><li><a href=https://github.com/strapi/documentation>strapi/documentation</a><p>Strapi Documentation mono-repo</p></li><li><a href=https://github.com/Lissy93/go-apod>Lissy93/go-apod</a><p>🌌 A CORS-enabled, no-auth API for NASA's Astronomy Picture of the Day</p></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Comfy-Themes/Spicetify>Comfy-Themes/Spicetify</a><p>Stay comfy while listening to music</p></li><li><a href=https://github.com/Blackman99/casual-ui>Blackman99/casual-ui</a><p>An ui components lib that supports Vue3+、React 17+、Svelte3+(Coming soon)</p></li><li><a href=https://github.com/samuelmaddock/metastream>samuelmaddock/metastream</a><p>Watch streaming media with friends.</p></li><li><a href=https://github.com/littleHiuman/Copyright-free-picture-website>littleHiuman/Copyright-free-picture-website</a><p>无版权图片网站（收集）</p></li><li><a href=https://github.com/txperl/PixivBiu>txperl/PixivBiu</a><p>Pixiv 辅助工具</p></li></ul>
+<ul><li><a href=https://github.com/louislam/uptime-kuma>louislam/uptime-kuma</a><p>A fancy self-hosted monitoring tool</p></li><li><a href=https://github.com/Ice-Cirno/HoshinoBot>Ice-Cirno/HoshinoBot</a><p>A qqbot for Princess Connect Re:Dive (and other usage :)</p></li><li><a href=https://github.com/paperplanefactory/paperplane-photography-theme>paperplanefactory/paperplane-photography-theme</a><p>A WordPress theme for photographers | 4K images and PWA - ready</p></li><li><a href=https://github.com/txperl/PixivBiu>txperl/PixivBiu</a><p>Pixiv 辅助工具</p></li><li><a href=https://github.com/nineya/halo-theme-dream>nineya/halo-theme-dream</a><p>二次元风格 halo 博客主题</p></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/15/22, 11:42 AM<br>下一次刷新：7/15/22, 2:42 PM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/15/22, 2:04 PM<br>下一次刷新：7/15/22, 5:04 PM</p>
