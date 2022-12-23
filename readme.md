@@ -103,3 +103,4 @@ most used s-s-social things >~< xoxox</p>
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
 <p align=center>此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！<br>刷新于：7/16/22, 2:03 PM<br>下一次刷新：7/16/22, 5:03 PM</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sayyiku)](https://github.com/anuraghazra/github-readme-stats)
