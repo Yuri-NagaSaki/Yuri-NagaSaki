@@ -30,9 +30,6 @@
 <b>Loves:</b> Candy Apple  and games maybe -///-
 </li>
 <li>
-<b>Gender:</b> she/her/Female
-</li>
-<li>
 <b>Hobbys:</b> Tech Stuff,  Web Development
 </li>
 <li>
