@@ -4,10 +4,27 @@ import { readFile, rm, writeFile } from 'fs/promises'
 import { minify } from 'html-minifier'
 import { shuffle } from 'lodash'
 import MarkdownIt from 'markdown-it'
-import rax from 'retry-axios'
+import * as rax from 'retry-axios'
 import { github, motto, mxSpace, opensource, timeZone } from './config'
 import { COMMNETS } from './constants'
 import { GRepo } from './types'
+import {
+  AggregateController,
+  createClient,
+  NoteModel,
+  PostModel,
+} from '@mx-space/api-client'
+import { axiosAdaptor } from '@mx-space/api-client/lib/adaptors/axios'
+
+const mxClient = createClient(axiosAdaptor)(mxSpace.api, {
+  controllers: [AggregateController],
+})
+
+axiosAdaptor.default.interceptors.request.use((req) => {
+  req.headers && (req.headers['User-Agent'] = 'Innei profile')
+  return req
+})
+
 const md = new MarkdownIt({
   html: true,
 })
@@ -35,7 +52,7 @@ const gh = axios.create({
 
 gh.interceptors.response.use(undefined, (err) => {
   console.log(err.message)
-  return Promise.reject(err.message)
+  return Promise.reject(err)
 })
 
 type GHItem = {
@@ -72,6 +89,7 @@ function generateOpenSourceSectionHtml<T extends GHItem>(list: T[]) {
   <td><img alt="Forks" src="https://img.shields.io/github/forks/${cur.full_name}?style=flat-square&labelColor=343b41"/></td>
   <td><a href="https://github.com/${cur.full_name}/issues" target="_blank"><img alt="Issues" src="https://img.shields.io/github/issues/${cur.full_name}?style=flat-square&labelColor=343b41"/></a></td>
   <td><a href="https://github.com/${cur.full_name}/pulls" target="_blank"><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/${cur.full_name}?style=flat-square&labelColor=343b41"/></a></td>
+  <td><a href="https://github.com/${cur.full_name}/commits" target="_blank"><img alt="Last Commits" src="https://img.shields.io/github/last-commit/${cur.full_name}?style=flat-square&labelColor=343b41"/></a></td>
 </tr>`,
     ``,
   )
@@ -84,6 +102,7 @@ function generateOpenSourceSectionHtml<T extends GHItem>(list: T[]) {
       <td><b>📚 Forks</b></td>
       <td><b>🛎 Issues</b></td>
       <td><b>📬 Pull requests</b></td>
+      <td><b>💡 Last Commit</b></td>
     </tr>
   </thead>
   <tbody>
@@ -221,18 +240,24 @@ ${topStar5}
   }
 
   {
-    const posts = await axios
-      .get(mxSpace.api + '/posts', {
-        params: {
-          size: 5,
-          select: '-text',
-        },
-        timeout: 10 * 1000,
-      })
+    const posts = await mxClient.aggregate
+      .getTimeline()
       .then((data) => data.data)
-      .then(({ data }: any) =>
-        data.reduce((s, d) => s + generatePostItemHTML(d), ''),
-      )
+      .then((data) => {
+        const posts = data.posts
+        const notes = data.notes
+        const sorted = [
+          ...posts.map((i) => ({ ...i, type: 'Post' as const })),
+          ...notes.map((i) => ({ ...i, type: 'Note' as const })),
+        ].sort((b, a) => +new Date(a.created) - +new Date(b.created))
+        return sorted.slice(0, 5).reduce((acc, cur) => {
+          if (cur.type === 'Note') {
+            return acc.concat(generateNoteItemHTML(cur))
+          } else {
+            return acc.concat(generatePostItemHTML(cur))
+          }
+        }, '')
+      })
 
     newContent = newContent.replace(
       gc('RECENT_POSTS'),
@@ -247,12 +272,12 @@ ${topStar5}
   // 注入 FOOTER
   {
     const now = new Date()
-    const next = dayjs().add(3, 'h').toDate()
+    const next = dayjs().add(24, 'h').toDate()
 
     newContent = newContent.replace(
       gc('FOOTER'),
       m`
-    <p align="center">此文件 <i>README</i> <b>间隔 3 小时</b>自动刷新生成！
+    <p align="center">此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！
     </br>
     刷新于：${now.toLocaleString(undefined, {
       timeStyle: 'short',
