@@ -16,7 +16,7 @@ export const github = {
 }
 
 export const mxSpace = {
-  url: 'https://catcat,blog',
+  url: 'https://catcat.blog',
   api: 'https://server.catcat.blog/api/v2',
 }
 
