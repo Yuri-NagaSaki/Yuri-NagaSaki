@@ -1,12 +1,14 @@
 export const opensource = {
   active: [
-    'Sayyiku/FormatCode',
+    'Sayyiku/wonderful-acg',
+    'Sayyiku/ice-coffee',
   ],
   toys: {
-    limit: 1,
+    limit: 2,
     random: true,
     repos: [
-      'Sayyiku/FormatCode',
+      'Sayyiku/wonderful-acg',
+      'Sayyiku/ice-coffee',
     ],
   },
 }
