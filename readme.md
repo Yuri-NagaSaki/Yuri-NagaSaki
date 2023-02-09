@@ -85,7 +85,7 @@ most used s-s-social things >~< xoxox</p>
 
 **最近写了...**
 
-<ul><li><span>2/6/23 - <a href=https://catcat.blog/posts/note/MAPK>靶向多变的 RAF-MEK 通路</a></span></li><li><span>2/4/23 - <a href=https://catcat.blog/posts/Experiment/yunzai>yunzai 部署</a></span></li><li><span>2/1/23 - <a href="https://catcat.blog/posts/ Combat/Rclone-OneDrive">使用 Azure 面板建立私有 api，用 Rclone 连接并挂载 OneDrive 盘，并解决 vfs-cache-mode 报错问题</a></span></li><li><span>1/30/23 - <a href=https://catcat.blog/posts/Experiment/Keyboard>用 Keyboard Maestro 切换输入法和浏览器</a></span></li><li><span>1/27/23 - <a href=https://catcat.blog/posts/air/Airport>自用机场推荐</a></span></li></ul>
+<ul><li><span>2/8/23 - <a href=https://catcat.blog/notes/2>抽卡！</a></span></li><li><span>2/6/23 - <a href=https://catcat.blog/posts/note/MAPK>靶向多变的 RAF-MEK 通路</a></span></li><li><span>2/4/23 - <a href=https://catcat.blog/posts/Experiment/yunzai>yunzai 部署</a></span></li><li><span>2/1/23 - <a href="https://catcat.blog/posts/ Combat/Rclone-OneDrive">使用 Azure 面板建立私有 api，用 Rclone 连接并挂载 OneDrive 盘，并解决 vfs-cache-mode 报错问题</a></span></li><li><span>1/30/23 - <a href=https://catcat.blog/posts/Experiment/Keyboard>用 Keyboard Maestro 切换输入法和浏览器</a></span></li></ul>
 
 **最近赞了...**
 
@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/tickstep/aliyunpan>tickstep/aliyunpan</a><span> 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。</span></li><li><a href=https://github.com/syuilo/ai>syuilo/ai</a><span> 💕 A bot for Misskey</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/solstice23/osu-stats-signature>solstice23/osu-stats-signature</a><span> 🏷 生成实时更新的 osu! 个人资料卡片 / Generate dynamic osu! profile cards</span></li><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a><span> Server dashboard</span></li></ul>
+<ul><li><a href=https://github.com/tickstep/aliyunpan>tickstep/aliyunpan</a><span> 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。</span></li><li><a href=https://github.com/syuilo/ai>syuilo/ai</a><span> 💕 A bot for Misskey</span></li><li><a href=https://github.com/xemle/home-gallery>xemle/home-gallery</a><span> Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery</span></li><li><a href=https://github.com/JagandeepBrar/LunaSea>JagandeepBrar/LunaSea</a><span> Self-hosted software controller built using Flutter</span></li><li><a href=https://github.com/Him188/animation-garden>Him188/animation-garden</a><span> 美观且实用的动漫花园的多平台应用程序，使用 Compose Multiplatform 构建。</span></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/8/23, 8:23 AM<br>下一次刷新：2/9/23, 8:23 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/9/23, 8:23 AM<br>下一次刷新：2/10/23, 8:23 AM</p>
