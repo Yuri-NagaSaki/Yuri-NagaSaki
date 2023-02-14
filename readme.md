@@ -13,12 +13,14 @@
 <br>
 
 <div align="center">
-  <img src ="https://i.imgtg.com/2022/12/19/HmyqN.jpg">
+<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+  <img src ="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c8728b15d7193ce23f241bf86f111ade8baaff36.jpg">
 </div>
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-  <img src="https://i.imgtg.com/2022/07/21/rBqqi.png" align="right" width="373.5px" height="208.5px">
+<!-- <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
+  <img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/images/20170807094904_xcPrZ.2pkmcuhkwh40.jpeg" align="right" width="373.5px" height="208.5px">
 <li>
 <b>Name:</b> Sayyiku</li>
 <li>
@@ -91,13 +93,13 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/SigNoz/signoz>SigNoz/signoz</a><span> SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/Him188/animation-garden>Him188/animation-garden</a><span> 美观且实用的动漫花园的多平台应用程序，使用 Compose Multiplatform 构建。</span></li><li><a href=https://github.com/solstice23/osu-stats-signature>solstice23/osu-stats-signature</a><span> 🏷 生成实时更新的 osu! 个人资料卡片 / Generate dynamic osu! profile cards</span></li><li><a href=https://github.com/evcc-io/evcc>evcc-io/evcc</a><span> Sonne tanken ☀️🚘</span></li></ul>
+<ul><li><a href=https://github.com/Him188/animation-garden>Him188/animation-garden</a><span> 美观且实用的动漫花园的多平台应用程序，使用 Compose Multiplatform 构建。</span></li><li><a href=https://github.com/xemle/home-gallery>xemle/home-gallery</a><span> Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery</span></li><li><a href=https://github.com/jwcesign/kubespider>jwcesign/kubespider</a><span> A unified download orchestration system, build your home download center.</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/DGP-Studio/Snap.Hutao>DGP-Studio/Snap.Hutao</a><span> 唷，找本堂主有何贵干呀？</span></li></ul>
 
 **你能找到我吗**
 
 <p><a href="https://github.com/Sayyiku" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
 
 ------------
-
+Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/14/23, 8:24 AM<br>下一次刷新：2/15/23, 8:24 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/14/23, 9:36 AM<br>下一次刷新：2/15/23, 9:36 AM</p>
