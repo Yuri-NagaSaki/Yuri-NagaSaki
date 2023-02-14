@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/DGP-Studio/Snap.Hutao>DGP-Studio/Snap.Hutao</a><span> 唷，找本堂主有何贵干呀？</span></li><li><a href=https://github.com/elk-zone/elk>elk-zone/elk</a><span> A nimble Mastodon web client</span></li><li><a href=https://github.com/evcc-io/evcc>evcc-io/evcc</a><span> Sonne tanken ☀️🚘</span></li><li><a href=https://github.com/SigNoz/signoz>SigNoz/signoz</a><span> SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool</span></li><li><a href=https://github.com/Tetrax-10/Nord-Spotify>Tetrax-10/Nord-Spotify</a><span> A better Nord Theme with no Ads</span></li></ul>
+<ul><li><a href=https://github.com/SigNoz/signoz>SigNoz/signoz</a><span> SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/Him188/animation-garden>Him188/animation-garden</a><span> 美观且实用的动漫花园的多平台应用程序，使用 Compose Multiplatform 构建。</span></li><li><a href=https://github.com/solstice23/osu-stats-signature>solstice23/osu-stats-signature</a><span> 🏷 生成实时更新的 osu! 个人资料卡片 / Generate dynamic osu! profile cards</span></li><li><a href=https://github.com/evcc-io/evcc>evcc-io/evcc</a><span> Sonne tanken ☀️🚘</span></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/13/23, 8:26 AM<br>下一次刷新：2/14/23, 8:26 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/14/23, 8:24 AM<br>下一次刷新：2/15/23, 8:24 AM</p>
