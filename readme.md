@@ -13,14 +13,12 @@
 <br>
 
 <div align="center">
-<!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-  <img src ="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c8728b15d7193ce23f241bf86f111ade8baaff36.jpg">
+  <img src ="https://i.imgtg.com/2022/12/19/HmyqN.jpg">
 </div>
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<!-- <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
-  <img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/images/20170807094904_xcPrZ.2pkmcuhkwh40.jpeg" align="right" width="373.5px" height="208.5px">
+  <img src="https://i.imgtg.com/2022/07/21/rBqqi.png" align="right" width="373.5px" height="208.5px">
 <li>
 <b>Name:</b> Sayyiku</li>
 <li>
@@ -100,6 +98,6 @@ most used s-s-social things >~< xoxox</p>
 <p><a href="https://github.com/Sayyiku" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a></p>
 
 ------------
-Thanks，[@innei](https://innei.ren)
+
 <p align=center><strong>お可愛いこと。</strong></p>
 <p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/14/23, 8:24 AM<br>下一次刷新：2/15/23, 8:24 AM</p>
