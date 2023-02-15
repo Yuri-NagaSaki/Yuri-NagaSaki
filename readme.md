@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Him188/animation-garden>Him188/animation-garden</a><span> 美观且实用的动漫花园的多平台应用程序，使用 Compose Multiplatform 构建。</span></li><li><a href=https://github.com/xemle/home-gallery>xemle/home-gallery</a><span> Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery</span></li><li><a href=https://github.com/jwcesign/kubespider>jwcesign/kubespider</a><span> A unified download orchestration system, build your home download center.</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/DGP-Studio/Snap.Hutao>DGP-Studio/Snap.Hutao</a><span> 唷，找本堂主有何贵干呀？</span></li></ul>
+<ul><li><a href=https://github.com/waschinski/photo-stream>waschinski/photo-stream</a><span> Self-hosted, super simple photo stream</span></li><li><a href=https://github.com/GilbN/theme.park>GilbN/theme.park</a><span> A collection of themes/skins for 50 selfhosted apps!</span></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a><span> Server dashboard</span></li><li><a href=https://github.com/Orz-3/mini>Orz-3/mini</a><span> mini icon</span></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/14/23, 9:36 AM<br>下一次刷新：2/15/23, 9:36 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/15/23, 8:24 AM<br>下一次刷新：2/16/23, 8:24 AM</p>
