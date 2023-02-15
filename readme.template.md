@@ -14,13 +14,13 @@
 
 <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-  <img src ="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c8728b15d7193ce23f241bf86f111ade8baaff36.jpg">
+  <img src ="https://i.imgtg.com/2023/01/15/QyQcD.webp">
 </div>
 <br>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
 <!-- <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
-  <img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/images/20170807094904_xcPrZ.2pkmcuhkwh40.jpeg" align="right" width="373.5px" height="208.5px">
+  <img src="https://i.imgtg.com/2022/02/18/UpoVv.jpg" align="right" width="373.5px" height="208.5px">
 <li>
 <b>Name:</b> Sayyiku</li>
 <li>
