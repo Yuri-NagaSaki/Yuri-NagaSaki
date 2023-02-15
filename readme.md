@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/waschinski/photo-stream>waschinski/photo-stream</a><span> Self-hosted, super simple photo stream</span></li><li><a href=https://github.com/GilbN/theme.park>GilbN/theme.park</a><span> A collection of themes/skins for 50 selfhosted apps!</span></li><li><a href=https://github.com/zzzgydi/clash-verge>zzzgydi/clash-verge</a><span> A Clash GUI based on tauri. Supports Windows, macOS and Linux.</span></li><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a><span> Server dashboard</span></li><li><a href=https://github.com/Orz-3/mini>Orz-3/mini</a><span> mini icon</span></li></ul>
+<ul><li><a href=https://github.com/JagandeepBrar/LunaSea>JagandeepBrar/LunaSea</a><span> Self-hosted software controller built using Flutter</span></li><li><a href=https://github.com/Orz-3/mini>Orz-3/mini</a><span> mini icon</span></li><li><a href=https://github.com/tickstep/aliyunpan>tickstep/aliyunpan</a><span> 阿里云盘命令行客户端，支持webdav文件服务，支持JavaScript插件，支持同步备份功能。</span></li><li><a href=https://github.com/JVT038/MetaTube>JVT038/MetaTube</a><span> Python web ui to download videos from YouTube and add metadata on top of it</span></li><li><a href=https://github.com/nocodb/nocodb>nocodb/nocodb</a><span> 🔥 🔥 🔥 Open Source Airtable Alternative</span></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/15/23, 8:24 AM<br>下一次刷新：2/16/23, 8:24 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/15/23, 8:48 AM<br>下一次刷新：2/16/23, 8:48 AM</p>
