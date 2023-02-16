@@ -81,7 +81,7 @@ most used s-s-social things >~< xoxox</p>
 
 **写过的玩具..**
 
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/ice-coffee target=_blank><b>Sayyiku/ice-coffee</b></a> <a href=https://lolim.me/ice-coffee/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/ice-coffee?style=flat-square&labelColor=343b41"></td><td>10/5/2022</td><td>2/7/2023</td></tr><tr><td><a href=https://github.com/Sayyiku/wonderful-acg target=_blank><b>Sayyiku/wonderful-acg</b></a> <a href=https://lolim.me/wonderful-acg/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/wonderful-acg?style=flat-square&labelColor=343b41"></td><td>6/29/2022</td><td>11/14/2022</td></tr></tbody></table>
+<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/wonderful-acg target=_blank><b>Sayyiku/wonderful-acg</b></a> <a href=https://lolim.me/wonderful-acg/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/wonderful-acg?style=flat-square&labelColor=343b41"></td><td>6/29/2022</td><td>11/14/2022</td></tr><tr><td><a href=https://github.com/Sayyiku/ice-coffee target=_blank><b>Sayyiku/ice-coffee</b></a> <a href=https://lolim.me/ice-coffee/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/ice-coffee?style=flat-square&labelColor=343b41"></td><td>10/5/2022</td><td>2/7/2023</td></tr></tbody></table>
 
 **最近写了...**
 
@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/mrexodia/dumpulator>mrexodia/dumpulator</a><span> An easy-to-use library for emulating code in minidump files.</span></li><li><a href=https://github.com/xemle/home-gallery>xemle/home-gallery</a><span> Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery</span></li><li><a href=https://github.com/solstice23/osu-stats-signature>solstice23/osu-stats-signature</a><span> 🏷 生成实时更新的 osu! 个人资料卡片 / Generate dynamic osu! profile cards</span></li><li><a href=https://github.com/JagandeepBrar/LunaSea>JagandeepBrar/LunaSea</a><span> Self-hosted software controller built using Flutter</span></li><li><a href=https://github.com/waschinski/photo-stream>waschinski/photo-stream</a><span> Self-hosted, super simple photo stream</span></li></ul>
+<ul><li><a href=https://github.com/JagandeepBrar/LunaSea>JagandeepBrar/LunaSea</a><span> Self-hosted software controller built using Flutter</span></li><li><a href=https://github.com/xemle/home-gallery>xemle/home-gallery</a><span> Self-hosted open-source web gallery to view your photos and videos featuring mobile-friendly, tagging and AI powered image discovery</span></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><span> Master programming by recreating your favorite technologies from scratch.</span></li><li><a href=https://github.com/SigNoz/signoz>SigNoz/signoz</a><span> SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥. 👉 Open source Application Performance Monitoring (APM) & Observability tool</span></li><li><a href=https://github.com/syuilo/ai>syuilo/ai</a><span> 💕 A bot for Misskey</span></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/15/23, 8:49 AM<br>下一次刷新：2/16/23, 8:49 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/16/23, 8:24 AM<br>下一次刷新：2/17/23, 8:24 AM</p>
