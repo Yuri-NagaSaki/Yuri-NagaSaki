@@ -89,11 +89,11 @@ most used s-s-social things >~< xoxox</p>
 
 **最近赞了...**
 
-<ul><li><a href=https://github.com/XTLS/REALITY>XTLS/REALITY</a><span> THE NEXT FUTURE</span></li><li><a href=https://github.com/upscayl/upscayl>upscayl/upscayl</a><span> 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.</span></li><li><a href=https://github.com/std4453/lani>std4453/lani</a><span> 动画推送、监控、元数据</span></li><li><a href=https://github.com/Chanzhaoyu/chatgpt-web>Chanzhaoyu/chatgpt-web</a><span> 使用 express 和 vue3 搭建的 GPT-3 模型演示网页</span></li><li><a href=https://github.com/scarsty/FontChineseYahei>scarsty/FontChineseYahei</a><span> css样式表，用于chrome插件“替换字体的中文部分为雅黑”</span></li></ul>
+<ul><li><a href=https://github.com/manga-download/hakuneko>manga-download/hakuneko</a><span> Manga & Anime Downloader for Linux, Windows & MacOS</span></li><li><a href=https://github.com/ginuerzh/gost>ginuerzh/gost</a><span> GO Simple Tunnel - a simple tunnel written in golang</span></li><li><a href=https://github.com/XTLS/REALITY>XTLS/REALITY</a><span> THE NEXT FUTURE</span></li><li><a href=https://github.com/upscayl/upscayl>upscayl/upscayl</a><span> 🆙 Upscayl - Free and Open Source AI Image Upscaler for Linux, MacOS and Windows built with Linux-First philosophy.</span></li><li><a href=https://github.com/std4453/lani>std4453/lani</a><span> 动画推送、监控、元数据</span></li></ul>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Rudolf-Barbu/Ward>Rudolf-Barbu/Ward</a><span> Server dashboard</span></li><li><a href=https://github.com/syuilo/ai>syuilo/ai</a><span> 💕 A bot for Misskey</span></li><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/evcc-io/evcc>evcc-io/evcc</a><span> Sonne tanken ☀️🚘</span></li><li><a href=https://github.com/Sayyiku/ice-coffee>Sayyiku/ice-coffee</a><span> 咖啡和雪糕不得不说的故事</span></li></ul>
+<ul><li><a href=https://github.com/waschinski/photo-stream>waschinski/photo-stream</a><span> Self-hosted, super simple photo stream</span></li><li><a href=https://github.com/Chanzhaoyu/chatgpt-web>Chanzhaoyu/chatgpt-web</a><span> 使用 express 和 vue3 搭建的 GPT-3 模型演示网页</span></li><li><a href=https://github.com/immich-app/immich>immich-app/immich</a><span> Self-hosted photo and video backup solution directly from your mobile phone.</span></li><li><a href=https://github.com/evcc-io/evcc>evcc-io/evcc</a><span> Sonne tanken ☀️🚘</span></li><li><a href=https://github.com/LlmKira/Openaibot>LlmKira/Openaibot</a><span> ChatGPTresurrect 🤖Chatbot/Voice Assistant | 📱Cross-Platform | 🦾 Async | 🗣 Good Contextual Support | 🌻 sh & docker Deployment| 🔌API Server Provided| 🎤 Azure/Vits for Voice Chatting |🌎 Real-time Information Searching| 📷Multi-modal/Image Understanding | 💐Self-maintained LLM Framework|ChatGPT Like</span></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/20/23, 8:27 AM<br>下一次刷新：2/21/23, 8:27 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/21/23, 8:25 AM<br>下一次刷新：2/22/23, 8:25 AM</p>
