@@ -93,7 +93,7 @@ most used s-s-social things >~< xoxox</p>
 
 **曾经看了...**
 
-<ul><li><a href=https://github.com/Lakr233/Kimis>Lakr233/Kimis</a><span> Kimis is a client for Misskey built with pure UIKit for quality.</span></li><li><a href=https://github.com/codecrafters-io/build-your-own-x>codecrafters-io/build-your-own-x</a><span> Master programming by recreating your favorite technologies from scratch.</span></li><li><a href=https://github.com/steven-tey/dub>steven-tey/dub</a><span> An open-source link shortener with built-in analytics + free custom domains.</span></li><li><a href=https://github.com/immich-app/immich>immich-app/immich</a><span> Self-hosted photo and video backup solution directly from your mobile phone.</span></li><li><a href=https://github.com/cf-pages/Telegraph-Image>cf-pages/Telegraph-Image</a><span> Free Image Hosting solution, Flickr/imgur alternative, make it easy for users to share their images. Using Cloudflare Pages and Telegraph.</span></li></ul>
+<ul><li><a href=https://github.com/solstice23/osu-stats-signature>solstice23/osu-stats-signature</a><span> 🏷 生成实时更新的 osu! 个人资料卡片 / Generate dynamic osu! profile cards</span></li><li><a href=https://github.com/waschinski/photo-stream>waschinski/photo-stream</a><span> Self-hosted, super simple photo stream</span></li><li><a href=https://github.com/Him188/animation-garden>Him188/animation-garden</a><span> 美观且实用的动漫花园的多平台应用程序，使用 Compose Multiplatform 构建。</span></li><li><a href=https://github.com/std4453/lani>std4453/lani</a><span> 动画推送、监控、元数据</span></li><li><a href=https://github.com/scarsty/FontChineseYahei>scarsty/FontChineseYahei</a><span> css样式表，用于chrome插件“替换字体的中文部分为雅黑”</span></li></ul>
 
 **你能找到我吗**
 
@@ -102,4 +102,4 @@ most used s-s-social things >~< xoxox</p>
 ------------
 Thanks，[@innei](https://innei.ren)
 <p align=center><strong>お可愛いこと。</strong></p>
-<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/22/23, 8:22 AM<br>下一次刷新：2/23/23, 8:22 AM</p>
+<p align=center>此文件 <i>README</i> <b>间隔 24 小时</b>自动刷新生成！<br>刷新于：2/23/23, 8:23 AM<br>下一次刷新：2/24/23, 8:23 AM</p>
