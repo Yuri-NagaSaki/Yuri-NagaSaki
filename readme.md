@@ -44,7 +44,7 @@
                   verwy cuwute of chu</b></p> -->
 </div>
 <div>
-<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
+<h2 align="left">~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
 <!-- <img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211208/20200228053803_rT5ey.460dfalk7to0.gif" align="right"> -->
   <img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right" width="373.5px" height="208.5px">
@@ -55,13 +55,13 @@
 Im also very good at writing Guides like my Yuzu Emulator Guide or writing this shit here. Literally took me Hours to write this while hearing music. Also good @ Graphics Design, which i mostly post on Twitter, where a big part my Stuff already is sitting
 </p>
 <br>
-<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+<h2 align="left">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
 <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 </a>
 <br>
 <p align="center">Here are some of my <br>
 most used s-s-social things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/liricarain" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ff69b4"/></a> 
+<p align="center"><a href="https://twitter.com/Sayyiku" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ff69b4"/></a> 
 <a href="https://steamcommunity.com/profiles/76561198985581347/" target="_blank"><img src="https://img.shields.io/badge/-Steam-orange"/>
 </a>
 </div>
@@ -69,7 +69,7 @@ most used s-s-social things >~< xoxox</p>
 <div>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Sayyiku/image-hosting@master/20211202/c7e3ff262011b14a2d5759c1490b68b36eb27a5c38058-BfU7VM.m2mccvurr74.jpg">
+
 </div>
 </div>
 </div>
