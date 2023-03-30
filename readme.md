@@ -83,9 +83,7 @@ most used s-s-social things >~< xoxox</p>
 
 <table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/ice-coffee target=_blank><b>Sayyiku/ice-coffee</b></a> <a href=https://lolim.me/ice-coffee/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/ice-coffee?style=flat-square&labelColor=343b41"></td><td>10/5/2022</td><td>2/7/2023</td></tr><tr><td><a href=https://github.com/Sayyiku/wonderful-acg target=_blank><b>Sayyiku/wonderful-acg</b></a> <a href=https://lolim.me/wonderful-acg/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/wonderful-acg?style=flat-square&labelColor=343b41"></td><td>6/29/2022</td><td>11/14/2022</td></tr></tbody></table>
 
-**最近写了...**
 
-<ul><li><span>2/19/23 - <a href=https://catcat.blog/posts/vps/Crunchbits>Crunchbits</a></span></li><li><span>2/10/23 - <a href=https://catcat.blog/posts/Experiment/o2>细胞通过缺氧诱导因子及其他方式介导的缺氧的适应性</a></span></li><li><span>2/8/23 - <a href=https://catcat.blog/notes/2>抽卡！</a></span></li><li><span>2/6/23 - <a href=https://catcat.blog/posts/note/MAPK>靶向多变的 RAF-MEK 通路</a></span></li><li><span>2/4/23 - <a href=https://catcat.blog/posts/Experiment/yunzai>yunzai 部署</a></span></li></ul>
 
 **最近赞了...**
 
