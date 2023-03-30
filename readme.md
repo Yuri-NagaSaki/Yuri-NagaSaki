@@ -14,7 +14,7 @@
 
 <div align="center">
 <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
-  <img src ="https://i.imgtg.com/2023/01/15/QyQcD.webp">
+  <img src ="https://pics.catcat.blog/file/d7d56b07e073ec6033012.jpg">
 </div>
 <br>
 <div>
