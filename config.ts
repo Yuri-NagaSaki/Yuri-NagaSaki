@@ -1,14 +1,14 @@
 export const opensource = {
   active: [
-    'Sayyiku/wonderful-acg',
-    'Sayyiku/ice-coffee',
+    'Yuri-NagaSaki/ImageFlow',
+    'Yuri-NagaSaki/wonderful-acg',
   ],
   toys: {
     limit: 2,
     random: true,
     repos: [
-      'Sayyiku/wonderful-acg',
-      'Sayyiku/ice-coffee',
+      'Yuri-NagaSaki/ImageFlow',
+      'Yuri-NagaSaki/wonderful-acg',
     ],
   },
 }
