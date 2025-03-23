@@ -14,7 +14,7 @@ export const opensource = {
 }
 export const motto = `<p align=center><strong>お可愛いこと。</strong></p>`
 export const github = {
-  name: 'Sayyiku',
+  name: 'Yuri-NagaSaki',
 }
 
 export const mxSpace = {
