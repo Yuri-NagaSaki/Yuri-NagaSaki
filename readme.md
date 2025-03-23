@@ -22,15 +22,12 @@
 <!-- <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right"> -->
   <img src="https://telegraph-image-1w5.pages.dev/file/1fc6b0ace09c8adc2ecbe.gif" align="right" width="373.5px" height="208.5px">
 <li>
-<b>Name:</b> Sayyiku</li>
+<b>Name:</b> Yuri-NagaSaki</li>
 <li>
 <b>Fursona:</b> Female Snow Fox > ~ <
 </li>
 <li>
-<b>Loves:</b> Candy Apple  and games maybe -///-
-</li>
-<li>
-<b>Gender:</b> she/her/Female
+<b>Loves:</b> Candy Apple  and Games maybe -///-
 </li>
 <li>
 <b>Hobbys:</b> Tech Stuff,  Web Development
@@ -61,7 +58,7 @@ Im also very good at writing Guides like my Yuzu Emulator Guide or writing this 
 <br>
 <p align="center">Here are some of my <br>
 most used s-s-social things >~< xoxox</p>
-<p align="center"><a href="https://twitter.com/Sayyiku" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ff69b4"/></a> 
+<p align="center"><a href="https://x.com/YuriLy_NagaSaki" target="_blank"><img src="https://img.shields.io/badge/-Twitter-ff69b4"/></a> 
 <a href="https://steamcommunity.com/profiles/76561198985581347/" target="_blank"><img src="https://img.shields.io/badge/-Steam-orange"/>
 </a>
 </div>
@@ -74,16 +71,6 @@ most used s-s-social things >~< xoxox</p>
 </div>
 </div>
 </body>
-
-**开源在...**
-
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>📚 Forks</b></td><td><b>🛎 Issues</b></td><td><b>📬 Pull requests</b></td><td><b>💡 Last Commit</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/wonderful-acg><b>Sayyiku/wonderful-acg</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/wonderful-acg?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/Sayyiku/wonderful-acg?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/Sayyiku/wonderful-acg/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Sayyiku/wonderful-acg?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Sayyiku/wonderful-acg/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Sayyiku/wonderful-acg?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Sayyiku/wonderful-acg/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Sayyiku/wonderful-acg?style=flat-square&labelColor=343b41"></a></td></tr><tr><td><a href=https://github.com/Sayyiku/ice-coffee><b>Sayyiku/ice-coffee</b></a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/ice-coffee?style=flat-square&labelColor=343b41"></td><td><img alt=Forks src="https://img.shields.io/github/forks/Sayyiku/ice-coffee?style=flat-square&labelColor=343b41"></td><td><a href=https://github.com/Sayyiku/ice-coffee/issues target=_blank><img alt=Issues src="https://img.shields.io/github/issues/Sayyiku/ice-coffee?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Sayyiku/ice-coffee/pulls target=_blank><img alt="Pull Requests"src="https://img.shields.io/github/issues-pr/Sayyiku/ice-coffee?style=flat-square&labelColor=343b41"></a></td><td><a href=https://github.com/Sayyiku/ice-coffee/commits target=_blank><img alt="Last Commits"src="https://img.shields.io/github/last-commit/Sayyiku/ice-coffee?style=flat-square&labelColor=343b41"></a></td></tr></tbody></table>
-
-**写过的玩具..**
-
-<table><thead align=center><tr border: none;><td><b>🎁 Projects</b></td><td><b>⭐ Stars</b></td><td><b>🕐 Create At</b></td><td><b>📅 Last Active At</b></td></tr></thead><tbody><tr><td><a href=https://github.com/Sayyiku/ice-coffee target=_blank><b>Sayyiku/ice-coffee</b></a> <a href=https://lolim.me/ice-coffee/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/ice-coffee?style=flat-square&labelColor=343b41"></td><td>10/5/2022</td><td>2/7/2023</td></tr><tr><td><a href=https://github.com/Sayyiku/wonderful-acg target=_blank><b>Sayyiku/wonderful-acg</b></a> <a href=https://lolim.me/wonderful-acg/ target=_blank>🔗</a></td><td><img alt=Stars src="https://img.shields.io/github/stars/Sayyiku/wonderful-acg?style=flat-square&labelColor=343b41"></td><td>6/29/2022</td><td>11/14/2022</td></tr></tbody></table>
-
-
 
 **最近赞了...**
 
