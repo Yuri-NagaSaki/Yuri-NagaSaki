@@ -114,21 +114,32 @@
 
 <!-- STEAM_GAMES:START -->
 
-<table>
-<tr>
-<td width="120">
-🎮
-</td>
-<td>
-<h3><a href="https://store.steampowered.com/app/553850/">HELLDIVERS™ 2</a></h3>
-<p>🏆 成就: 32/38 (84.2%)</p>
-</td>
-<td align="right">
-<strong>40.8 小时</strong><br/>
-<small>最后运行: 未知</small>
-</td>
-</tr>
-</table>
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 12px; padding: 18px; border: 1px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.4); transition: transform 0.2s ease;">
+  <div style="display: flex; align-items: center; gap: 18px;">
+    <div style="flex-shrink: 0; position: relative;">
+      <img src="https://cdn.akamai.steamstatic.com/steam/apps/553850/header.jpg" width="120" height="90" alt="HELLDIVERS™ 2" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"/>
+      <div style="position: absolute; top: -8px; right: -8px; background: #ffd700; color: #000; font-size: 16px; width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.3);">🎮</div>
+    </div>
+    <div style="flex: 1; text-align: left; min-width: 0;">
+      <div style="margin-bottom: 8px;">
+        <a href="https://store.steampowered.com/app/553850/" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 700; font-size: 19px; line-height: 1.2; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">
+          HELLDIVERS™ 2
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-bottom: 10px; line-height: 1.5; opacity: 0.9;">四人合作射击游戏，为了超级地球的自由而战，对抗外星威胁。策略性地部署...</div>
+      <div style="color: #ffd700; font-size: 14px; margin-bottom: 8px; font-weight: 600; display: flex; align-items: center; gap: 6px;"><span style="font-size: 16px;">🏆</span>成就: 32/38 (84.2%)</div>
+      <div style="background: #21262d; border-radius: 6px; padding: 2px; margin-top: 6px;"><div style="background: linear-gradient(90deg, #ffd700, #ffed4e); height: 6px; border-radius: 3px; width: 168px; max-width: 200px;"></div></div>
+    </div>
+    <div style="text-align: right; flex-shrink: 0; background: rgba(88, 166, 255, 0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(88, 166, 255, 0.2);">
+      <div style="color: #58a6ff; font-size: 24px; font-weight: 800; line-height: 1; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">40.8</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px; font-weight: 500; letter-spacing: 0.5px;">小时</div>
+      <div style="margin-top: 8px; padding-top: 8px; border-top: 1px solid rgba(88, 166, 255, 0.2);">
+        <div style="color: #8b949e; font-size: 10px; opacity: 0.8; margin-bottom: 2px;">最后运行</div>
+        <div style="color: #f0f6fc; font-size: 12px; font-weight: 500;">未知</div>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- STEAM_GAMES:END -->
 
 ## <div align="center">🏆 GitHub 奖杯</div>
