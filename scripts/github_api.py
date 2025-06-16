@@ -75,18 +75,23 @@ def format_starred_repos(repos: List[Dict]) -> str:
         if len(description) > 60:
             description = description[:60] + "..."
         
-        # 美化的卡片格式
+        # 统一大小的卡片格式
         card = f"""
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="{url}">
-          <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username={full_name.split('/')[0]}&repo={name}&theme=tokyonight&show_owner=true&hide_border=true" alt="{full_name}">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117; height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
+  <div>
+    <h4 style="margin: 0 0 8px 0; font-size: 16px;">
+      <a href="{url}" target="_blank" style="color: #58a6ff; text-decoration: none;">
+        {lang_icon} {full_name}
+      </a>
+    </h4>
+    <p style="color: #8b949e; font-size: 13px; margin: 0; line-height: 1.4; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+      {description}
+    </p>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px;">
+    <span style="color: {lang_color}; font-size: 12px;">● {language}</span>
+    <img src="https://img.shields.io/github/stars/{full_name}?style=social" alt="stars" style="height: 16px;"/>
+  </div>
 </div>"""
         repo_cards.append(card)
     

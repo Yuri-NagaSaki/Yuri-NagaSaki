@@ -63,45 +63,41 @@ def format_blog_posts(posts: List[Dict], base_url: str) -> str:
     if not posts:
         return "暂无最新博客文章"
     
-    # 创建卡片样式
-    post_cards = []
+    # 创建简洁的标题列表
+    post_items = []
     for post in posts:
         title = html.unescape(post['title']['rendered'])
         link = post['link']
-        excerpt = clean_excerpt(post['excerpt']['rendered'])
-        date_str = format_date_full(post['date'])
+        date_str = format_date(post['date'])
         
         # 获取分类
         categories = get_post_categories(post)
-        category_tags = ""
+        category_badge = ""
         if categories:
-            category_tags = " ".join([f'<img src="https://img.shields.io/badge/-{cat}-4CAF50?style=flat-square&logoColor=white" alt="{cat}"/>' for cat in categories[:2]])
+            category_badge = f'<span style="background: #4CAF50; color: white; padding: 2px 6px; border-radius: 3px; font-size: 10px; margin-left: 8px;">{categories[0]}</span>'
         
-        # 现代卡片格式
-        card = f"""
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117;">
-  <h4 style="margin: 0 0 8px 0;">
-    <a href="{link}" target="_blank" style="color: #58a6ff; text-decoration: none;">
+        # 简洁的列表项格式
+        item = f"""
+<div style="padding: 12px; margin: 4px 0; border-left: 3px solid #58a6ff; background: rgba(88, 166, 255, 0.1); border-radius: 0 4px 4px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="{link}" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       📝 {title}
     </a>
-  </h4>
-  <p style="color: #8b949e; font-size: 14px; margin: 8px 0; line-height: 1.4;">
-    {excerpt[:80]}...
-  </p>
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="color: #7d8590; font-size: 12px;">{date_str}</span>
-    <div>{category_tags}</div>
+    <div style="display: flex; align-items: center;">
+      <span style="color: #7d8590; font-size: 11px;">{date_str}</span>
+      {category_badge}
+    </div>
   </div>
 </div>"""
-        post_cards.append(card)
+        post_items.append(item)
     
     # 双列布局
-    mid = len(post_cards) // 2 + len(post_cards) % 2
-    left_cards = post_cards[:mid]
-    right_cards = post_cards[mid:]
+    mid = len(post_items) // 2 + len(post_items) % 2
+    left_items = post_items[:mid]
+    right_items = post_items[mid:]
     
-    left_content = '\n'.join(left_cards)
-    right_content = '\n'.join(right_cards)
+    left_content = '\n'.join(left_items)
+    right_content = '\n'.join(right_items)
     
     return f"""
 <table>

@@ -3,3 +3,4 @@
 .vscode/
 .git/
 .github/
+__pycache__/

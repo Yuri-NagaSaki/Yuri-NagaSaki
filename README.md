@@ -46,68 +46,93 @@
 <td width="50%" valign="top">
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Lake1059/FFmpegFreeUI">
-          <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Lake1059&repo=FFmpegFreeUI&theme=tokyonight&show_owner=true&hide_border=true" alt="Lake1059/FFmpegFreeUI">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117; height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
+  <div>
+    <h4 style="margin: 0 0 8px 0; font-size: 16px;">
+      <a href="https://github.com/Lake1059/FFmpegFreeUI" target="_blank" style="color: #58a6ff; text-decoration: none;">
+        📄 Lake1059/FFmpegFreeUI
+      </a>
+    </h4>
+    <p style="color: #8b949e; font-size: 13px; margin: 0; line-height: 1.4; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+      3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使...
+    </p>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px;">
+    <span style="color: 586069; font-size: 12px;">● Visual Basic .NET</span>
+    <img src="https://img.shields.io/github/stars/Lake1059/FFmpegFreeUI?style=social" alt="stars" style="height: 16px;"/>
+  </div>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Kuingsmile/PicList">
-          <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Kuingsmile&repo=PicList&theme=tokyonight&show_owner=true&hide_border=true" alt="Kuingsmile/PicList">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117; height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
+  <div>
+    <h4 style="margin: 0 0 8px 0; font-size: 16px;">
+      <a href="https://github.com/Kuingsmile/PicList" target="_blank" style="color: #58a6ff; text-decoration: none;">
+        🔷 Kuingsmile/PicList
+      </a>
+    </h4>
+    <p style="color: #8b949e; font-size: 13px; margin: 0; line-height: 1.4; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+      An image upload and manage tool, base on PicGo
+    </p>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px;">
+    <span style="color: 007acc; font-size: 12px;">● TypeScript</span>
+    <img src="https://img.shields.io/github/stars/Kuingsmile/PicList?style=social" alt="stars" style="height: 16px;"/>
+  </div>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Afilmory/Afilmory">
-          <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Afilmory&repo=Afilmory&theme=tokyonight&show_owner=true&hide_border=true" alt="Afilmory/Afilmory">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117; height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
+  <div>
+    <h4 style="margin: 0 0 8px 0; font-size: 16px;">
+      <a href="https://github.com/Afilmory/Afilmory" target="_blank" style="color: #58a6ff; text-decoration: none;">
+        🔷 Afilmory/Afilmory
+      </a>
+    </h4>
+    <p style="color: #8b949e; font-size: 13px; margin: 0; line-height: 1.4; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+      A personal photography website celebrating the art of captur...
+    </p>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px;">
+    <span style="color: 007acc; font-size: 12px;">● TypeScript</span>
+    <img src="https://img.shields.io/github/stars/Afilmory/Afilmory?style=social" alt="stars" style="height: 16px;"/>
+  </div>
 </div>
 
 </td>
 <td width="50%" valign="top">
 
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/Zephyruso/zashboard">
-          <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Zephyruso&repo=zashboard&theme=tokyonight&show_owner=true&hide_border=true" alt="Zephyruso/zashboard">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117; height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
+  <div>
+    <h4 style="margin: 0 0 8px 0; font-size: 16px;">
+      <a href="https://github.com/Zephyruso/zashboard" target="_blank" style="color: #58a6ff; text-decoration: none;">
+        💚 Zephyruso/zashboard
+      </a>
+    </h4>
+    <p style="color: #8b949e; font-size: 13px; margin: 0; line-height: 1.4; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+      A Dashboard Using Clash API
+    </p>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px;">
+    <span style="color: 4fc08d; font-size: 12px;">● Vue</span>
+    <img src="https://img.shields.io/github/stars/Zephyruso/zashboard?style=social" alt="stars" style="height: 16px;"/>
+  </div>
 </div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/groupultra/telegram-search">
-          <img width="400" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=groupultra&repo=telegram-search&theme=tokyonight&show_owner=true&hide_border=true" alt="groupultra/telegram-search">
-        </a>
-      </td>
-    </tr>
-  </table>
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117; height: 120px; display: flex; flex-direction: column; justify-content: space-between;">
+  <div>
+    <h4 style="margin: 0 0 8px 0; font-size: 16px;">
+      <a href="https://github.com/groupultra/telegram-search" target="_blank" style="color: #58a6ff; text-decoration: none;">
+        🔷 groupultra/telegram-search
+      </a>
+    </h4>
+    <p style="color: #8b949e; font-size: 13px; margin: 0; line-height: 1.4; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;">
+      🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram...
+    </p>
+  </div>
+  <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 12px;">
+    <span style="color: 007acc; font-size: 12px;">● TypeScript</span>
+    <img src="https://img.shields.io/github/stars/groupultra/telegram-search?style=social" alt="stars" style="height: 16px;"/>
+  </div>
 </div>
 
 </td>
@@ -124,48 +149,39 @@
 <td width="50%" valign="top">
 
 
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117;">
-  <h4 style="margin: 0 0 8px 0;">
-    <a href="https://catcat.blog/ikoula-fr-intel-9700k-benchmark.html" target="_blank" style="color: #58a6ff; text-decoration: none;">
+<div style="padding: 12px; margin: 4px 0; border-left: 3px solid #58a6ff; background: rgba(88, 166, 255, 0.1); border-radius: 0 4px 4px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://catcat.blog/ikoula-fr-intel-9700k-benchmark.html" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       📝 Ikoula 法国 Intel 9700K 杜甫测试
     </a>
-  </h4>
-  <p style="color: #8b949e; font-size: 14px; margin: 8px 0; line-height: 1.4;">
-    Ikoula是法国主机商,成立于1998年,数据中心位于法国兰斯。ikoula主要提供服务器租用和云服务器业务 […]...
-  </p>
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="color: #7d8590; font-size: 12px;">2025年06月16日</span>
-    <div><img src="https://img.shields.io/badge/-服务器-4CAF50?style=flat-square&logoColor=white" alt="服务器"/> <img src="https://img.shields.io/badge/-欧洲服务器-4CAF50?style=flat-square&logoColor=white" alt="欧洲服务器"/></div>
+    <div style="display: flex; align-items: center;">
+      <span style="color: #7d8590; font-size: 11px;">06/16</span>
+      <span style="background: #4CAF50; color: white; padding: 2px 6px; border-radius: 3px; font-size: 10px; margin-left: 8px;">服务器</span>
+    </div>
   </div>
 </div>
 
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117;">
-  <h4 style="margin: 0 0 8px 0;">
-    <a href="https://catcat.blog/webnx-10g-amd-9950x-benchmark.html" target="_blank" style="color: #58a6ff; text-decoration: none;">
+<div style="padding: 12px; margin: 4px 0; border-left: 3px solid #58a6ff; background: rgba(88, 166, 255, 0.1); border-radius: 0 4px 4px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://catcat.blog/webnx-10g-amd-9950x-benchmark.html" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       📝 WebNX 万兆 AMD 9950X 杜甫测试
     </a>
-  </h4>
-  <p style="color: #8b949e; font-size: 14px; margin: 8px 0; line-height: 1.4;">
-    WebNX是我一直在购买的商家，目前运营了犹他州奥格登和洛杉矶还有纽约三个地区，WebNX是 Equinix […]...
-  </p>
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="color: #7d8590; font-size: 12px;">2025年06月08日</span>
-    <div><img src="https://img.shields.io/badge/-服务器-4CAF50?style=flat-square&logoColor=white" alt="服务器"/> <img src="https://img.shields.io/badge/-美国服务器-4CAF50?style=flat-square&logoColor=white" alt="美国服务器"/></div>
+    <div style="display: flex; align-items: center;">
+      <span style="color: #7d8590; font-size: 11px;">06/08</span>
+      <span style="background: #4CAF50; color: white; padding: 2px 6px; border-radius: 3px; font-size: 10px; margin-left: 8px;">服务器</span>
+    </div>
   </div>
 </div>
 
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117;">
-  <h4 style="margin: 0 0 8px 0;">
-    <a href="https://catcat.blog/hetzner-de-amd-3700x-160t-hdd.html" target="_blank" style="color: #58a6ff; text-decoration: none;">
+<div style="padding: 12px; margin: 4px 0; border-left: 3px solid #58a6ff; background: rgba(88, 166, 255, 0.1); border-radius: 0 4px 4px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://catcat.blog/hetzner-de-amd-3700x-160t-hdd.html" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       📝 Hetzner 德国 AMD 3700X 160T 存储测评
     </a>
-  </h4>
-  <p style="color: #8b949e; font-size: 14px; margin: 8px 0; line-height: 1.4;">
-    机器配置 测评 硬件检测 CPU Yabs GeekBench5 总结 其他没啥好测的，140欧的售价对于需要 […]...
-  </p>
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="color: #7d8590; font-size: 12px;">2025年05月20日</span>
-    <div><img src="https://img.shields.io/badge/-存储服务器-4CAF50?style=flat-square&logoColor=white" alt="存储服务器"/> <img src="https://img.shields.io/badge/-服务器-4CAF50?style=flat-square&logoColor=white" alt="服务器"/></div>
+    <div style="display: flex; align-items: center;">
+      <span style="color: #7d8590; font-size: 11px;">05/20</span>
+      <span style="background: #4CAF50; color: white; padding: 2px 6px; border-radius: 3px; font-size: 10px; margin-left: 8px;">存储服务器</span>
+    </div>
   </div>
 </div>
 
@@ -173,33 +189,27 @@
 <td width="50%" valign="top">
 
 
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117;">
-  <h4 style="margin: 0 0 8px 0;">
-    <a href="https://catcat.blog/redswitches-ams-amd-epyc-4344p-benchmark.html" target="_blank" style="color: #58a6ff; text-decoration: none;">
+<div style="padding: 12px; margin: 4px 0; border-left: 3px solid #58a6ff; background: rgba(88, 166, 255, 0.1); border-radius: 0 4px 4px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://catcat.blog/redswitches-ams-amd-epyc-4344p-benchmark.html" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       📝 Redswitches  荷兰万兆 AMD EPYC 4344P 测评
     </a>
-  </h4>
-  <p style="color: #8b949e; font-size: 14px; margin: 8px 0; line-height: 1.4;">
-    RedSwitches是一家全球托管服务提供商，在全球 20 多个地点提供高性能专用（裸机）服务器、基础设施即 […]...
-  </p>
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="color: #7d8590; font-size: 12px;">2025年05月07日</span>
-    <div><img src="https://img.shields.io/badge/-服务器-4CAF50?style=flat-square&logoColor=white" alt="服务器"/> <img src="https://img.shields.io/badge/-欧洲服务器-4CAF50?style=flat-square&logoColor=white" alt="欧洲服务器"/></div>
+    <div style="display: flex; align-items: center;">
+      <span style="color: #7d8590; font-size: 11px;">05/07</span>
+      <span style="background: #4CAF50; color: white; padding: 2px 6px; border-radius: 3px; font-size: 10px; margin-left: 8px;">服务器</span>
+    </div>
   </div>
 </div>
 
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117;">
-  <h4 style="margin: 0 0 8px 0;">
-    <a href="https://catcat.blog/fiberstate-10g-amd-9950x-benchmark-la.html" target="_blank" style="color: #58a6ff; text-decoration: none;">
+<div style="padding: 12px; margin: 4px 0; border-left: 3px solid #58a6ff; background: rgba(88, 166, 255, 0.1); border-radius: 0 4px 4px 0;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <a href="https://catcat.blog/fiberstate-10g-amd-9950x-benchmark-la.html" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       📝 Fiberstate 洛杉矶万兆 AMD 9950x 测评
     </a>
-  </h4>
-  <p style="color: #8b949e; font-size: 14px; margin: 8px 0; line-height: 1.4;">
-    We have the server running in the exact specification a […]...
-  </p>
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-    <span style="color: #7d8590; font-size: 12px;">2025年05月06日</span>
-    <div><img src="https://img.shields.io/badge/-服务器-4CAF50?style=flat-square&logoColor=white" alt="服务器"/> <img src="https://img.shields.io/badge/-美国服务器-4CAF50?style=flat-square&logoColor=white" alt="美国服务器"/></div>
+    <div style="display: flex; align-items: center;">
+      <span style="color: #7d8590; font-size: 11px;">05/06</span>
+      <span style="background: #4CAF50; color: white; padding: 2px 6px; border-radius: 3px; font-size: 10px; margin-left: 8px;">服务器</span>
+    </div>
   </div>
 </div>
 
@@ -211,22 +221,7 @@
 ## 🎮 Steam 最近游戏
 
 <!-- STEAM_GAMES:START -->
-
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117; display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h4 style="margin: 0 0 8px 0;">
-      <a href="https://store.steampowered.com/app/553850/" target="_blank" style="color: #58a6ff; text-decoration: none;">
-        🎮 HELLDIVERS™ 2
-      </a>
-    </h4>
-    <div style="margin: 8px 0;">
-      <img src="https://img.shields.io/badge/最近2周-26.9h-1976D2?style=flat-square" alt="recent"/>
-      <img src="https://img.shields.io/badge/总时长-40.8h-4CAF50?style=flat-square" alt="total"/>
-    </div>
-    <div><img src="https://img.shields.io/badge/-动作-FF6B6B?style=flat-square&logoColor=white" alt="动作"/></div>
-  </div>
-  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/9062d4d08a72c24194d02441e469688fd34fd840/header_schinese.jpg?t=1749837289" alt="HELLDIVERS™ 2" style="width: 120px; height: 45px; border-radius: 4px; margin-left: 16px;"/>
-</div>
+<!-- Steam API 请求超时 -->
 <!-- STEAM_GAMES:END -->
 
 ## 🏆 GitHub 奖杯
@@ -260,4 +255,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 09:57:55 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 10:03:12 UTC<!-- UPDATE_TIME:END -->* 
