@@ -1,0 +1,48 @@
+name: Update README
+
+on:
+  schedule:
+    # 每天凌晨2点运行 (UTC)
+    - cron: '0 2 * * *'
+  workflow_dispatch: # 允许手动触发
+  push:
+    branches: [ main ]
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+        
+    - name: Update README
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        WORDPRESS_URL: ${{ secrets.WORDPRESS_URL }}
+        STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+        STEAM_USER_ID: ${{ secrets.STEAM_USER_ID }}
+        GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+      run: python scripts/update_readme.py
+      
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        if git diff --staged --quiet; then
+          echo "No changes to commit"
+        else
+          git commit -m "🤖 Auto update README.md"
+          git push
+        fi 
