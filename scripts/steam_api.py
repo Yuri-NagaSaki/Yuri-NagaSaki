@@ -6,21 +6,21 @@ import asyncio
 from datetime import datetime, timezone
 from typing import List, Dict, Optional
 
-async def get_recent_games(api_key: str, steam_id: str, limit: int = 5) -> str:
+async def get_recent_games(api_key: str, steam_id: str, limit: int = 3) -> str:
     """
     获取Steam用户最近玩的游戏
     
     Args:
         api_key: Steam API密钥
         steam_id: Steam用户ID (64位)
-        limit: 返回游戏数量限制
+        limit: 返回游戏数量限制，默认3个
     
     Returns:
         格式化的markdown字符串
     """
     
     if not api_key or not steam_id:
-        return "<!-- 请在GitHub Secrets中设置STEAM_API_KEY和STEAM_USER_ID -->"
+        return '<div align="center" style="color: #8b949e; padding: 20px;">请在GitHub Secrets中设置STEAM_API_KEY和STEAM_USER_ID</div>'
     
     # Steam API URL
     url = "https://api.steampowered.com/IPlayerService/GetRecentlyPlayedGames/v0001/"
@@ -43,26 +43,26 @@ async def get_recent_games(api_key: str, steam_id: str, limit: int = 5) -> str:
                     data = await response.json()
                     if 'response' in data and 'games' in data['response']:
                         games = data['response']['games']
-                        return await format_steam_games(games, session, api_key)
+                        return await format_steam_games(games, session, api_key, steam_id)
                     else:
-                        return "暂无最近游戏记录"
+                        return '<div align="center" style="color: #8b949e; padding: 20px;">暂无最近游戏记录</div>'
                 elif response.status == 401:
-                    return "<!-- Steam API密钥无效 -->"
+                    return '<div align="center" style="color: #f85149; padding: 20px;">Steam API密钥无效</div>'
                 elif response.status == 403:
-                    return "<!-- Steam用户资料为私人状态或API密钥权限不足 -->"
+                    return '<div align="center" style="color: #f85149; padding: 20px;">Steam用户资料为私人状态或API密钥权限不足</div>'
                 else:
-                    return f"<!-- Steam API 错误: {response.status} -->"
+                    return f'<div align="center" style="color: #f85149; padding: 20px;">Steam API 错误: {response.status}</div>'
                     
     except asyncio.TimeoutError:
-        return "<!-- Steam API 请求超时 -->"
+        return '<div align="center" style="color: #f85149; padding: 20px;">Steam API 请求超时</div>'
     except Exception as e:
-        return f"<!-- 获取 Steam 游戏时发生错误: {str(e)} -->"
+        return f'<div align="center" style="color: #f85149; padding: 20px;">获取 Steam 游戏时发生错误: {str(e)}</div>'
 
-async def format_steam_games(games: List[Dict], session: aiohttp.ClientSession, api_key: str) -> str:
-    """格式化Steam游戏为markdown - 现代卡片样式"""
+async def format_steam_games(games: List[Dict], session: aiohttp.ClientSession, api_key: str, steam_id: str) -> str:
+    """格式化Steam游戏为现代卡片样式（参考用户截图）"""
     
     if not games:
-        return "暂无最近游戏记录"
+        return '<div align="center" style="color: #8b949e; padding: 20px;">暂无最近游戏记录</div>'
     
     game_cards = []
     
@@ -70,72 +70,73 @@ async def format_steam_games(games: List[Dict], session: aiohttp.ClientSession, 
     for game in games:
         app_id = game['appid']
         name = game['name']
-        playtime_2weeks = game.get('playtime_2weeks', 0)  # 最近两周游戏时间（分钟）
         playtime_forever = game.get('playtime_forever', 0)  # 总游戏时间（分钟）
         
         # 获取游戏详细信息
         game_details = await get_game_details(session, app_id)
         
+        # 获取成就信息
+        achievements_data = await get_game_achievements(api_key, steam_id, app_id)
+        
         # 格式化游戏时间
-        recent_hours = round(playtime_2weeks / 60, 1)
         total_hours = round(playtime_forever / 60, 1)
         
         # 游戏图标和链接
         header_image = game_details.get('header_image', '')
         store_url = f"https://store.steampowered.com/app/{app_id}/"
         
-        # 游戏类型/标签
-        genres = game_details.get('genres', [])
-        genre_tags = ""
-        if genres:
-            genre_tags = " ".join([f'<img src="https://img.shields.io/badge/-{genre.get("description", "")}-FF6B6B?style=flat-square&logoColor=white" alt="{genre.get("description", "")}"/>' for genre in genres[:3]])
+        # 获取最后运行时间（从最近游戏API获取）
+        last_played_timestamp = game.get('rtime_last_played', 0)
+        if last_played_timestamp:
+            last_played = datetime.fromtimestamp(last_played_timestamp).strftime('%m月%d日')
+        else:
+            last_played = "未知"
         
-        # 现代卡片格式
-        card = f"""
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117; display: flex; align-items: center;">
-  <div style="flex: 1;">
-    <h4 style="margin: 0 0 8px 0;">
-      <a href="{store_url}" target="_blank" style="color: #58a6ff; text-decoration: none;">
-        🎮 {name}
-      </a>
-    </h4>
+        # 处理成就信息
+        achievement_display = ""
+        if achievements_data and 'achievements' in achievements_data:
+            achievements = achievements_data['achievements']
+            total_achievements = len(achievements)
+            unlocked_achievements = sum(1 for ach in achievements if ach.get('achieved', 0) == 1)
+            
+            if total_achievements > 0:
+                progress_percent = (unlocked_achievements / total_achievements) * 100
+                achievement_display = f"""
     <div style="margin: 8px 0;">
-      <img src="https://img.shields.io/badge/最近2周-{recent_hours}h-1976D2?style=flat-square" alt="recent"/>
-      <img src="https://img.shields.io/badge/总时长-{total_hours}h-4CAF50?style=flat-square" alt="total"/>
+      <div style="display: flex; align-items: center; gap: 8px;">
+        <span style="color: #a5a5a5; font-size: 12px;">成就进度</span>
+        <span style="color: #ffffff; font-size: 12px; font-weight: bold;">{unlocked_achievements} / {total_achievements}</span>
+        <div style="flex: 1; height: 8px; background: #3a3a3a; border-radius: 4px; overflow: hidden;">
+          <div style="height: 100%; width: {progress_percent}%; background: linear-gradient(90deg, #4a90e2, #7b68ee); border-radius: 4px;"></div>
+        </div>
+      </div>
+    </div>"""
+        
+        # 现代卡片格式（参考截图样式）
+        card = f"""
+<div align="center" style="max-width: 800px; margin: 8px auto; background: linear-gradient(135deg, #2d1b69 0%, #11101d 100%); border-radius: 12px; padding: 16px; border: 1px solid #3a3a4a;">
+  <div style="display: flex; align-items: center; gap: 16px;">
+    <div style="flex-shrink: 0;">
+      {f'<img src="{header_image}" alt="{name}" style="width: 120px; height: 90px; border-radius: 8px; object-fit: cover;"/>' if header_image else '<div style="width: 120px; height: 90px; background: #3a3a3a; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #8b949e;">🎮</div>'}
     </div>
-    <div>{genre_tags}</div>
+    <div style="flex: 1; text-align: left;">
+      <h3 style="margin: 0 0 8px 0; color: #ffffff; font-size: 18px; font-weight: bold;">
+        <a href="{store_url}" target="_blank" style="color: #ffffff; text-decoration: none;">
+          {name}
+        </a>
+      </h3>
+      {achievement_display}
+    </div>
+    <div style="flex-shrink: 0; text-align: right;">
+      <div style="color: #a5a5a5; font-size: 12px; margin-bottom: 4px;">总时数</div>
+      <div style="color: #ffffff; font-size: 18px; font-weight: bold; margin-bottom: 8px;">{total_hours} 小时</div>
+      <div style="color: #a5a5a5; font-size: 12px;">最后运行日期: {last_played}</div>
+    </div>
   </div>
-  {f'<img src="{header_image}" alt="{name}" style="width: 120px; height: 45px; border-radius: 4px; margin-left: 16px;"/>' if header_image else ''}
 </div>"""
         game_cards.append(card)
     
-    # 如果有多个游戏，可以考虑网格布局
-    if len(game_cards) <= 2:
-        return '\n\n'.join(game_cards)
-    else:
-        # 双列布局
-        mid = len(game_cards) // 2 + len(game_cards) % 2
-        left_cards = game_cards[:mid]
-        right_cards = game_cards[mid:]
-        
-        left_content = '\n'.join(left_cards)
-        right_content = '\n'.join(right_cards)
-        
-        return f"""
-<table>
-<tr>
-<td width="50%" valign="top">
-
-{left_content}
-
-</td>
-<td width="50%" valign="top">
-
-{right_content}
-
-</td>
-</tr>
-</table>"""
+    return '\n\n'.join(game_cards)
 
 async def get_game_details(session: aiohttp.ClientSession, app_id: int) -> Dict:
     """获取游戏详细信息"""

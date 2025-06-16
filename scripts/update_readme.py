@@ -42,7 +42,7 @@ async def update_readme():
         
         # 更新GitHub stars部分
         content = re.sub(
-            r'## 🌟 最近动态.*?<!-- GITHUB_STARS:END -->',
+            r'## (?:<div align="center">)?🌟 最近动态(?:</div>)?.*?<!-- GITHUB_STARS:END -->',
             f'## <div align="center">🌟 最近动态</div>\n\n<!-- GITHUB_STARS:START -->\n{stars_content}\n<!-- GITHUB_STARS:END -->',
             content,
             flags=re.DOTALL
@@ -84,33 +84,65 @@ async def update_readme():
         raise
 
 def format_stars_content(stars_data):
-    """格式化Star项目内容（居中显示）"""
+    """格式化Star项目内容（优化排版）"""
+    
+    if not stars_data or not isinstance(stars_data, list):
+        return '<div align="center" style="color: #8b949e; padding: 20px;">暂无最近star的项目</div>'
     
     star_items = []
-    if stars_data and isinstance(stars_data, list):
-        for i, repo in enumerate(stars_data[:5]):  # 最多显示5个
-            name = repo.get('name', 'Unknown')
-            full_name = repo.get('full_name', 'Unknown')
-            url = repo.get('html_url', '#')
-            
-            star_item = f"""
-<div align="center" style="padding: 8px 12px; margin: 4px auto; max-width: 600px; border-radius: 6px; background: rgba(88, 166, 255, 0.08); border-left: 3px solid #58a6ff;">
-  <div>
-    <a href="{url}" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
-      ⭐ {full_name}
-    </a>
+    for i, repo in enumerate(stars_data[:5]):  # 最多显示5个
+        name = repo.get('name', 'Unknown')
+        full_name = repo.get('full_name', 'Unknown')
+        url = repo.get('html_url', '#')
+        description = repo.get('description', '')
+        language = repo.get('language', '')
+        
+        # 截取描述到合适长度
+        if description and len(description) > 80:
+            description = description[:80] + "..."
+        
+        star_item = f"""
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
+        <a href="{url}" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          {full_name}
+        </a>
+      </div>
+      {f'<div style="color: #8b949e; font-size: 13px; margin-top: 4px;">{description}</div>' if description else ''}
+      {f'<div style="margin-top: 6px;"><span style="color: {get_language_color(language)}; font-size: 12px;">● {language}</span></div>' if language else ''}
+    </div>
   </div>
 </div>"""
-            star_items.append(star_item)
-    else:
-        star_items.append('<div align="center" style="color: #8b949e; padding: 20px;">暂无最近star的项目</div>')
+        star_items.append(star_item)
     
-    return f"""
-<div align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background: #0d1117; max-width: 800px; margin: 0 auto;">
-  <div style="margin-bottom: 16px;">
-    {''.join(star_items)}
-  </div>
-</div>"""
+    return '\n'.join(star_items)
+
+def get_language_color(language):
+    """获取编程语言对应的颜色"""
+    colors = {
+        'Python': '#3776ab',
+        'JavaScript': '#f1e05a',
+        'TypeScript': '#2b7489',
+        'Java': '#b07219',
+        'C++': '#f34b7d',
+        'C': '#555555',
+        'Go': '#00add8',
+        'Rust': '#dea584',
+        'PHP': '#4f5d95',
+        'Ruby': '#701516',
+        'Swift': '#ffac45',
+        'Kotlin': '#f18e33',
+        'Dart': '#00b4ab',
+        'Shell': '#89e051',
+        'HTML': '#e34c26',
+        'CSS': '#1572b6',
+        'Vue': '#4fc08d',
+        'React': '#61dafb'
+    }
+    return colors.get(language, '#8b949e')
 
 if __name__ == "__main__":
     asyncio.run(update_readme()) 
