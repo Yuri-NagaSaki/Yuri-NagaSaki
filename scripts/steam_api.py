@@ -59,12 +59,12 @@ async def get_recent_games(api_key: str, steam_id: str, limit: int = 5) -> str:
         return f"<!-- 获取 Steam 游戏时发生错误: {str(e)} -->"
 
 async def format_steam_games(games: List[Dict], session: aiohttp.ClientSession, api_key: str) -> str:
-    """格式化Steam游戏为markdown"""
+    """格式化Steam游戏为markdown - 现代卡片样式"""
     
     if not games:
         return "暂无最近游戏记录"
     
-    markdown_lines = []
+    game_cards = []
     
     # 获取游戏详细信息
     for game in games:
@@ -81,33 +81,61 @@ async def format_steam_games(games: List[Dict], session: aiohttp.ClientSession, 
         total_hours = round(playtime_forever / 60, 1)
         
         # 游戏图标和链接
-        game_icon = game_details.get('header_image', '')
+        header_image = game_details.get('header_image', '')
         store_url = f"https://store.steampowered.com/app/{app_id}/"
         
         # 游戏类型/标签
         genres = game_details.get('genres', [])
-        genre_names = [genre.get('description', '') for genre in genres[:3]]
+        genre_tags = ""
+        if genres:
+            genre_tags = " ".join([f'<img src="https://img.shields.io/badge/-{genre.get("description", "")}-FF6B6B?style=flat-square&logoColor=white" alt="{genre.get("description", "")}"/>' for genre in genres[:3]])
         
-        # 格式化单个游戏
-        game_md = f"""
-<div align="left">
-  <h4>
-    <a href="{store_url}" target="_blank">
-      🎮 {name}
-    </a>
-  </h4>
-  <p>
-    <img src="https://img.shields.io/badge/最近2周-{recent_hours}小时-blue?style=flat-square" alt="recent">
-    <img src="https://img.shields.io/badge/总时长-{total_hours}小时-green?style=flat-square" alt="total">
-  </p>
-  {f'<p>类型: {" | ".join(genre_names)}</p>' if genre_names else ''}
-</div>
-
----
-"""
-        markdown_lines.append(game_md.strip())
+        # 现代卡片格式
+        card = f"""
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117; display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h4 style="margin: 0 0 8px 0;">
+      <a href="{store_url}" target="_blank" style="color: #58a6ff; text-decoration: none;">
+        🎮 {name}
+      </a>
+    </h4>
+    <div style="margin: 8px 0;">
+      <img src="https://img.shields.io/badge/最近2周-{recent_hours}h-1976D2?style=flat-square" alt="recent"/>
+      <img src="https://img.shields.io/badge/总时长-{total_hours}h-4CAF50?style=flat-square" alt="total"/>
+    </div>
+    <div>{genre_tags}</div>
+  </div>
+  {f'<img src="{header_image}" alt="{name}" style="width: 120px; height: 45px; border-radius: 4px; margin-left: 16px;"/>' if header_image else ''}
+</div>"""
+        game_cards.append(card)
     
-    return '\n\n'.join(markdown_lines)
+    # 如果有多个游戏，可以考虑网格布局
+    if len(game_cards) <= 2:
+        return '\n\n'.join(game_cards)
+    else:
+        # 双列布局
+        mid = len(game_cards) // 2 + len(game_cards) % 2
+        left_cards = game_cards[:mid]
+        right_cards = game_cards[mid:]
+        
+        left_content = '\n'.join(left_cards)
+        right_content = '\n'.join(right_cards)
+        
+        return f"""
+<table>
+<tr>
+<td width="50%" valign="top">
+
+{left_content}
+
+</td>
+<td width="50%" valign="top">
+
+{right_content}
+
+</td>
+</tr>
+</table>"""
 
 async def get_game_details(session: aiohttp.ClientSession, app_id: int) -> Dict:
     """获取游戏详细信息"""

@@ -58,42 +58,62 @@ async def get_recent_posts(wordpress_url: str, limit: int = 5) -> str:
         return f"<!-- 获取 WordPress 文章时发生错误: {str(e)} -->"
 
 def format_blog_posts(posts: List[Dict], base_url: str) -> str:
-    """格式化博客文章为markdown - 简洁双列布局"""
+    """格式化博客文章为markdown - 现代卡片样式"""
     
     if not posts:
         return "暂无最新博客文章"
     
-    # 创建双列布局
-    post_items = []
+    # 创建卡片样式
+    post_cards = []
     for post in posts:
         title = html.unescape(post['title']['rendered'])
         link = post['link']
-        date_str = format_date(post['date'])
+        excerpt = clean_excerpt(post['excerpt']['rendered'])
+        date_str = format_date_full(post['date'])
         
-        # 简洁格式 - 只显示标题和日期
-        post_item = f'<li><a href="{link}" target="_blank">📝 <strong>{title}</strong></a> <small>({date_str})</small></li>'
-        post_items.append(post_item)
+        # 获取分类
+        categories = get_post_categories(post)
+        category_tags = ""
+        if categories:
+            category_tags = " ".join([f'<img src="https://img.shields.io/badge/-{cat}-4CAF50?style=flat-square&logoColor=white" alt="{cat}"/>' for cat in categories[:2]])
+        
+        # 现代卡片格式
+        card = f"""
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117;">
+  <h4 style="margin: 0 0 8px 0;">
+    <a href="{link}" target="_blank" style="color: #58a6ff; text-decoration: none;">
+      📝 {title}
+    </a>
+  </h4>
+  <p style="color: #8b949e; font-size: 14px; margin: 8px 0; line-height: 1.4;">
+    {excerpt[:80]}...
+  </p>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+    <span style="color: #7d8590; font-size: 12px;">{date_str}</span>
+    <div>{category_tags}</div>
+  </div>
+</div>"""
+        post_cards.append(card)
     
-    # 分成两列
-    mid = len(post_items) // 2 + len(post_items) % 2
-    left_column = post_items[:mid]
-    right_column = post_items[mid:]
+    # 双列布局
+    mid = len(post_cards) // 2 + len(post_cards) % 2
+    left_cards = post_cards[:mid]
+    right_cards = post_cards[mid:]
     
-    # 生成双列HTML
-    left_list = f'<ul>\n{chr(10).join(left_column)}\n</ul>' if left_column else ''
-    right_list = f'<ul>\n{chr(10).join(right_column)}\n</ul>' if right_column else ''
+    left_content = '\n'.join(left_cards)
+    right_content = '\n'.join(right_cards)
     
     return f"""
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-{left_list}
+{left_content}
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-{right_list}
+{right_content}
 
 </td>
 </tr>
@@ -119,12 +139,22 @@ def clean_excerpt(excerpt: str) -> str:
     return excerpt
 
 def format_date(date_str: str) -> str:
-    """格式化日期字符串"""
+    """格式化日期字符串 - 简短格式"""
     
     try:
         # WordPress通常返回ISO格式的日期
         date_obj = datetime.fromisoformat(date_str.replace('T', ' ').replace('Z', '+00:00'))
         return date_obj.strftime('%m/%d')
+    except Exception:
+        return '未知日期'
+
+def format_date_full(date_str: str) -> str:
+    """格式化日期字符串 - 完整格式"""
+    
+    try:
+        # WordPress通常返回ISO格式的日期
+        date_obj = datetime.fromisoformat(date_str.replace('T', ' ').replace('Z', '+00:00'))
+        return date_obj.strftime('%Y年%m月%d日')
     except Exception:
         return '未知日期'
 
