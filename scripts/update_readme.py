@@ -128,24 +128,16 @@ def format_combined_content(stars_data, blog_data):
         for i, repo in enumerate(stars_data[:5]):  # 最多显示5个
             name = repo.get('name', 'Unknown')
             full_name = repo.get('full_name', 'Unknown')
-            description = repo.get('description', '无描述')
             url = repo.get('html_url', '#')
             
             print(f"  Repo {i+1}: {full_name}")
             
-            # 限制描述长度
-            if len(description) > 50:
-                description = description[:50] + "..."
-            
             star_item = f"""
 <div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(88, 166, 255, 0.08); border-left: 3px solid #58a6ff;">
-  <div style="margin-bottom: 4px;">
+  <div>
     <a href="{url}" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       ⭐ {full_name}
     </a>
-  </div>
-  <div style="color: #8b949e; font-size: 12px; line-height: 1.3;">
-    {description}
   </div>
 </div>"""
             star_items.append(star_item)

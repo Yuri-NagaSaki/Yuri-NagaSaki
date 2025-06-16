@@ -48,57 +48,42 @@
         </h4>
         
 <div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(88, 166, 255, 0.08); border-left: 3px solid #58a6ff;">
-  <div style="margin-bottom: 4px;">
+  <div>
     <a href="https://github.com/Lake1059/FFmpegFreeUI" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       ⭐ Lake1059/FFmpegFreeUI
     </a>
   </div>
-  <div style="color: #8b949e; font-size: 12px; line-height: 1.3;">
-    3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友...
-  </div>
 </div>
 
 <div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(88, 166, 255, 0.08); border-left: 3px solid #58a6ff;">
-  <div style="margin-bottom: 4px;">
+  <div>
     <a href="https://github.com/Kuingsmile/PicList" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       ⭐ Kuingsmile/PicList
     </a>
   </div>
-  <div style="color: #8b949e; font-size: 12px; line-height: 1.3;">
-    An image upload and manage tool, base on PicGo
-  </div>
 </div>
 
 <div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(88, 166, 255, 0.08); border-left: 3px solid #58a6ff;">
-  <div style="margin-bottom: 4px;">
+  <div>
     <a href="https://github.com/Afilmory/Afilmory" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       ⭐ Afilmory/Afilmory
     </a>
   </div>
-  <div style="color: #8b949e; font-size: 12px; line-height: 1.3;">
-    A personal photography website celebrating the art...
-  </div>
 </div>
 
 <div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(88, 166, 255, 0.08); border-left: 3px solid #58a6ff;">
-  <div style="margin-bottom: 4px;">
+  <div>
     <a href="https://github.com/Zephyruso/zashboard" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       ⭐ Zephyruso/zashboard
     </a>
   </div>
-  <div style="color: #8b949e; font-size: 12px; line-height: 1.3;">
-    A Dashboard Using Clash API
-  </div>
 </div>
 
 <div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(88, 166, 255, 0.08); border-left: 3px solid #58a6ff;">
-  <div style="margin-bottom: 4px;">
+  <div>
     <a href="https://github.com/groupultra/telegram-search" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       ⭐ groupultra/telegram-search
     </a>
-  </div>
-  <div style="color: #8b949e; font-size: 12px; line-height: 1.3;">
-    🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerfu...
   </div>
 </div>
       </td>
@@ -189,4 +174,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 13:37:01 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 13:39:02 UTC<!-- UPDATE_TIME:END -->* 
