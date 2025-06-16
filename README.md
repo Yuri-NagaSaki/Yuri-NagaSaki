@@ -1,4 +1,4 @@
-# Hi there! 👋 我是 Yuri-NagaSaki
+# <div align="center">Hi there! 👋 我是 Yuri-NagaSaki</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=全栈开发者;开源爱好者;终身学习者;代码改变世界" alt="Typing SVG" />
@@ -9,19 +9,19 @@
   <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub Badge">
 </p>
 
-## 🚀 关于我
+## <div align="center">🚀 关于我</div>
 
 - 🌱 正在学习 **AI/ML, Web3, 云原生技术**
 - 👯 希望合作 **开源项目**
 - 💬 可以聊聊 **技术、编程、游戏**
 
-## 🛠️ 技术栈
+## <div align="center">🛠️ 技术栈</div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vue,nodejs,docker,kubernetes,aws,gcp,linux,git,vscode,figma" />
 </p>
 
-## 📊 GitHub 统计
+## <div align="center">📊 GitHub 统计</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuri-NagaSaki&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
@@ -98,7 +98,7 @@
 </div>
 <!-- GITHUB_STARS:END -->
 
-## 🎮 Steam 最近游戏
+## <div align="center">�� Steam 最近游戏</div>
 
 <!-- STEAM_GAMES:START -->
 
@@ -119,19 +119,19 @@
 </div>
 <!-- STEAM_GAMES:END -->
 
-## 🏆 GitHub 奖杯
+## <div align="center">🏆 GitHub 奖杯</div>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yuri-NagaSaki&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
-## 📈 贡献图
+## <div align="center">📈 贡献图</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuri-NagaSaki&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
-## 🔗 社交媒体
+## <div align="center">🔗 社交媒体</div>
 
 <p align="center">
   <a href="https://twitter.com/Yuri-NagaSaki"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>

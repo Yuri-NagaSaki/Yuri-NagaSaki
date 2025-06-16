@@ -6,7 +6,6 @@ import re
 import asyncio
 from datetime import datetime, timezone
 from github_api import get_recent_stars
-from wordpress_api import get_recent_posts
 from steam_api import get_recent_games
 
 async def update_readme():
@@ -26,17 +25,8 @@ async def update_readme():
         
         stars_data = await get_recent_stars(github_username, github_token, return_data=True)
         
-        # 获取WordPress文章
-        print("📝 获取WordPress文章...")
-        wordpress_url = os.getenv('WORDPRESS_URL')
-        
-        if wordpress_url:
-            blog_data = await get_recent_posts(wordpress_url, return_data=True)
-        else:
-            blog_data = []
-        
-        # 生成组合内容
-        combined_content = format_combined_content(stars_data, blog_data)
+        # 生成Star项目内容
+        stars_content = format_stars_content(stars_data)
         
         # 获取Steam游戏
         print("🎮 获取Steam游戏...")
@@ -50,16 +40,15 @@ async def update_readme():
         # 更新README内容
         print("✏️ 更新README内容...")
         
-        # 使用新的组合内容替换原来的两个部分
-        # 首先找到并替换GitHub stars部分
+        # 更新GitHub stars部分
         content = re.sub(
             r'## 🌟 最近动态.*?<!-- GITHUB_STARS:END -->',
-            f'## 🌟 最近动态\n\n<!-- GITHUB_STARS:START -->\n{combined_content}\n<!-- GITHUB_STARS:END -->',
+            f'## <div align="center">🌟 最近动态</div>\n\n<!-- GITHUB_STARS:START -->\n{stars_content}\n<!-- GITHUB_STARS:END -->',
             content,
             flags=re.DOTALL
         )
         
-        # 移除博客文章部分（因为已经合并到上面）
+        # 移除博客文章部分
         content = re.sub(
             r'## 📝 最新博客文章.*?<!-- BLOG_POSTS:END -->\n\n',
             '',
@@ -94,10 +83,9 @@ async def update_readme():
         print(f"❌ 更新过程中发生错误: {e}")
         raise
 
-def format_combined_content(stars_data, blog_data):
-    """格式化组合内容：左边是star项目，右边是博客文章"""
+def format_stars_content(stars_data):
+    """格式化Star项目内容（居中显示）"""
     
-    # 格式化star项目（简化版）
     star_items = []
     if stars_data and isinstance(stars_data, list):
         for i, repo in enumerate(stars_data[:5]):  # 最多显示5个
@@ -106,7 +94,7 @@ def format_combined_content(stars_data, blog_data):
             url = repo.get('html_url', '#')
             
             star_item = f"""
-<div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(88, 166, 255, 0.08); border-left: 3px solid #58a6ff;">
+<div align="center" style="padding: 8px 12px; margin: 4px auto; max-width: 600px; border-radius: 6px; background: rgba(88, 166, 255, 0.08); border-left: 3px solid #58a6ff;">
   <div>
     <a href="{url}" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 500; font-size: 14px;">
       ⭐ {full_name}
@@ -115,49 +103,13 @@ def format_combined_content(stars_data, blog_data):
 </div>"""
             star_items.append(star_item)
     else:
-        star_items.append('<div style="color: #8b949e; text-align: center; padding: 20px;">暂无最近star的项目</div>')
-    
-    # 格式化博客文章（只显示标题）
-    blog_items = []
-    if blog_data and isinstance(blog_data, list):
-        for i, post in enumerate(blog_data[:5]):  # 最多显示5个
-            title = post.get('title', '无标题')
-            url = post.get('link', '#')
-            
-            blog_item = f"""
-<div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(255, 165, 0, 0.08); border-left: 3px solid #ffa500;">
-  <div>
-    <a href="{url}" target="_blank" style="color: #ffa500; text-decoration: none; font-weight: 500; font-size: 14px;">
-      📝 {title}
-    </a>
-  </div>
-</div>"""
-            blog_items.append(blog_item)
-    else:
-        blog_items.append('<div style="color: #8b949e; text-align: center; padding: 20px;">暂无最新博客文章</div>')
-    
-    # 组合两列布局
-    stars_content = '\n'.join(star_items)
-    blog_content = '\n'.join(blog_items)
+        star_items.append('<div align="center" style="color: #8b949e; padding: 20px;">暂无最近star的项目</div>')
     
     return f"""
-<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background: #0d1117;">
-  <table style="width: 100%; border-collapse: collapse;">
-    <tr>
-      <td style="width: 50%; vertical-align: top; padding-right: 8px;">
-        <h4 style="margin: 0 0 12px 0; color: #58a6ff; font-size: 16px; text-align: center;">
-          ⭐ 最近 Star 的项目
-        </h4>
-        {stars_content}
-      </td>
-      <td style="width: 50%; vertical-align: top; padding-left: 8px; border-left: 1px solid #30363d;">
-        <h4 style="margin: 0 0 12px 0; color: #ffa500; font-size: 16px; text-align: center;">
-          📝 最新博客文章
-        </h4>
-        {blog_content}
-      </td>
-    </tr>
-  </table>
+<div align="center" style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; background: #0d1117; max-width: 800px; margin: 0 auto;">
+  <div style="margin-bottom: 16px;">
+    {''.join(star_items)}
+  </div>
 </div>"""
 
 if __name__ == "__main__":
