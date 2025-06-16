@@ -117,7 +117,7 @@
 <div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 12px; padding: 18px; border: 1px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.4); transition: transform 0.2s ease;">
   <div style="display: flex; align-items: center; gap: 18px;">
     <div style="flex-shrink: 0; position: relative;">
-      <img src="https://cdn.akamai.steamstatic.com/steam/apps/553850/header.jpg" width="120" height="90" alt="HELLDIVERS™ 2" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"/>
+      <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/9062d4d08a72c24194d02441e469688fd34fd840/header_schinese.jpg?t=1749837289" width="120" height="90" alt="HELLDIVERS™ 2" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"/>
       <div style="position: absolute; top: -8px; right: -8px; background: #ffd700; color: #000; font-size: 16px; width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.3);">🎮</div>
     </div>
     <div style="flex: 1; text-align: left; min-width: 0;">
@@ -126,7 +126,7 @@
           HELLDIVERS™ 2
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-bottom: 10px; line-height: 1.5; opacity: 0.9;">四人合作射击游戏，为了超级地球的自由而战，对抗外星威胁。策略性地部署...</div>
+      <div style="color: #8b949e; font-size: 13px; margin-bottom: 10px; line-height: 1.5; opacity: 0.9;">银河系最后的进攻力量。投入这款紧张刺激且疯狂的第三人称射击游戏，应征成为绝地潜兵，穿越战火肆虐的星系，为自由而战。</div>
       <div style="color: #ffd700; font-size: 14px; margin-bottom: 8px; font-weight: 600; display: flex; align-items: center; gap: 6px;"><span style="font-size: 16px;">🏆</span>成就: 32/38 (84.2%)</div>
       <div style="background: #21262d; border-radius: 6px; padding: 2px; margin-top: 6px;"><div style="background: linear-gradient(90deg, #ffd700, #ffed4e); height: 6px; border-radius: 3px; width: 168px; max-width: 200px;"></div></div>
     </div>
@@ -173,4 +173,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 14:25:48 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 14:32:36 UTC<!-- UPDATE_TIME:END -->* 
