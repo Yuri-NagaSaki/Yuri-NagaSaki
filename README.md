@@ -114,35 +114,21 @@
 
 <!-- STEAM_GAMES:START -->
 
-<div align="center" style="max-width: 800px; margin: 8px auto; background: linear-gradient(135deg, #2d1b69 0%, #11101d 100%); border-radius: 12px; padding: 16px; border: 1px solid #3a3a4a;">
-  <div style="display: flex; align-items: center; gap: 16px;">
-    <div style="flex-shrink: 0;">
-      <div style="width: 120px; height: 90px; background: #3a3a3a; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #8b949e;">🎮</div>
-    </div>
-    <div style="flex: 1; text-align: left;">
-      <h3 style="margin: 0 0 8px 0; color: #ffffff; font-size: 18px; font-weight: bold;">
-        <a href="https://store.steampowered.com/app/553850/" target="_blank" style="color: #ffffff; text-decoration: none;">
-          HELLDIVERS™ 2
-        </a>
-      </h3>
-      
-    <div style="margin: 8px 0;">
-      <div style="display: flex; align-items: center; gap: 8px;">
-        <span style="color: #a5a5a5; font-size: 12px;">成就进度</span>
-        <span style="color: #ffffff; font-size: 12px; font-weight: bold;">32 / 38</span>
-        <div style="flex: 1; height: 8px; background: #3a3a3a; border-radius: 4px; overflow: hidden;">
-          <div style="height: 100%; width: 84.21052631578947%; background: linear-gradient(90deg, #4a90e2, #7b68ee); border-radius: 4px;"></div>
-        </div>
-      </div>
-    </div>
-    </div>
-    <div style="flex-shrink: 0; text-align: right;">
-      <div style="color: #a5a5a5; font-size: 12px; margin-bottom: 4px;">总时数</div>
-      <div style="color: #ffffff; font-size: 18px; font-weight: bold; margin-bottom: 8px;">40.8 小时</div>
-      <div style="color: #a5a5a5; font-size: 12px;">最后运行日期: 未知</div>
-    </div>
-  </div>
-</div>
+<table>
+<tr>
+<td width="120">
+🎮
+</td>
+<td>
+<h3><a href="https://store.steampowered.com/app/553850/">HELLDIVERS™ 2</a></h3>
+<p>🏆 成就: 32/38 (84.2%)</p>
+</td>
+<td align="right">
+<strong>40.8 小时</strong><br/>
+<small>最后运行: 未知</small>
+</td>
+</tr>
+</table>
 <!-- STEAM_GAMES:END -->
 
 ## <div align="center">🏆 GitHub 奖杯</div>
@@ -176,4 +162,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 14:23:04 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 14:25:48 UTC<!-- UPDATE_TIME:END -->* 

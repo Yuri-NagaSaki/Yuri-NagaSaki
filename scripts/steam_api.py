@@ -59,10 +59,10 @@ async def get_recent_games(api_key: str, steam_id: str, limit: int = 3) -> str:
         return f'<div align="center" style="color: #f85149; padding: 20px;">获取 Steam 游戏时发生错误: {str(e)}</div>'
 
 async def format_steam_games(games: List[Dict], session: aiohttp.ClientSession, api_key: str, steam_id: str) -> str:
-    """格式化Steam游戏为现代卡片样式（参考用户截图）"""
+    """格式化Steam游戏为GitHub兼容的简单样式"""
     
     if not games:
-        return '<div align="center" style="color: #8b949e; padding: 20px;">暂无最近游戏记录</div>'
+        return '<div align="center">暂无最近游戏记录</div>'
     
     game_cards = []
     
@@ -93,47 +93,33 @@ async def format_steam_games(games: List[Dict], session: aiohttp.ClientSession, 
             last_played = "未知"
         
         # 处理成就信息
-        achievement_display = ""
+        achievement_info = ""
         if achievements_data and 'achievements' in achievements_data:
             achievements = achievements_data['achievements']
             total_achievements = len(achievements)
             unlocked_achievements = sum(1 for ach in achievements if ach.get('achieved', 0) == 1)
             
             if total_achievements > 0:
-                progress_percent = (unlocked_achievements / total_achievements) * 100
-                achievement_display = f"""
-    <div style="margin: 8px 0;">
-      <div style="display: flex; align-items: center; gap: 8px;">
-        <span style="color: #a5a5a5; font-size: 12px;">成就进度</span>
-        <span style="color: #ffffff; font-size: 12px; font-weight: bold;">{unlocked_achievements} / {total_achievements}</span>
-        <div style="flex: 1; height: 8px; background: #3a3a3a; border-radius: 4px; overflow: hidden;">
-          <div style="height: 100%; width: {progress_percent}%; background: linear-gradient(90deg, #4a90e2, #7b68ee); border-radius: 4px;"></div>
-        </div>
-      </div>
-    </div>"""
+                progress_percent = round((unlocked_achievements / total_achievements) * 100, 1)
+                achievement_info = f"🏆 成就: {unlocked_achievements}/{total_achievements} ({progress_percent}%)"
         
-        # 现代卡片格式（参考截图样式）
+        # 简化的卡片格式（GitHub兼容）
         card = f"""
-<div align="center" style="max-width: 800px; margin: 8px auto; background: linear-gradient(135deg, #2d1b69 0%, #11101d 100%); border-radius: 12px; padding: 16px; border: 1px solid #3a3a4a;">
-  <div style="display: flex; align-items: center; gap: 16px;">
-    <div style="flex-shrink: 0;">
-      {f'<img src="{header_image}" alt="{name}" style="width: 120px; height: 90px; border-radius: 8px; object-fit: cover;"/>' if header_image else '<div style="width: 120px; height: 90px; background: #3a3a3a; border-radius: 8px; display: flex; align-items: center; justify-content: center; color: #8b949e;">🎮</div>'}
-    </div>
-    <div style="flex: 1; text-align: left;">
-      <h3 style="margin: 0 0 8px 0; color: #ffffff; font-size: 18px; font-weight: bold;">
-        <a href="{store_url}" target="_blank" style="color: #ffffff; text-decoration: none;">
-          {name}
-        </a>
-      </h3>
-      {achievement_display}
-    </div>
-    <div style="flex-shrink: 0; text-align: right;">
-      <div style="color: #a5a5a5; font-size: 12px; margin-bottom: 4px;">总时数</div>
-      <div style="color: #ffffff; font-size: 18px; font-weight: bold; margin-bottom: 8px;">{total_hours} 小时</div>
-      <div style="color: #a5a5a5; font-size: 12px;">最后运行日期: {last_played}</div>
-    </div>
-  </div>
-</div>"""
+<table>
+<tr>
+<td width="120">
+{f'<img src="{header_image}" width="120" height="90" alt="{name}"/>' if header_image else '🎮'}
+</td>
+<td>
+<h3><a href="{store_url}">{name}</a></h3>
+{f'<p>{achievement_info}</p>' if achievement_info else ''}
+</td>
+<td align="right">
+<strong>{total_hours} 小时</strong><br/>
+<small>最后运行: {last_played}</small>
+</td>
+</tr>
+</table>"""
         game_cards.append(card)
     
     return '\n\n'.join(game_cards)
