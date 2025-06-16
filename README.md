@@ -41,164 +41,55 @@
 ## ⭐ 最近 Star 的项目
 
 <!-- GITHUB_STARS:START -->
-<div align="left">
-  <h4>
-    <a href="https://github.com/Lake1059/FFmpegFreeUI" target="_blank">
-      📄 Lake1059/FFmpegFreeUI
-    </a>
-    <img src="https://img.shields.io/github/stars/Lake1059/FFmpegFreeUI?style=social" alt="stars" align="right">
-  </h4>
-  <p>3FUI 是 ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。此项目面向国内使用环境，让普通人也能够轻松压制视频和转换格式。</p>
-  <p>
-    <img src="https://img.shields.io/badge/Language-Visual Basic .NET-blue?style=flat-square" alt="language">
-    <img src="https://img.shields.io/badge/Starred-未知时间-green?style=flat-square" alt="starred">
-  </p>
-</div>
 
----
+<table>
+<tr>
+<td width="50%">
 
-<div align="left">
-  <h4>
-    <a href="https://github.com/Kuingsmile/PicList" target="_blank">
-      🔷 Kuingsmile/PicList
-    </a>
-    <img src="https://img.shields.io/github/stars/Kuingsmile/PicList?style=social" alt="stars" align="right">
-  </h4>
-  <p>An image upload and manage tool, base on PicGo</p>
-  <p>
-    <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=flat-square" alt="language">
-    <img src="https://img.shields.io/badge/Starred-未知时间-green?style=flat-square" alt="starred">
-  </p>
-</div>
+<ul>
+<li><a href="https://github.com/Lake1059/FFmpegFreeUI" target="_blank">📄 <strong>Lake1059/FFmpegFreeUI</strong></a> <img src="https://img.shields.io/github/stars/Lake1059/FFmpegFreeUI?style=flat&color=yellow" alt="⭐"/></li>
+<li><a href="https://github.com/Kuingsmile/PicList" target="_blank">🔷 <strong>Kuingsmile/PicList</strong></a> <img src="https://img.shields.io/github/stars/Kuingsmile/PicList?style=flat&color=yellow" alt="⭐"/></li>
+<li><a href="https://github.com/Afilmory/Afilmory" target="_blank">🔷 <strong>Afilmory/Afilmory</strong></a> <img src="https://img.shields.io/github/stars/Afilmory/Afilmory?style=flat&color=yellow" alt="⭐"/></li>
+</ul>
 
----
+</td>
+<td width="50%">
 
-<div align="left">
-  <h4>
-    <a href="https://github.com/Afilmory/Afilmory" target="_blank">
-      🔷 Afilmory/Afilmory
-    </a>
-    <img src="https://img.shields.io/github/stars/Afilmory/Afilmory?style=social" alt="stars" align="right">
-  </h4>
-  <p>A personal photography website celebrating the art of capturing moments with a nostalgic, retro vibe. Blending aperture, film, and memory.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=flat-square" alt="language">
-    <img src="https://img.shields.io/badge/Starred-未知时间-green?style=flat-square" alt="starred">
-  </p>
-</div>
+<ul>
+<li><a href="https://github.com/Zephyruso/zashboard" target="_blank">💚 <strong>Zephyruso/zashboard</strong></a> <img src="https://img.shields.io/github/stars/Zephyruso/zashboard?style=flat&color=yellow" alt="⭐"/></li>
+<li><a href="https://github.com/groupultra/telegram-search" target="_blank">🔷 <strong>groupultra/telegram-search</strong></a> <img src="https://img.shields.io/github/stars/groupultra/telegram-search?style=flat&color=yellow" alt="⭐"/></li>
+</ul>
 
----
-
-<div align="left">
-  <h4>
-    <a href="https://github.com/Zephyruso/zashboard" target="_blank">
-      💚 Zephyruso/zashboard
-    </a>
-    <img src="https://img.shields.io/github/stars/Zephyruso/zashboard?style=social" alt="stars" align="right">
-  </h4>
-  <p>A Dashboard Using Clash API</p>
-  <p>
-    <img src="https://img.shields.io/badge/Language-Vue-blue?style=flat-square" alt="language">
-    <img src="https://img.shields.io/badge/Starred-未知时间-green?style=flat-square" alt="starred">
-  </p>
-</div>
-
----
-
-<div align="left">
-  <h4>
-    <a href="https://github.com/groupultra/telegram-search" target="_blank">
-      🔷 groupultra/telegram-search
-    </a>
-    <img src="https://img.shields.io/github/stars/groupultra/telegram-search?style=social" alt="stars" align="right">
-  </h4>
-  <p>🔍  一个功能强大的 Telegram 聊天记录搜索工具，支持向量搜索和语义匹配。A powerful Telegram chat search tool with vector search and semantic matching capabilities.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Language-TypeScript-blue?style=flat-square" alt="language">
-    <img src="https://img.shields.io/badge/Starred-未知时间-green?style=flat-square" alt="starred">
-  </p>
-</div>
-
----
+</td>
+</tr>
+</table>
 <!-- GITHUB_STARS:END -->
 
 ## 📝 最新博客文章
 
 <!-- BLOG_POSTS:START -->
-<div align="left">
-  <h4>
-    <a href="https://catcat.blog/ikoula-fr-intel-9700k-benchmark.html" target="_blank">
-      📝 Ikoula 法国 Intel 9700K 杜甫测试
-    </a>
-  </h4>
-  <p>Ikoula是法国主机商,成立于1998年,数据中心位于法国兰斯。ikoula主要提供服务器租用和云服务器业务 […]</p>
-  <p>
-    <img src="https://img.shields.io/badge/发布时间-20250616-blue?style=flat-square" alt="date">
-    <img src="https://img.shields.io/badge/分类-服务器-green?style=flat-square" alt="category"><img src="https://img.shields.io/badge/分类-欧洲服务器-green?style=flat-square" alt="category">
-  </p>
-</div>
 
----
+<table>
+<tr>
+<td width="50%">
 
-<div align="left">
-  <h4>
-    <a href="https://catcat.blog/webnx-10g-amd-9950x-benchmark.html" target="_blank">
-      📝 WebNX 万兆 AMD 9950X 杜甫测试
-    </a>
-  </h4>
-  <p>WebNX是我一直在购买的商家，目前运营了犹他州奥格登和洛杉矶还有纽约三个地区，WebNX是 Equinix […]</p>
-  <p>
-    <img src="https://img.shields.io/badge/发布时间-20250608-blue?style=flat-square" alt="date">
-    <img src="https://img.shields.io/badge/分类-服务器-green?style=flat-square" alt="category"><img src="https://img.shields.io/badge/分类-美国服务器-green?style=flat-square" alt="category">
-  </p>
-</div>
+<ul>
+<li><a href="https://catcat.blog/ikoula-fr-intel-9700k-benchmark.html" target="_blank">📝 <strong>Ikoula 法国 Intel 9700K 杜甫测试</strong></a> <small>(06/16)</small></li>
+<li><a href="https://catcat.blog/webnx-10g-amd-9950x-benchmark.html" target="_blank">📝 <strong>WebNX 万兆 AMD 9950X 杜甫测试</strong></a> <small>(06/08)</small></li>
+<li><a href="https://catcat.blog/hetzner-de-amd-3700x-160t-hdd.html" target="_blank">📝 <strong>Hetzner 德国 AMD 3700X 160T 存储测评</strong></a> <small>(05/20)</small></li>
+</ul>
 
----
+</td>
+<td width="50%">
 
-<div align="left">
-  <h4>
-    <a href="https://catcat.blog/hetzner-de-amd-3700x-160t-hdd.html" target="_blank">
-      📝 Hetzner 德国 AMD 3700X 160T 存储测评
-    </a>
-  </h4>
-  <p>机器配置 测评 硬件检测 CPU Yabs GeekBench5 总结 其他没啥好测的，140欧的售价对于需要 […]</p>
-  <p>
-    <img src="https://img.shields.io/badge/发布时间-20250520-blue?style=flat-square" alt="date">
-    <img src="https://img.shields.io/badge/分类-存储服务器-green?style=flat-square" alt="category"><img src="https://img.shields.io/badge/分类-服务器-green?style=flat-square" alt="category">
-  </p>
-</div>
+<ul>
+<li><a href="https://catcat.blog/redswitches-ams-amd-epyc-4344p-benchmark.html" target="_blank">📝 <strong>Redswitches  荷兰万兆 AMD EPYC 4344P 测评</strong></a> <small>(05/07)</small></li>
+<li><a href="https://catcat.blog/fiberstate-10g-amd-9950x-benchmark-la.html" target="_blank">📝 <strong>Fiberstate 洛杉矶万兆 AMD 9950x 测评</strong></a> <small>(05/06)</small></li>
+</ul>
 
----
-
-<div align="left">
-  <h4>
-    <a href="https://catcat.blog/redswitches-ams-amd-epyc-4344p-benchmark.html" target="_blank">
-      📝 Redswitches  荷兰万兆 AMD EPYC 4344P 测评
-    </a>
-  </h4>
-  <p>RedSwitches是一家全球托管服务提供商，在全球 20 多个地点提供高性能专用（裸机）服务器、基础设施即 […]</p>
-  <p>
-    <img src="https://img.shields.io/badge/发布时间-20250507-blue?style=flat-square" alt="date">
-    <img src="https://img.shields.io/badge/分类-服务器-green?style=flat-square" alt="category"><img src="https://img.shields.io/badge/分类-欧洲服务器-green?style=flat-square" alt="category">
-  </p>
-</div>
-
----
-
-<div align="left">
-  <h4>
-    <a href="https://catcat.blog/fiberstate-10g-amd-9950x-benchmark-la.html" target="_blank">
-      📝 Fiberstate 洛杉矶万兆 AMD 9950x 测评
-    </a>
-  </h4>
-  <p>We have the server running in the exact specification a […]</p>
-  <p>
-    <img src="https://img.shields.io/badge/发布时间-20250506-blue?style=flat-square" alt="date">
-    <img src="https://img.shields.io/badge/分类-服务器-green?style=flat-square" alt="category"><img src="https://img.shields.io/badge/分类-美国服务器-green?style=flat-square" alt="category">
-  </p>
-</div>
-
----
+</td>
+</tr>
+</table>
 <!-- BLOG_POSTS:END -->
 
 ## 🎮 Steam 最近游戏
@@ -252,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 09:33:56 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 09:42:44 UTC<!-- UPDATE_TIME:END -->* 

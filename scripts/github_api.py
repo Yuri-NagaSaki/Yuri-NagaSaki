@@ -52,53 +52,51 @@ async def get_recent_stars(username: str, token: str, limit: int = 5) -> str:
         return f"<!-- 获取 GitHub stars 时发生错误: {str(e)} -->"
 
 def format_starred_repos(repos: List[Dict]) -> str:
-    """格式化star的仓库为markdown"""
+    """格式化star的仓库为markdown - 简洁双列布局"""
     
     if not repos:
         return "暂无最近star的项目"
     
-    markdown_lines = []
-    
+    # 创建双列布局
+    repo_items = []
     for repo in repos:
         name = repo['name']
         full_name = repo['full_name']
-        description = repo.get('description', '无描述')
+        url = repo['html_url']
         language = repo.get('language', 'Unknown')
         stars = repo['stargazers_count']
-        url = repo['html_url']
-        
-        # 获取star时间
-        starred_at = repo.get('starred_at')
-        if starred_at:
-            starred_time = datetime.fromisoformat(starred_at.replace('Z', '+00:00'))
-            time_str = starred_time.strftime('%Y-%m-%d')
-        else:
-            time_str = '未知时间'
         
         # 语言图标
         lang_icon = get_language_icon(language)
         
-        # 格式化单个仓库
-        repo_md = f"""
-<div align="left">
-  <h4>
-    <a href="{url}" target="_blank">
-      {lang_icon} {full_name}
-    </a>
-    <img src="https://img.shields.io/github/stars/{full_name}?style=social" alt="stars" align="right">
-  </h4>
-  <p>{description}</p>
-  <p>
-    <img src="https://img.shields.io/badge/Language-{language}-blue?style=flat-square" alt="language">
-    <img src="https://img.shields.io/badge/Starred-{time_str}-green?style=flat-square" alt="starred">
-  </p>
-</div>
-
----
-"""
-        markdown_lines.append(repo_md.strip())
+        # 简洁格式
+        repo_item = f'<li><a href="{url}" target="_blank">{lang_icon} <strong>{full_name}</strong></a> <img src="https://img.shields.io/github/stars/{full_name}?style=flat&color=yellow" alt="⭐"/></li>'
+        repo_items.append(repo_item)
     
-    return '\n\n'.join(markdown_lines)
+    # 分成两列
+    mid = len(repo_items) // 2 + len(repo_items) % 2
+    left_column = repo_items[:mid]
+    right_column = repo_items[mid:]
+    
+    # 生成双列HTML
+    left_list = f'<ul>\n{chr(10).join(left_column)}\n</ul>' if left_column else ''
+    right_list = f'<ul>\n{chr(10).join(right_column)}\n</ul>' if right_column else ''
+    
+    return f"""
+<table>
+<tr>
+<td width="50%">
+
+{left_list}
+
+</td>
+<td width="50%">
+
+{right_list}
+
+</td>
+</tr>
+</table>"""
 
 def get_language_icon(language: str) -> str:
     """根据编程语言返回对应的emoji图标"""

@@ -58,45 +58,46 @@ async def get_recent_posts(wordpress_url: str, limit: int = 5) -> str:
         return f"<!-- 获取 WordPress 文章时发生错误: {str(e)} -->"
 
 def format_blog_posts(posts: List[Dict], base_url: str) -> str:
-    """格式化博客文章为markdown"""
+    """格式化博客文章为markdown - 简洁双列布局"""
     
     if not posts:
         return "暂无最新博客文章"
     
-    markdown_lines = []
-    
+    # 创建双列布局
+    post_items = []
     for post in posts:
         title = html.unescape(post['title']['rendered'])
         link = post['link']
-        excerpt = clean_excerpt(post['excerpt']['rendered'])
         date_str = format_date(post['date'])
         
-        # 获取分类信息
-        categories = get_post_categories(post)
-        
-        # 获取特色图片
-        featured_image = get_featured_image(post)
-        
-        # 格式化单篇文章
-        post_md = f"""
-<div align="left">
-  <h4>
-    <a href="{link}" target="_blank">
-      📝 {title}
-    </a>
-  </h4>
-  <p>{excerpt}</p>
-  <p>
-    <img src="https://img.shields.io/badge/发布时间-{date_str}-blue?style=flat-square" alt="date">
-    {"".join([f'<img src="https://img.shields.io/badge/分类-{cat}-green?style=flat-square" alt="category">' for cat in categories[:2]])}
-  </p>
-</div>
-
----
-"""
-        markdown_lines.append(post_md.strip())
+        # 简洁格式 - 只显示标题和日期
+        post_item = f'<li><a href="{link}" target="_blank">📝 <strong>{title}</strong></a> <small>({date_str})</small></li>'
+        post_items.append(post_item)
     
-    return '\n\n'.join(markdown_lines)
+    # 分成两列
+    mid = len(post_items) // 2 + len(post_items) % 2
+    left_column = post_items[:mid]
+    right_column = post_items[mid:]
+    
+    # 生成双列HTML
+    left_list = f'<ul>\n{chr(10).join(left_column)}\n</ul>' if left_column else ''
+    right_list = f'<ul>\n{chr(10).join(right_column)}\n</ul>' if right_column else ''
+    
+    return f"""
+<table>
+<tr>
+<td width="50%">
+
+{left_list}
+
+</td>
+<td width="50%">
+
+{right_list}
+
+</td>
+</tr>
+</table>"""
 
 def clean_excerpt(excerpt: str) -> str:
     """清理文章摘要，移除HTML标签"""
@@ -123,7 +124,7 @@ def format_date(date_str: str) -> str:
     try:
         # WordPress通常返回ISO格式的日期
         date_obj = datetime.fromisoformat(date_str.replace('T', ' ').replace('Z', '+00:00'))
-        return date_obj.strftime('%Y%m%d')
+        return date_obj.strftime('%m/%d')
     except Exception:
         return '未知日期'
 
