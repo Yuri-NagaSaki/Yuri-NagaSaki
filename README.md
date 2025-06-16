@@ -140,7 +140,22 @@
 ## 🎮 Steam 最近游戏
 
 <!-- STEAM_GAMES:START -->
-<!-- Steam API 请求超时 -->
+
+<div style="border: 1px solid #30363d; border-radius: 8px; padding: 16px; margin: 8px; background: #0d1117; display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <h4 style="margin: 0 0 8px 0;">
+      <a href="https://store.steampowered.com/app/553850/" target="_blank" style="color: #58a6ff; text-decoration: none;">
+        🎮 HELLDIVERS™ 2
+      </a>
+    </h4>
+    <div style="margin: 8px 0;">
+      <img src="https://img.shields.io/badge/最近2周-25.4h-1976D2?style=flat-square" alt="recent"/>
+      <img src="https://img.shields.io/badge/总时长-40.8h-4CAF50?style=flat-square" alt="total"/>
+    </div>
+    <div></div>
+  </div>
+  
+</div>
 <!-- STEAM_GAMES:END -->
 
 ## 🏆 GitHub 奖杯
@@ -174,4 +189,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 13:39:02 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 14:05:57 UTC<!-- UPDATE_TIME:END -->* 
