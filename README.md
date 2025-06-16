@@ -11,7 +11,6 @@
 
 ## 🚀 关于我
 
-- 🔭 目前正在开发 **[你的项目名称]**
 - 🌱 正在学习 **AI/ML, Web3, 云原生技术**
 - 👯 希望合作 **开源项目**
 - 💬 可以聊聊 **技术、编程、游戏**
@@ -27,15 +26,15 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuri-NagaSaki&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuri-NagaSaki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-NagaSaki&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ## ⭐ 最近 Star 的项目
@@ -95,41 +94,27 @@
 ## 🎮 Steam 最近游戏
 
 <!-- STEAM_GAMES:START -->
-<div align="left">
-  <h4>
-    <a href="https://store.steampowered.com/app/553850/" target="_blank">
-      🎮 HELLDIVERS™ 2
-    </a>
-  </h4>
-  <p>
-    <img src="https://img.shields.io/badge/最近2周-26.9小时-blue?style=flat-square" alt="recent">
-    <img src="https://img.shields.io/badge/总时长-40.8小时-green?style=flat-square" alt="total">
-  </p>
-  <p>类型: 动作</p>
-</div>
-
----
+<!-- Steam API 请求超时 -->
 <!-- STEAM_GAMES:END -->
 
 ## 🏆 GitHub 奖杯
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yuri-NagaSaki&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 ## 📈 贡献图
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuri-NagaSaki&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ## 🔗 社交媒体
 
 <p align="center">
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://twitter.com/Yuri-NagaSaki"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://catcat.blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
+  <a href="mailto:sa@catcat.blog"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -143,4 +128,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 09:42:44 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 09:50:09 UTC<!-- UPDATE_TIME:END -->* 

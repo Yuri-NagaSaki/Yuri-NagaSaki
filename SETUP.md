@@ -18,7 +18,7 @@
 
 | Secret Name | 描述 | 获取方法 |
 |------------|------|---------|
-| `GITHUB_USERNAME` | 你的GitHub用户名 | 直接填入你的用户名 |
+| `GH_USERNAME` | 你的GitHub用户名 | 直接填入你的用户名 |
 | `GITHUB_TOKEN` | GitHub Personal Access Token | [生成方法](#github-token) |
 
 #### 可选的Secrets

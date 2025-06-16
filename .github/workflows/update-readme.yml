@@ -28,11 +28,11 @@ jobs:
         
     - name: Update README
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         WORDPRESS_URL: ${{ secrets.WORDPRESS_URL }}
         STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
         STEAM_USER_ID: ${{ secrets.STEAM_USER_ID }}
-        GITHUB_USERNAME: ${{ secrets.GITHUB_USERNAME }}
+        GH_USERNAME: ${{ secrets.GH_USERNAME }}
       run: python scripts/update_readme.py
       
     - name: Commit changes

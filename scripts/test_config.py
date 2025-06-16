@@ -15,7 +15,7 @@ async def test_all_configurations():
     
     # 测试GitHub配置
     print("\n📊 测试GitHub配置...")
-    github_username = os.getenv('GITHUB_USERNAME', input("请输入GitHub用户名: "))
+    github_username = os.getenv('GH_USERNAME', input("请输入GitHub用户名: "))
     github_token = os.getenv('GITHUB_TOKEN', input("请输入GitHub Token: "))
     
     if github_username and github_token:

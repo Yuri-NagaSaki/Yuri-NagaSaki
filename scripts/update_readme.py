@@ -21,7 +21,7 @@ async def update_readme():
     try:
         # 获取GitHub stars
         print("📊 获取GitHub stars...")
-        github_username = os.getenv('GITHUB_USERNAME', 'yourusername')
+        github_username = os.getenv('GH_USERNAME', 'yourusername')
         github_token = os.getenv('GITHUB_TOKEN')
         stars_content = await get_recent_stars(github_username, github_token)
         
