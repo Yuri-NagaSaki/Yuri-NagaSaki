@@ -91,46 +91,7 @@
         <h4 style="margin: 0 0 12px 0; color: #ffa500; font-size: 16px; text-align: center;">
           📝 最新博客文章
         </h4>
-        
-<div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(255, 165, 0, 0.08); border-left: 3px solid #ffa500;">
-  <div>
-    <a href="https://catcat.blog/ikoula-fr-intel-9700k-benchmark.html" target="_blank" style="color: #ffa500; text-decoration: none; font-weight: 500; font-size: 14px;">
-      📝 Ikoula 法国 Intel 9700K 杜甫测试
-    </a>
-  </div>
-</div>
-
-<div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(255, 165, 0, 0.08); border-left: 3px solid #ffa500;">
-  <div>
-    <a href="https://catcat.blog/webnx-10g-amd-9950x-benchmark.html" target="_blank" style="color: #ffa500; text-decoration: none; font-weight: 500; font-size: 14px;">
-      📝 WebNX 万兆 AMD 9950X 杜甫测试
-    </a>
-  </div>
-</div>
-
-<div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(255, 165, 0, 0.08); border-left: 3px solid #ffa500;">
-  <div>
-    <a href="https://catcat.blog/hetzner-de-amd-3700x-160t-hdd.html" target="_blank" style="color: #ffa500; text-decoration: none; font-weight: 500; font-size: 14px;">
-      📝 Hetzner 德国 AMD 3700X 160T 存储测评
-    </a>
-  </div>
-</div>
-
-<div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(255, 165, 0, 0.08); border-left: 3px solid #ffa500;">
-  <div>
-    <a href="https://catcat.blog/redswitches-ams-amd-epyc-4344p-benchmark.html" target="_blank" style="color: #ffa500; text-decoration: none; font-weight: 500; font-size: 14px;">
-      📝 Redswitches  荷兰万兆 AMD EPYC 4344P 测评
-    </a>
-  </div>
-</div>
-
-<div style="padding: 8px 12px; margin: 4px 0; border-radius: 6px; background: rgba(255, 165, 0, 0.08); border-left: 3px solid #ffa500;">
-  <div>
-    <a href="https://catcat.blog/fiberstate-10g-amd-9950x-benchmark-la.html" target="_blank" style="color: #ffa500; text-decoration: none; font-weight: 500; font-size: 14px;">
-      📝 Fiberstate 洛杉矶万兆 AMD 9950x 测评
-    </a>
-  </div>
-</div>
+        <div style="color: #8b949e; text-align: center; padding: 20px;">暂无最新博客文章</div>
       </td>
     </tr>
   </table>
@@ -152,9 +113,9 @@
       <img src="https://img.shields.io/badge/最近2周-25.4h-1976D2?style=flat-square" alt="recent"/>
       <img src="https://img.shields.io/badge/总时长-40.8h-4CAF50?style=flat-square" alt="total"/>
     </div>
-    <div></div>
+    <div><img src="https://img.shields.io/badge/-动作-FF6B6B?style=flat-square&logoColor=white" alt="动作"/></div>
   </div>
-  
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/9062d4d08a72c24194d02441e469688fd34fd840/header_schinese.jpg?t=1749837289" alt="HELLDIVERS™ 2" style="width: 120px; height: 45px; border-radius: 4px; margin-left: 16px;"/>
 </div>
 <!-- STEAM_GAMES:END -->
 
@@ -189,4 +150,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 14:05:57 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-16 14:06:43 UTC<!-- UPDATE_TIME:END -->* 
