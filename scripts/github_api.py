@@ -6,7 +6,7 @@ import asyncio
 from datetime import datetime, timezone
 from typing import List, Dict, Optional
 
-async def get_recent_stars(username: str, token: str, limit: int = 5) -> str:
+async def get_recent_stars(username: str, token: str, limit: int = 5, return_data: bool = False):
     """
     获取用户最近star的项目
     
@@ -14,12 +14,15 @@ async def get_recent_stars(username: str, token: str, limit: int = 5) -> str:
         username: GitHub用户名
         token: GitHub personal access token
         limit: 返回项目数量限制
+        return_data: 是否返回原始数据而不是格式化的markdown
     
     Returns:
-        格式化的markdown字符串
+        格式化的markdown字符串或原始数据列表
     """
     
     if not token:
+        if return_data:
+            return []
         return "<!-- 请在GitHub Secrets中设置GITHUB_TOKEN -->"
     
     headers = {
@@ -40,15 +43,25 @@ async def get_recent_stars(username: str, token: str, limit: int = 5) -> str:
             async with session.get(url, headers=headers, params=params) as response:
                 if response.status == 200:
                     repos = await response.json()
+                    if return_data:
+                        return repos
                     return format_starred_repos(repos)
                 elif response.status == 401:
+                    if return_data:
+                        return []
                     return "<!-- GitHub Token 无效或已过期 -->"
                 elif response.status == 404:
+                    if return_data:
+                        return []
                     return f"<!-- 用户 {username} 不存在 -->"
                 else:
+                    if return_data:
+                        return []
                     return f"<!-- GitHub API 错误: {response.status} -->"
                     
     except Exception as e:
+        if return_data:
+            return []
         return f"<!-- 获取 GitHub stars 时发生错误: {str(e)} -->"
 
 def format_starred_repos(repos: List[Dict]) -> str:

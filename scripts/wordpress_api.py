@@ -8,19 +8,22 @@ from typing import List, Dict, Optional
 import html
 import re
 
-async def get_recent_posts(wordpress_url: str, limit: int = 5) -> str:
+async def get_recent_posts(wordpress_url: str, limit: int = 5, return_data: bool = False):
     """
     从WordPress站点获取最新文章
     
     Args:
         wordpress_url: WordPress站点URL
         limit: 返回文章数量限制
+        return_data: 是否返回原始数据而不是格式化的markdown
     
     Returns:
-        格式化的markdown字符串
+        格式化的markdown字符串或原始数据列表
     """
     
     if not wordpress_url:
+        if return_data:
+            return []
         return "<!-- 请在GitHub Secrets中设置WORDPRESS_URL -->"
     
     # 确保URL格式正确
@@ -46,15 +49,35 @@ async def get_recent_posts(wordpress_url: str, limit: int = 5) -> str:
             async with session.get(api_url, headers=headers, params=params, timeout=10) as response:
                 if response.status == 200:
                     posts = await response.json()
+                    if return_data:
+                        # 处理数据，提取需要的字段
+                        processed_posts = []
+                        for post in posts:
+                            processed_post = {
+                                'title': html.unescape(post['title']['rendered']),
+                                'link': post['link'],
+                                'date': post['date'],
+                                'categories': get_post_categories(post)
+                            }
+                            processed_posts.append(processed_post)
+                        return processed_posts
                     return format_blog_posts(posts, wordpress_url)
                 elif response.status == 404:
+                    if return_data:
+                        return []
                     return f"<!-- WordPress站点 {wordpress_url} 不存在或未启用REST API -->"
                 else:
+                    if return_data:
+                        return []
                     return f"<!-- WordPress API 错误: {response.status} -->"
                     
     except asyncio.TimeoutError:
+        if return_data:
+            return []
         return "<!-- WordPress API 请求超时 -->"
     except Exception as e:
+        if return_data:
+            return []
         return f"<!-- 获取 WordPress 文章时发生错误: {str(e)} -->"
 
 def format_blog_posts(posts: List[Dict], base_url: str) -> str:
