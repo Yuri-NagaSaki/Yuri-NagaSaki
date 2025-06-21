@@ -39,6 +39,36 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
+        <a href="https://github.com/jdx/mise" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          jdx/mise
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">dev tools, env vars, task runner</div>
+      <div style="margin-top: 6px;"><span style="color: #dea584; font-size: 12px;">● Rust</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
+        <a href="https://github.com/psviderski/unregistry" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          psviderski/unregistry
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Push docker images directly to remote servers without an external registry</div>
+      <div style="margin-top: 6px;"><span style="color: #00add8; font-size: 12px;">● Go</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
         <a href="https://github.com/iamgio/quarkdown" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
           iamgio/quarkdown
         </a>
@@ -78,36 +108,6 @@
     </div>
   </div>
 </div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/Kuingsmile/PicList" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          Kuingsmile/PicList
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">An image upload and manage tool, base on PicGo</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/Afilmory/Afilmory" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          Afilmory/Afilmory
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">A personal photography website celebrating the art of capturing moments with a n...</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
 <!-- GITHUB_STARS:END -->
 
 ## <div align="center">🎮 Steam 最近游戏</div>
@@ -132,6 +132,34 @@
     </div>
     <div style="text-align: right; flex-shrink: 0; background: rgba(88, 166, 255, 0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(88, 166, 255, 0.2);">
       <div style="color: #58a6ff; font-size: 24px; font-weight: 800; line-height: 1; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">40.8</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px; font-weight: 500; letter-spacing: 0.5px;">小时</div>
+      <div style="margin-top: 8px; padding-top: 8px; border-top: 1px solid rgba(88, 166, 255, 0.2);">
+        <div style="color: #8b949e; font-size: 10px; opacity: 0.8; margin-bottom: 2px;">最后运行</div>
+        <div style="color: #f0f6fc; font-size: 12px; font-weight: 500;">未知</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 12px; padding: 18px; border: 1px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.4); transition: transform 0.2s ease;">
+  <div style="display: flex; align-items: center; gap: 18px;">
+    <div style="flex-shrink: 0; position: relative;">
+      <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350200/d2351dd420c87970ff90fdad0681bed609754c4c/header_schinese.jpg?t=1750471153" width="120" height="90" alt="情感反诈模拟器" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"/>
+      <div style="position: absolute; top: -8px; right: -8px; background: #ffd700; color: #000; font-size: 16px; width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.3);">🎮</div>
+    </div>
+    <div style="flex: 1; text-align: left; min-width: 0;">
+      <div style="margin-bottom: 8px;">
+        <a href="https://store.steampowered.com/app/3350200/" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 700; font-size: 19px; line-height: 1.2; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">
+          情感反诈模拟器
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-bottom: 10px; line-height: 1.5; opacity: 0.9;">“多来几条这样的笨鱼就好了...比狗还听话！”在首款情感反诈互动影游中，直面“她们”的真实面目。你将扮演“情感猎手”，周旋、试探、反击“情感欺诈”组织，识破谎言...</div>
+      <div style="color: #ffd700; font-size: 14px; margin-bottom: 8px; font-weight: 600; display: flex; align-items: center; gap: 6px;"><span style="font-size: 16px;">🏆</span>成就: 5/39 (12.8%)</div>
+      <div style="background: #21262d; border-radius: 6px; padding: 2px; margin-top: 6px;"><div style="background: linear-gradient(90deg, #ffd700, #ffed4e); height: 6px; border-radius: 3px; width: 25px; max-width: 200px;"></div></div>
+    </div>
+    <div style="text-align: right; flex-shrink: 0; background: rgba(88, 166, 255, 0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(88, 166, 255, 0.2);">
+      <div style="color: #58a6ff; font-size: 24px; font-weight: 800; line-height: 1; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">0.5</div>
       <div style="color: #8b949e; font-size: 11px; margin-top: 2px; font-weight: 500; letter-spacing: 0.5px;">小时</div>
       <div style="margin-top: 8px; padding-top: 8px; border-top: 1px solid rgba(88, 166, 255, 0.2);">
         <div style="color: #8b949e; font-size: 10px; opacity: 0.8; margin-bottom: 2px;">最后运行</div>
@@ -173,4 +201,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-20 02:33:17 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-21 02:32:23 UTC<!-- UPDATE_TIME:END -->* 
