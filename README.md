@@ -39,6 +39,36 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
+        <a href="https://github.com/liriliri/rem" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          liriliri/rem
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Rclone desktop app</div>
+      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
+        <a href="https://github.com/zxh326/kite" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          zxh326/kite
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🪁 A modern, lightweight Kubernetes dashboard</div>
+      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
         <a href="https://github.com/gabehf/Koito" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
           gabehf/Koito
         </a>
@@ -75,36 +105,6 @@
       </div>
       <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Push docker images directly to remote servers without an external registry</div>
       <div style="margin-top: 6px;"><span style="color: #00add8; font-size: 12px;">● Go</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/iamgio/quarkdown" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          iamgio/quarkdown
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🪐 Markdown with superpowers — from ideas to presentations, articles and books.</div>
-      <div style="margin-top: 6px;"><span style="color: #f18e33; font-size: 12px;">● Kotlin</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/DavidHDev/react-bits" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          DavidHDev/react-bits
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">An open source collection of animated, interactive & fully customizable React co...</div>
-      <div style="margin-top: 6px;"><span style="color: #f1e05a; font-size: 12px;">● JavaScript</span></div>
     </div>
   </div>
 </div>
@@ -168,6 +168,34 @@
     </div>
   </div>
 </div>
+
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 12px; padding: 18px; border: 1px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.4); transition: transform 0.2s ease;">
+  <div style="display: flex; align-items: center; gap: 18px;">
+    <div style="flex-shrink: 0; position: relative;">
+      <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3418570/3ecfde9ce2b88e00514a2986a5e8b8fc91b37420/header.jpg?t=1751007908" width="120" height="90" alt="Summer Pockets REFLECTION BLUE" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"/>
+      <div style="position: absolute; top: -8px; right: -8px; background: #ffd700; color: #000; font-size: 16px; width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.3);">🎮</div>
+    </div>
+    <div style="flex: 1; text-align: left; min-width: 0;">
+      <div style="margin-bottom: 8px;">
+        <a href="https://store.steampowered.com/app/3418570/" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 700; font-size: 19px; line-height: 1.2; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">
+          Summer Pockets REFLECTION BLUE
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-bottom: 10px; line-height: 1.5; opacity: 0.9;">无论何时—— 都铭记着那片夏日的湛蓝。视觉小说制作组“Key”带来的盛夏故事《Summer Pockets》加入了新的女主角和新的线路，经过升级强化后的《Sum...</div>
+      <div style="color: #ffd700; font-size: 14px; margin-bottom: 8px; font-weight: 600; display: flex; align-items: center; gap: 6px;"><span style="font-size: 16px;">🏆</span>成就: 0/23 (0.0%)</div>
+      <div style="background: #21262d; border-radius: 6px; padding: 2px; margin-top: 6px;"><div style="background: linear-gradient(90deg, #ffd700, #ffed4e); height: 6px; border-radius: 3px; width: 0px; max-width: 200px;"></div></div>
+    </div>
+    <div style="text-align: right; flex-shrink: 0; background: rgba(88, 166, 255, 0.1); padding: 12px; border-radius: 8px; border: 1px solid rgba(88, 166, 255, 0.2);">
+      <div style="color: #58a6ff; font-size: 24px; font-weight: 800; line-height: 1; text-shadow: 0 1px 2px rgba(0,0,0,0.3);">0.0</div>
+      <div style="color: #8b949e; font-size: 11px; margin-top: 2px; font-weight: 500; letter-spacing: 0.5px;">小时</div>
+      <div style="margin-top: 8px; padding-top: 8px; border-top: 1px solid rgba(88, 166, 255, 0.2);">
+        <div style="color: #8b949e; font-size: 10px; opacity: 0.8; margin-bottom: 2px;">最后运行</div>
+        <div style="color: #f0f6fc; font-size: 12px; font-weight: 500;">未知</div>
+      </div>
+    </div>
+  </div>
+</div>
 <!-- STEAM_GAMES:END -->
 
 ## <div align="center">🏆 GitHub 奖杯</div>
@@ -201,4 +229,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-27 02:34:36 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-06-28 02:32:38 UTC<!-- UPDATE_TIME:END -->* 
