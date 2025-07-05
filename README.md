@@ -39,6 +39,21 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
+        <a href="https://github.com/rustfs/rustfs" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          rustfs/rustfs
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🚀 High-performance distributed object storage for MinIO  alternative.</div>
+      <div style="margin-top: 6px;"><span style="color: #dea584; font-size: 12px;">● Rust</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
         <a href="https://github.com/pgsty/pigsty" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
           pgsty/pigsty
         </a>
@@ -93,21 +108,6 @@
     </div>
   </div>
 </div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/liriliri/rem" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          liriliri/rem
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Rclone desktop app</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
 <!-- GITHUB_STARS:END -->
 
 ## <div align="center">🎮 Steam 最近游戏</div>
@@ -117,7 +117,7 @@
 <div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 12px; padding: 18px; border: 1px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.4); transition: transform 0.2s ease;">
   <div style="display: flex; align-items: center; gap: 18px;">
     <div style="flex-shrink: 0; position: relative;">
-      <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350200/d2351dd420c87970ff90fdad0681bed609754c4c/header_schinese.jpg?t=1750518578" width="120" height="90" alt="情感反诈模拟器" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"/>
+      <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3350200/d2351dd420c87970ff90fdad0681bed609754c4c/header_schinese.jpg?t=1751649079" width="120" height="90" alt="情感反诈模拟器" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"/>
       <div style="position: absolute; top: -8px; right: -8px; background: #ffd700; color: #000; font-size: 16px; width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.3);">🎮</div>
     </div>
     <div style="flex: 1; text-align: left; min-width: 0;">
@@ -201,4 +201,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-07-04 02:34:00 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-07-05 02:32:31 UTC<!-- UPDATE_TIME:END -->* 
