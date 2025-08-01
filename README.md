@@ -73,7 +73,7 @@
           senshinya/MoonTV
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">一个开箱即用的、跨平台的影视聚合播放站</div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/+K8GaaVx-xrc0YmVk</div>
       <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
     </div>
   </div>
@@ -173,4 +173,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-07-31 02:42:13 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-08-01 02:49:37 UTC<!-- UPDATE_TIME:END -->* 
