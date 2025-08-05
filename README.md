@@ -39,11 +39,26 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/Infisical/infisical" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          Infisical/infisical
+        <a href="https://github.com/Abdenasser/neohtop" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          Abdenasser/neohtop
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Infisical is the open-source platform for secrets management, PKI, and SSH acces...</div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">💪🏻 Blazing-fast system monitoring for your desktop (built with Rust, Tauri & Sve...</div>
+      <div style="margin-top: 6px;"><span style="color: #8b949e; font-size: 12px;">● Svelte</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
+        <a href="https://github.com/rcourtman/Pulse" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          rcourtman/Pulse
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">A responsive monitoring application for Proxmox VE that displays real-time metri...</div>
       <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
     </div>
   </div>
@@ -54,11 +69,11 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/AmusementClub/AssFontSubset" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          AmusementClub/AssFontSubset
+        <a href="https://github.com/sn4k3/NetSonar" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          sn4k3/NetSonar
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">生成 ASS 字幕文件的字体子集，并自动修改字体名称及 ASS 文件中对应的字体名称</div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Network pings and other utilities</div>
       <div style="margin-top: 6px;"><span style="color: #8b949e; font-size: 12px;">● C#</span></div>
     </div>
   </div>
@@ -69,12 +84,12 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/WCY-dt/my-github-2024" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          WCY-dt/my-github-2024
+        <a href="https://github.com/oterin/sodalite" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          oterin/sodalite
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Statistics of your activities on GitHub in 2024. 统计2024年你在GitHub上的活动.</div>
-      <div style="margin-top: 6px;"><span style="color: #3776ab; font-size: 12px;">● Python</span></div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">open. paste. save.</div>
+      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
     </div>
   </div>
 </div>
@@ -84,26 +99,11 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/bin456789/reinstall" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          bin456789/reinstall
+        <a href="https://github.com/huhusmang/Subscription-Management" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          huhusmang/Subscription-Management
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">一键DD/重装脚本 (One-click reinstall OS on VPS)</div>
-      <div style="margin-top: 6px;"><span style="color: #89e051; font-size: 12px;">● Shell</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/senshinya/MoonTV" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          senshinya/MoonTV
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">一个开箱即用的、跨平台的影视聚合播放站。交流群：https://t.me/+K8GaaVx-xrc0YmVk</div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Manage and track your subscriptions and expenses easily.</div>
       <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
     </div>
   </div>
@@ -173,4 +173,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-08-04 02:48:42 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-08-05 02:44:54 UTC<!-- UPDATE_TIME:END -->* 
