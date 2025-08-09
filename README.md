@@ -117,7 +117,7 @@
 <div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 12px; padding: 18px; border: 1px solid #30363d; box-shadow: 0 4px 12px rgba(0,0,0,0.4); transition: transform 0.2s ease;">
   <div style="display: flex; align-items: center; gap: 18px;">
     <div style="flex-shrink: 0; position: relative;">
-      <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1711128146" width="120" height="90" alt="Stardew Valley" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"/>
+      <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865" width="120" height="90" alt="Stardew Valley" style="border-radius: 10px; border: 2px solid #30363d; box-shadow: 0 2px 8px rgba(0,0,0,0.3);"/>
       <div style="position: absolute; top: -8px; right: -8px; background: #ffd700; color: #000; font-size: 16px; width: 24px; height: 24px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; box-shadow: 0 2px 4px rgba(0,0,0,0.3);">🎮</div>
     </div>
     <div style="flex: 1; text-align: left; min-width: 0;">
@@ -173,4 +173,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-08-08 02:43:19 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-08-09 02:34:17 UTC<!-- UPDATE_TIME:END -->* 
