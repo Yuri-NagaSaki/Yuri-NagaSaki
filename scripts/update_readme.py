@@ -6,7 +6,6 @@ import re
 import asyncio
 from datetime import datetime, timezone
 from github_api import get_recent_stars
-from steam_api import get_recent_games
 
 async def update_readme():
     """更新README.md文件中的动态内容"""
@@ -28,14 +27,6 @@ async def update_readme():
         # 生成Star项目内容
         stars_content = format_stars_content(stars_data)
         
-        # 获取Steam游戏
-        print("🎮 获取Steam游戏...")
-        steam_api_key = os.getenv('STEAM_API_KEY')
-        steam_user_id = os.getenv('STEAM_USER_ID')
-        if steam_api_key and steam_user_id:
-            steam_content = await get_recent_games(steam_api_key, steam_user_id)
-        else:
-            steam_content = "<!-- 请在GitHub Secrets中设置STEAM_API_KEY和STEAM_USER_ID -->"
         
         # 更新README内容
         print("✏️ 更新README内容...")
@@ -56,10 +47,10 @@ async def update_readme():
             flags=re.DOTALL
         )
         
-        # 更新Steam游戏部分
+        # 移除Steam游戏部分
         content = re.sub(
-            r'<!-- STEAM_GAMES:START -->.*?<!-- STEAM_GAMES:END -->',
-            f'<!-- STEAM_GAMES:START -->\n{steam_content}\n<!-- STEAM_GAMES:END -->',
+            r'## <div align="center">🎮 Steam 最近游戏</div>.*?<!-- STEAM_GAMES:END -->\n\n',
+            '',
             content,
             flags=re.DOTALL
         )

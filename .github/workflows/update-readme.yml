@@ -31,8 +31,6 @@ jobs:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
         GH_USERNAME: ${{ secrets.GH_USERNAME }}
         WORDPRESS_URL: ${{ secrets.WORDPRESS_URL }}
-        STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
-        STEAM_USER_ID: ${{ secrets.STEAM_USER_ID }}
       run: python scripts/update_readme.py
       
     - name: Commit changes
