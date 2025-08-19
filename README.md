@@ -86,8 +86,8 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/mendableai/open-lovable" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          mendableai/open-lovable
+        <a href="https://github.com/firecrawl/open-lovable" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          firecrawl/open-lovable
         </a>
       </div>
       <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🔥 Clone and recreate any website as a modern React app in seconds</div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-08-18 02:40:38 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-08-19 02:32:16 UTC<!-- UPDATE_TIME:END -->* 
