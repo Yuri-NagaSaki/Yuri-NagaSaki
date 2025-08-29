@@ -41,6 +41,36 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
+        <a href="https://github.com/ente-io/ente" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          ente-io/ente
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🔒 End-to-end encrypted cloud for photos, videos and 2FA secrets.</div>
+      <div style="margin-top: 6px;"><span style="color: #00b4ab; font-size: 12px;">● Dart</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
+        <a href="https://github.com/StJudeWasHere/seonaut" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          StJudeWasHere/seonaut
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Open source SEO audit tool.</div>
+      <div style="margin-top: 6px;"><span style="color: #00add8; font-size: 12px;">● Go</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
         <a href="https://github.com/dimsemenov/PhotoSwipe" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
           dimsemenov/PhotoSwipe
         </a>
@@ -80,36 +110,6 @@
     </div>
   </div>
 </div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/plait-board/drawnix" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          plait-board/drawnix
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等。All in one open-source whiteboard tool with m...</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/BennyKok/comfyui-deploy" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          BennyKok/comfyui-deploy
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">An open source `vercel` like deployment platform for Comfy UI</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
 <!-- GITHUB_STARS:END -->
 
 ## <div align="center">🏆 GitHub 奖杯</div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-08-28 02:29:59 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-08-29 02:30:05 UTC<!-- UPDATE_TIME:END -->* 
