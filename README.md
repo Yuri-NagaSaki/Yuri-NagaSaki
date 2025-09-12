@@ -41,6 +41,51 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
+        <a href="https://github.com/orhun/git-cliff" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          orhun/git-cliff
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">A highly customizable Changelog Generator that follows Conventional Commit speci...</div>
+      <div style="margin-top: 6px;"><span style="color: #dea584; font-size: 12px;">● Rust</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
+        <a href="https://github.com/reshaped-ui/reshaped" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          reshaped-ui/reshaped
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Professionally crafted React & Figma components for building beautiful products ...</div>
+      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
+        <a href="https://github.com/nanostores/query" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          nanostores/query
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">⚡️ Powerful data fetching library for Nano Stores. TS/JS. Framework agnostic.</div>
+      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
         <a href="https://github.com/polius/FileSync" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
           polius/FileSync
         </a>
@@ -62,51 +107,6 @@
       </div>
       
       <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/mdx-editor/editor" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          mdx-editor/editor
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">A rich text editor React component for markdown</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/uiwjs/react-md-editor" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          uiwjs/react-md-editor
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">A simple markdown editor with preview, implemented with React.js and TypeScript....</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/contains-studio/agents" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          contains-studio/agents
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">sharing current agents in use</div>
-      
     </div>
   </div>
 </div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-09-11 02:29:07 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-09-12 02:26:33 UTC<!-- UPDATE_TIME:END -->* 
