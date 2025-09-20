@@ -41,72 +41,72 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
+        <a href="https://github.com/EgalitarianMonkey/hometube" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          EgalitarianMonkey/hometube
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">HomeTube is a featured friendly video downloader managing video URL into organiz...</div>
+      <div style="margin-top: 6px;"><span style="color: #3776ab; font-size: 12px;">● Python</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
+        <a href="https://github.com/eythaann/Seelen-UI" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          eythaann/Seelen-UI
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">The Fully Customizable Desktop Environment for Windows 10/11.</div>
+      <div style="margin-top: 6px;"><span style="color: #dea584; font-size: 12px;">● Rust</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
+        <a href="https://github.com/prometheus-pve/prometheus-pve-exporter" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          prometheus-pve/prometheus-pve-exporter
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Exposes information gathered from Proxmox VE cluster for use by the Prometheus m...</div>
+      <div style="margin-top: 6px;"><span style="color: #3776ab; font-size: 12px;">● Python</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
+        <a href="https://github.com/KoolCore/Proxmox_VE_Status" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          KoolCore/Proxmox_VE_Status
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">开源 PVE 网页后台添加处理器温度、频率，NVMe和SSD 信息的脚本工具，以及一些自用脚本</div>
+      <div style="margin-top: 6px;"><span style="color: #89e051; font-size: 12px;">● Shell</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
         <a href="https://github.com/huangxd-/danmu_api" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
           huangxd-/danmu_api
         </a>
       </div>
       <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口，并提供日志记录，支持verc...</div>
       <div style="margin-top: 6px;"><span style="color: #f1e05a; font-size: 12px;">● JavaScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/imagegenius/docker-immich" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          imagegenius/docker-immich
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Monolithic (Single) Docker Container for Immich</div>
-      <div style="margin-top: 6px;"><span style="color: #8b949e; font-size: 12px;">● Dockerfile</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/manticoresoftware/manticoresearch" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          manticoresoftware/manticoresearch
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Easy to use open source fast database for search | Good alternative to Elasticse...</div>
-      <div style="margin-top: 6px;"><span style="color: #f34b7d; font-size: 12px;">● C++</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/nicokaiser/hugo-theme-gallery" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          nicokaiser/hugo-theme-gallery
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Gallery Theme for Hugo</div>
-      <div style="margin-top: 6px;"><span style="color: #f1e05a; font-size: 12px;">● JavaScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/sambecker/exif-photo-blog" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          sambecker/exif-photo-blog
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Photo blog, reporting 🤓 EXIF camera details (aperture, shutter speed, ISO) for e...</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
     </div>
   </div>
 </div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-09-19 02:29:21 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-09-20 02:26:06 UTC<!-- UPDATE_TIME:END -->* 
