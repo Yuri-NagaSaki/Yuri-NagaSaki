@@ -45,7 +45,7 @@
           EgalitarianMonkey/hometube
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">HomeTube is a featured friendly video downloader managing video URL into organiz...</div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">HomeTube is a friendly video downloader managing single video URL into organized...</div>
       <div style="margin-top: 6px;"><span style="color: #3776ab; font-size: 12px;">● Python</span></div>
     </div>
   </div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-09-20 02:26:06 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-09-21 02:31:46 UTC<!-- UPDATE_TIME:END -->* 
