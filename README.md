@@ -41,12 +41,12 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/GoogleContainerTools/distroless" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          GoogleContainerTools/distroless
+        <a href="https://github.com/explodingcamera/liwan" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          explodingcamera/liwan
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🥑  Language focused docker images, minus the operating system.  </div>
-      <div style="margin-top: 6px;"><span style="color: #8b949e; font-size: 12px;">● Starlark</span></div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">liwan - Lightweight Analytics</div>
+      <div style="margin-top: 6px;"><span style="color: #dea584; font-size: 12px;">● Rust</span></div>
     </div>
   </div>
 </div>
@@ -56,12 +56,12 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/Mapleawaa/PVE-Tools-9" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          Mapleawaa/PVE-Tools-9
+        <a href="https://github.com/cenodude/CrossWatch" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          cenodude/CrossWatch
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">一个专为PVE9（Debian13）设计的维护、新装、换源的一键脚本。功能包括不限于：功能包括但不限于：更换清华镜像源、移除订阅弹窗、合并 local 与 lo...</div>
-      <div style="margin-top: 6px;"><span style="color: #89e051; font-size: 12px;">● Shell</span></div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Synchronize your data across Plex, Jellyfin, SIMKL, Trakt, and more. Keep your m...</div>
+      <div style="margin-top: 6px;"><span style="color: #3776ab; font-size: 12px;">● Python</span></div>
     </div>
   </div>
 </div>
@@ -71,11 +71,11 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/fish2018/pansou" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          fish2018/pansou
+        <a href="https://github.com/thomiceli/opengist" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          thomiceli/opengist
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。...</div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Self-hosted pastebin powered by Git, open-source alternative to Github Gist.</div>
       <div style="margin-top: 6px;"><span style="color: #00add8; font-size: 12px;">● Go</span></div>
     </div>
   </div>
@@ -86,11 +86,11 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/DrizzleTime/Foxel" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          DrizzleTime/Foxel
+        <a href="https://github.com/formbricks/formbricks" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          formbricks/formbricks
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">A highly extensible private cloud storage solution for individuals and teams, fe...</div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Open Source Qualtrics Alternative</div>
       <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
     </div>
   </div>
@@ -101,12 +101,12 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/HoshinoSuzumi/chronoframe" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          HoshinoSuzumi/chronoframe
+        <a href="https://github.com/kuvasz-uptime/kuvasz" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          kuvasz-uptime/kuvasz
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">在线照片管理和相册应用，瀑布流式相册、Live Photo 支持、智能 EXIF 解析、地理位置识别和探索地图以及在线照片管理</div>
-      <div style="margin-top: 6px;"><span style="color: #4fc08d; font-size: 12px;">● Vue</span></div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Kuvasz (pronounce as [ˈkuvɒs]) is an open-source uptime and SSL monitoring servi...</div>
+      <div style="margin-top: 6px;"><span style="color: #f18e33; font-size: 12px;">● Kotlin</span></div>
     </div>
   </div>
 </div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-09-29 02:30:19 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-09-30 02:27:49 UTC<!-- UPDATE_TIME:END -->* 
