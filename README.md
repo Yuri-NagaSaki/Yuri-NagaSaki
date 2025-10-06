@@ -45,7 +45,7 @@
           tw93/Mole
         </a>
       </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🦡  Dig deep like a mole to clean your Mac. 🦡 像鼹鼠一样深入挖掘来清理您的 Mac</div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🐹 Dig deep like a mole to clean you Mac. 像鼹鼠一样深入挖掘来清理你的 Mac</div>
       <div style="margin-top: 6px;"><span style="color: #89e051; font-size: 12px;">● Shell</span></div>
     </div>
   </div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-10-05 02:31:53 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-10-06 02:29:37 UTC<!-- UPDATE_TIME:END -->* 
