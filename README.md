@@ -41,6 +41,21 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
+        <a href="https://github.com/voderl/font-slice" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          voderl/font-slice
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">slice chinese fonts into small slices</div>
+      <div style="margin-top: 6px;"><span style="color: #f1e05a; font-size: 12px;">● JavaScript</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
         <a href="https://github.com/YJesus/Unhide" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
           YJesus/Unhide
         </a>
@@ -95,21 +110,6 @@
     </div>
   </div>
 </div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/0xfurai/peekaping" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          0xfurai/peekaping
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🚀 Modern self-hosted uptime monitoring solution - Monitor websites, APIs, and se...</div>
-      <div style="margin-top: 6px;"><span style="color: #00add8; font-size: 12px;">● Go</span></div>
-    </div>
-  </div>
-</div>
 <!-- GITHUB_STARS:END -->
 
 ## <div align="center">🏆 GitHub 奖杯</div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-10-11 02:25:57 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-10-12 02:30:34 UTC<!-- UPDATE_TIME:END -->* 
