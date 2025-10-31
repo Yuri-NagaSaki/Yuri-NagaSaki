@@ -41,6 +41,21 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
+        <a href="https://github.com/TanStack/router" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          TanStack/router
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🤖 A client-first, server-capable, fully type-safe router and full-stack framewor...</div>
+      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
         <a href="https://github.com/NVIDIA/cutlass" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
           NVIDIA/cutlass
         </a>
@@ -95,21 +110,6 @@
     </div>
   </div>
 </div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/hcloud-k8s/terraform-hcloud-kubernetes" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          hcloud-k8s/terraform-hcloud-kubernetes
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Terraform Module to Deploy a Highly Available, Production-Ready Talos Kubernetes...</div>
-      <div style="margin-top: 6px;"><span style="color: #8b949e; font-size: 12px;">● HCL</span></div>
-    </div>
-  </div>
-</div>
 <!-- GITHUB_STARS:END -->
 
 ## <div align="center">🏆 GitHub 奖杯</div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-10-30 02:32:24 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-10-31 02:32:00 UTC<!-- UPDATE_TIME:END -->* 
