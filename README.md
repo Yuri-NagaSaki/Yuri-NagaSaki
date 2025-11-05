@@ -61,7 +61,7 @@
         </a>
       </div>
       <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange...</div>
-      <div style="margin-top: 6px;"><span style="color: #00add8; font-size: 12px;">● Go</span></div>
+      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
     </div>
   </div>
 </div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-11-04 02:32:18 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-11-05 02:32:42 UTC<!-- UPDATE_TIME:END -->* 
