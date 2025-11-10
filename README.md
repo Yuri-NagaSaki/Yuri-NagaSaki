@@ -41,6 +41,21 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
+        <a href="https://github.com/Alice39s/cloudflare-custom-pages-nextjs" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          Alice39s/cloudflare-custom-pages-nextjs
+        </a>
+      </div>
+      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">A beautiful, out-of-the-box Cloudflare WAF custom page template.</div>
+      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
+    </div>
+  </div>
+</div>
+
+<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
+  <div style="display: flex; align-items: center; gap: 12px;">
+    <div style="color: #ffd700; font-size: 18px;">⭐</div>
+    <div style="flex: 1; text-align: left;">
+      <div>
         <a href="https://github.com/prinsss/twitter-web-exporter" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
           prinsss/twitter-web-exporter
         </a>
@@ -76,7 +91,7 @@
         </a>
       </div>
       <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">NOFX: Defining the Next-Generation AI Trading Operating System. A multi-exchange...</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
+      <div style="margin-top: 6px;"><span style="color: #00add8; font-size: 12px;">● Go</span></div>
     </div>
   </div>
 </div>
@@ -92,21 +107,6 @@
       </div>
       <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">🤖 A client-first, server-capable, fully type-safe router and full-stack framewor...</div>
       <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/NVIDIA/cutlass" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          NVIDIA/cutlass
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">CUDA Templates and Python DSLs for High-Performance Linear Algebra</div>
-      <div style="margin-top: 6px;"><span style="color: #f34b7d; font-size: 12px;">● C++</span></div>
     </div>
   </div>
 </div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-11-09 02:33:04 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2025-11-10 02:34:03 UTC<!-- UPDATE_TIME:END -->* 
