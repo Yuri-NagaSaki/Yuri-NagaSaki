@@ -41,8 +41,8 @@
     <div style="color: #ffd700; font-size: 18px;">⭐</div>
     <div style="flex: 1; text-align: left;">
       <div>
-        <a href="https://github.com/ZeroHawkeye/PenBridge" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          ZeroHawkeye/PenBridge
+        <a href="https://github.com/zerx-lab/PenBridge" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
+          zerx-lab/PenBridge
         </a>
       </div>
       <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">一键发布多个平台文章</div>
@@ -143,4 +143,4 @@
 </p>
 
 ---
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2026-01-05 02:47:13 UTC<!-- UPDATE_TIME:END -->* 
+*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2026-01-06 02:39:10 UTC<!-- UPDATE_TIME:END -->* 
