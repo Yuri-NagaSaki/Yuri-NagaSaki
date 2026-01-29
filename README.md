@@ -1,146 +1,26 @@
-# <div align="center">Hi there! 👋 我是 Yuri-NagaSaki</div>
+# Hi there! 👋 我是 Yuri-NagaSaki
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=全栈开发者;开源爱好者;终身学习者;代码改变世界" alt="Typing SVG" />
-</p>
+简短的一句话自我介绍（静态）。
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yuri-NagaSaki&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Yuri-NagaSaki?label=Followers&style=social" alt="followers">
-</p>
-
-## <div align="center">🛠️ 技术栈</div>
+## 🛠️ 技术栈
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vue,nodejs,docker,kubernetes,aws,gcp,linux,git,vscode,figma" />
 </p>
 
-## <div align="center">📊 GitHub 统计</div>
+## 📊 GitHub 统计
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuri-NagaSaki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td align="center" width="50%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuri-NagaSaki&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
+[![GitHub State](https://git-stats.cosine.ren/api?username=yusixian&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-rust-tau.vercel.app/?user=yusixian&theme=dark&hide_border=true&card_width=470)](https://git.io/streak-stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuri-NagaSaki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=yusixian&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
-## <div align="center">🌟 最近动态</div>
-
-<!-- GITHUB_STARS:START -->
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/Dimillian/CodexMonitor" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          Dimillian/CodexMonitor
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">An app to monitor the (Codex) situation</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/ajayyy/SponsorBlock" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          ajayyy/SponsorBlock
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Skip YouTube video sponsors (browser extension)</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/nexmoe/VidBee" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          nexmoe/VidBee
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Download videos from almost any website worldwide</div>
-      <div style="margin-top: 6px;"><span style="color: #2b7489; font-size: 12px;">● TypeScript</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/oplivilqo/manosaba_text_box" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          oplivilqo/manosaba_text_box
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">魔法少女的魔女裁判的文本框脚本，具体使用方式为按下enter自动生成图片并发送</div>
-      <div style="margin-top: 6px;"><span style="color: #555555; font-size: 12px;">● C</span></div>
-    </div>
-  </div>
-</div>
-
-<div align="center" style="max-width: 700px; margin: 8px auto; background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); border-radius: 10px; padding: 16px; border: 1px solid #30363d;">
-  <div style="display: flex; align-items: center; gap: 12px;">
-    <div style="color: #ffd700; font-size: 18px;">⭐</div>
-    <div style="flex: 1; text-align: left;">
-      <div>
-        <a href="https://github.com/Dammyjay93/interface-design" target="_blank" style="color: #58a6ff; text-decoration: none; font-weight: 600; font-size: 16px;">
-          Dammyjay93/interface-design
-        </a>
-      </div>
-      <div style="color: #8b949e; font-size: 13px; margin-top: 4px;">Design engineering for Claude Code. Craft, memory, and enforcement for consisten...</div>
-      <div style="margin-top: 6px;"><span style="color: #89e051; font-size: 12px;">● Shell</span></div>
-    </div>
-  </div>
-</div>
-<!-- GITHUB_STARS:END -->
-
-## <div align="center">🏆 GitHub 奖杯</div>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yuri-NagaSaki&theme=onedark&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
-</p>
-
-## <div align="center">📈 贡献图</div>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuri-NagaSaki&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-
-## <div align="center">🔗 社交媒体</div>
+## 🔗 社交媒体
 
 <p align="center">
   <a href="https://twitter.com/Yuri-NagaSaki"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://catcat.blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
   <a href="mailto:sa@catcat.blog"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-
----
-
-<p align="center">
-  <i>⭐️ 如果你喜欢我的项目，请给它们一个星星！</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" />
-</p>
-
----
-*此页面由 GitHub Actions 自动更新 - 最后更新时间: <!-- UPDATE_TIME:START -->2026-01-29 02:54:57 UTC<!-- UPDATE_TIME:END -->* 
