@@ -1,12 +1,10 @@
 # Hi there! 👋 我是 Yuri-NagaSaki
 
-简短的一句话自我介绍（静态）。
+未知不过是挥之不去的迷雾，而知识才是世界的基石。
 
 ## 🛠️ 技术栈
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vue,nodejs,docker,kubernetes,aws,gcp,linux,git,vscode,figma" />
-</p>
+Python · JavaScript · TypeScript · React · Vue · Node.js · Docker · Kubernetes · AWS · GCP · Linux · Git · VS Code · Figma
 
 ## 📊 GitHub 统计
 
@@ -19,8 +17,8 @@
 
 ## 🔗 社交媒体
 
-<p align="center">
-  <a href="https://twitter.com/Yuri-NagaSaki"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://catcat.blog"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"></a>
-  <a href="mailto:sa@catcat.blog"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+| 平台 | 链接 |
+| --- | --- |
+| Twitter | https://twitter.com/Yuri-NagaSaki |
+| Blog | https://catcat.blog |
+| Email | mailto:sa@catcat.blog |
