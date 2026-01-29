@@ -10,11 +10,11 @@
 
 ## 📊 GitHub 统计
 
-[![GitHub State](https://git-stats.cosine.ren/api?username=yusixian&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats-rust-tau.vercel.app/?user=yusixian&theme=dark&hide_border=true&card_width=470)](https://git.io/streak-stats)
+[![GitHub State](https://git-stats.cosine.ren/api?username=Yuri-NagaSaki&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats-rust-tau.vercel.app/?user=Yuri-NagaSaki&theme=dark&hide_border=true&card_width=470)](https://git.io/streak-stats)
 
 <p align="center">
-  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=yusixian&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=Yuri-NagaSaki&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
 
 ## 🔗 社交媒体
