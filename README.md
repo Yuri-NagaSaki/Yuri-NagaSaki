@@ -8,8 +8,6 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,vue,nodejs,docker,kubernetes,aws,gcp,linux,git,vscode,figma" />
 </p>
 
-Python · JavaScript · TypeScript · React · Vue · Node.js · Docker · Kubernetes · AWS · GCP · Linux · Git · VS Code · Figma
-
 ## GitHub 统计
 
 [![GitHub State](https://git-stats.cosine.ren/api?username=Yuri-NagaSaki&theme=dark&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
